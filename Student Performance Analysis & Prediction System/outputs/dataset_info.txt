@@ -1,0 +1,98 @@
+Rows: 395\nColumns: 33\nMissing values:\nschool        0
+sex           0
+age           0
+address       0
+famsize       0
+Pstatus       0
+Medu          0
+Fedu          0
+Mjob          0
+Fjob          0
+reason        0
+guardian      0
+traveltime    0
+studytime     0
+failures      0
+schoolsup     0
+famsup        0
+paid          0
+activities    0
+nursery       0
+higher        0
+internet      0
+romantic      0
+famrel        0
+freetime      0
+goout         0
+Dalc          0
+Walc          0
+health        0
+absences      0
+G1            0
+G2            0
+G3            0\nDuplicate rows: 0\n\nData types:\nschool          str
+sex             str
+age           int64
+address         str
+famsize         str
+Pstatus         str
+Medu          int64
+Fedu          int64
+Mjob            str
+Fjob            str
+reason          str
+guardian        str
+traveltime    int64
+studytime     int64
+failures      int64
+schoolsup       str
+famsup          str
+paid            str
+activities      str
+nursery         str
+higher          str
+internet        str
+romantic        str
+famrel        int64
+freetime      int64
+goout         int64
+Dalc          int64
+Walc          int64
+health        int64
+absences      int64
+G1            int64
+G2            int64
+G3            int64\n\nSummary:\n            count unique     top freq       mean       std   min   25%   50%   75%   max
+school        395      2      GP  349        NaN       NaN   NaN   NaN   NaN   NaN   NaN
+sex           395      2       F  208        NaN       NaN   NaN   NaN   NaN   NaN   NaN
+age         395.0    NaN     NaN  NaN  16.696203  1.276043  15.0  16.0  17.0  18.0  22.0
+address       395      2       U  307        NaN       NaN   NaN   NaN   NaN   NaN   NaN
+famsize       395      2     GT3  281        NaN       NaN   NaN   NaN   NaN   NaN   NaN
+Pstatus       395      2       T  354        NaN       NaN   NaN   NaN   NaN   NaN   NaN
+Medu        395.0    NaN     NaN  NaN   2.749367  1.094735   0.0   2.0   3.0   4.0   4.0
+Fedu        395.0    NaN     NaN  NaN   2.521519  1.088201   0.0   2.0   2.0   3.0   4.0
+Mjob          395      5   other  141        NaN       NaN   NaN   NaN   NaN   NaN   NaN
+Fjob          395      5   other  217        NaN       NaN   NaN   NaN   NaN   NaN   NaN
+reason        395      4  course  145        NaN       NaN   NaN   NaN   NaN   NaN   NaN
+guardian      395      3  mother  273        NaN       NaN   NaN   NaN   NaN   NaN   NaN
+traveltime  395.0    NaN     NaN  NaN   1.448101  0.697505   1.0   1.0   1.0   2.0   4.0
+studytime   395.0    NaN     NaN  NaN   2.035443   0.83924   1.0   1.0   2.0   2.0   4.0
+failures    395.0    NaN     NaN  NaN   0.334177  0.743651   0.0   0.0   0.0   0.0   3.0
+schoolsup     395      2      no  344        NaN       NaN   NaN   NaN   NaN   NaN   NaN
+famsup        395      2     yes  242        NaN       NaN   NaN   NaN   NaN   NaN   NaN
+paid          395      2      no  214        NaN       NaN   NaN   NaN   NaN   NaN   NaN
+activities    395      2     yes  201        NaN       NaN   NaN   NaN   NaN   NaN   NaN
+nursery       395      2     yes  314        NaN       NaN   NaN   NaN   NaN   NaN   NaN
+higher        395      2     yes  375        NaN       NaN   NaN   NaN   NaN   NaN   NaN
+internet      395      2     yes  329        NaN       NaN   NaN   NaN   NaN   NaN   NaN
+romantic      395      2      no  263        NaN       NaN   NaN   NaN   NaN   NaN   NaN
+famrel      395.0    NaN     NaN  NaN   3.944304  0.896659   1.0   4.0   4.0   5.0   5.0
+freetime    395.0    NaN     NaN  NaN   3.235443  0.998862   1.0   3.0   3.0   4.0   5.0
+goout       395.0    NaN     NaN  NaN   3.108861  1.113278   1.0   2.0   3.0   4.0   5.0
+Dalc        395.0    NaN     NaN  NaN   1.481013  0.890741   1.0   1.0   1.0   2.0   5.0
+Walc        395.0    NaN     NaN  NaN   2.291139  1.287897   1.0   1.0   2.0   3.0   5.0
+health      395.0    NaN     NaN  NaN    3.55443  1.390303   1.0   3.0   4.0   5.0   5.0
+absences    395.0    NaN     NaN  NaN   5.708861  8.003096   0.0   0.0   4.0   8.0  75.0
+G1          395.0    NaN     NaN  NaN  10.908861  3.319195   3.0   8.0  11.0  13.0  19.0
+G2          395.0    NaN     NaN  NaN  10.713924  3.761505   0.0   9.0  11.0  13.0  19.0
+G3          395.0    NaN     NaN  NaN   10.41519  4.581443   0.0   8.0  11.0  14.0  20.0
