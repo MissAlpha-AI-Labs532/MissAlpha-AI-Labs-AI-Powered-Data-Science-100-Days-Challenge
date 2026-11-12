@@ -1,0 +1,501 @@
+﻿review_id,date,platform,rating,product_or_service,topic,customer_review,customer_region
+REV0030,2026-08-15,YouTube,2,speaker,pricing,Not happy: The price is too high for the quality offered.,United Kingdom
+REV0053,2026-08-15,Google Reviews,3,mobile app,user_experience,"For reference, The app works for basic tasks, although some screens take time to load.",Australia
+REV0203,2026-08-15,Google Reviews,1,smart watch,customer_support,Need this fixed — The response was rude and my complaint was ignored.,United Kingdom
+REV0419,2026-08-15,X,5,subscription,user_experience,Just sharing my experience — The app is easy to use and the experience is smooth.,Australia
+REV0460,2026-08-15,Google Reviews,5,subscription,value_for_money,Great value for money. I am genuinely happy with this purchase.,United Kingdom
+REV0112,2026-08-16,Google Reviews,5,smart watch,brand_trust,Just sharing my experience — I have had a good experience with this brand so far.,Singapore
+REV0241,2026-08-16,Instagram,5,speaker,value_for_money,Great value for money. I am genuinely happy with this purchase.,Singapore
+REV0304,2026-08-16,Instagram,1,speaker,customer_support,The response was rude and my complaint was ignored.,Australia
+REV0371,2026-08-16,Google Reviews,1,smart watch,product_quality,Not happy: The product stopped working after a few days. Very disappointing.,United States
+REV0378,2026-08-16,X,1,speaker,product_quality,Not happy: The product stopped working after a few days. Very disappointing. Please improve this.,United States
+REV0383,2026-08-16,Facebook,1,smart watch,user_experience,Not happy: The app keeps crashing and the checkout process is frustrating. Hope the team sees this.,Singapore
+REV0150,2026-08-18,Instagram,5,wireless earbuds,brand_trust,Update: I have had a good experience with this brand so far.,Singapore
+REV0417,2026-08-18,X,5,mobile app,brand_trust,Update: I have had a good experience with this brand so far.,Australia
+REV0208,2026-08-19,X,3,smart watch,pricing,"For reference, The price is in the usual range for this category.",United States
+REV0441,2026-08-19,Google Reviews,3,mobile app,pricing,"For reference, The price is in the usual range for this category.",Australia
+REV0464,2026-08-19,Google Reviews,1,mobile app,user_experience,The app keeps crashing and the checkout process is frustrating.,Australia
+REV0480,2026-08-19,YouTube,1,wireless earbuds,product_quality,"Honestly, The product stopped working after a few days. Very disappointing.",United Kingdom
+REV0045,2026-08-20,X,5,mobile app,product_quality,Update: The mobile app quality is excellent and feels worth the price.,United States
+REV0170,2026-08-20,YouTube,3,wireless earbuds,customer_support,My feedback: Support shared the information I requested.,India
+REV0245,2026-08-20,Instagram,2,subscription,pricing,The price is too high for the quality offered.,United States
+REV0310,2026-08-20,Facebook,3,subscription,customer_support,"For reference, Support shared the information I requested.",United States
+REV0026,2026-08-21,Instagram,4,mobile app,customer_support,The support team was helpful and kept me updated.,India
+REV0158,2026-08-21,X,2,mobile app,product_quality,The quality feels poor and does not match the description.,Australia
+REV0194,2026-08-21,YouTube,5,smart watch,delivery,Just sharing my experience — My order arrived earlier than expected and was packed carefully.,United Kingdom
+REV0201,2026-08-21,Facebook,1,mobile app,customer_support,Need this fixed — I contacted customer support twice but nobody resolved the issue.,Singapore
+REV0210,2026-08-21,X,1,smart watch,delivery,"Honestly, My order was delayed and the tracking updates were not helpful.",United Kingdom
+REV0292,2026-08-21,X,5,speaker,customer_support,Update: Customer support resolved my issue quickly and politely. Hope the team sees this.,Singapore
+REV0470,2026-08-21,Facebook,3,speaker,features,The update includes a few changes. I am still exploring them.,United States
+REV0032,2026-08-22,Instagram,5,wireless earbuds,user_experience,Really happy: The app is easy to use and the experience is smooth.,Australia
+REV0098,2026-08-22,Google Reviews,5,speaker,brand_trust,Update: I have had a good experience with this brand so far.,India
+REV0215,2026-08-22,Instagram,1,subscription,refunds,My refund is still pending and I have not received a clear update.,Singapore
+REV0228,2026-08-22,Instagram,1,smart watch,product_quality,The product stopped working after a few days. Very disappointing.,Australia
+REV0253,2026-08-22,Facebook,2,subscription,product_quality,The quality feels poor and does not match the description.,Australia
+REV0276,2026-08-22,YouTube,5,subscription,user_experience,The app is easy to use and the experience is smooth.,United States
+REV0493,2026-08-22,Facebook,1,wireless earbuds,product_quality,Need this fixed — The product stopped working after a few days. Very disappointing.,India
+REV0019,2026-08-23,Google Reviews,5,subscription,user_experience,Really happy: The app is easy to use and the experience is smooth.,United States
+REV0038,2026-08-23,Facebook,1,mobile app,delivery,Need this fixed — The package arrived damaged and the replacement process is slow.,United Kingdom
+REV0075,2026-08-23,Instagram,1,wireless earbuds,delivery,"Honestly, The package arrived damaged and the replacement process is slow.",India
+REV0278,2026-08-23,Google Reviews,5,smart watch,product_quality,Really happy: The smart watch quality is excellent and feels worth the price. Thanks.,India
+REV0284,2026-08-23,Instagram,4,subscription,customer_support,Really happy: The support team was helpful and kept me updated.,Australia
+REV0330,2026-08-23,YouTube,3,speaker,user_experience,"My feedback: The app works for basic tasks, although some screens take time to load.",Singapore
+REV0342,2026-08-23,Google Reviews,5,smart watch,product_quality,Just sharing my experience — The smart watch quality is excellent and feels worth the price.,India
+REV0028,2026-08-24,YouTube,5,speaker,value_for_money,Just sharing my experience — Great value for money. I am genuinely happy with this purchase.,Australia
+REV0128,2026-08-24,YouTube,3,mobile app,pricing,The price is in the usual range for this category.,United Kingdom
+REV0174,2026-08-24,Google Reviews,3,smart watch,customer_support,My feedback: Support shared the information I requested.,India
+REV0218,2026-08-24,Google Reviews,4,mobile app,features,Update: The latest features are useful and make my daily work easier.,United States
+REV0221,2026-08-24,YouTube,3,speaker,product_quality,"For reference, The quality is average and similar to other products I have tried.",United States
+REV0302,2026-08-24,Instagram,3,subscription,pricing,"For reference, The product is okay for the price, but there is room for improvement.",India
+REV0317,2026-08-24,Instagram,2,wireless earbuds,product_quality,"Honestly, The quality feels poor and does not match the description.",United Kingdom
+REV0399,2026-08-24,Facebook,1,mobile app,refunds,My refund is still pending and I have not received a clear update.,United States
+REV0406,2026-08-24,Instagram,5,subscription,customer_support,Update: Customer support resolved my issue quickly and politely.,India
+REV0007,2026-08-25,Facebook,1,wireless earbuds,customer_support,Need this fixed — I contacted customer support twice but nobody resolved the issue.,India
+REV0033,2026-08-25,Facebook,1,smart watch,delivery,Not happy: The package arrived damaged and the replacement process is slow.,India
+REV0182,2026-08-25,Google Reviews,3,wireless earbuds,pricing,My feedback: The price is in the usual range for this category.,United States
+REV0213,2026-08-25,X,1,subscription,product_quality,"Honestly, The product stopped working after a few days. Very disappointing.",United Kingdom
+REV0258,2026-08-25,X,3,mobile app,delivery,"For reference, The order arrived within the estimated delivery window.",Singapore
+REV0321,2026-08-25,Google Reviews,2,wireless earbuds,product_quality,"Honestly, The quality feels poor and does not match the description.",United States
+REV0156,2026-08-26,YouTube,3,wireless earbuds,pricing,"For reference, The price is in the usual range for this category.",India
+REV0225,2026-08-26,Instagram,1,speaker,refunds,Need this fixed — My refund is still pending and I have not received a clear update.,United Kingdom
+REV0263,2026-08-26,Google Reviews,1,mobile app,user_experience,"Honestly, The app keeps crashing and the checkout process is frustrating.",United States
+REV0318,2026-08-26,Instagram,5,speaker,delivery,Update: My order arrived earlier than expected and was packed carefully.,United Kingdom
+REV0320,2026-08-26,Google Reviews,1,wireless earbuds,customer_support,Not happy: I contacted customer support twice but nobody resolved the issue.,Australia
+REV0354,2026-08-26,YouTube,3,speaker,pricing,"My feedback: The product is okay for the price, but there is room for improvement.",India
+REV0361,2026-08-26,YouTube,3,subscription,customer_support,"For reference, Support shared the information I requested.",United Kingdom
+REV0431,2026-08-26,X,4,smart watch,customer_support,Really happy: The support team was helpful and kept me updated.,Australia
+REV0491,2026-08-26,X,4,subscription,features,Update: The latest features are useful and make my daily work easier.,United Kingdom
+REV0120,2026-08-27,YouTube,3,subscription,delivery,The order arrived within the estimated delivery window.,India
+REV0367,2026-08-27,Instagram,5,smart watch,value_for_money,Great value for money. I am genuinely happy with this purchase.,United States
+REV0404,2026-08-27,YouTube,3,subscription,pricing,The price is in the usual range for this category.,India
+REV0001,2026-08-28,Google Reviews,1,mobile app,delivery,Need this fixed — My order was delayed and the tracking updates were not helpful.,India
+REV0081,2026-08-28,YouTube,1,wireless earbuds,refunds,My refund is still pending and I have not received a clear update.,United Kingdom
+REV0149,2026-08-28,YouTube,2,speaker,features,"Honestly, The feature I need is missing and the latest update made things worse.",Australia
+REV0353,2026-08-28,Facebook,1,speaker,delivery,Need this fixed — My order was delayed and the tracking updates were not helpful.,United Kingdom
+REV0425,2026-08-28,YouTube,5,mobile app,brand_trust,Just sharing my experience — I have had a good experience with this brand so far.,United States
+REV0430,2026-08-28,Instagram,1,mobile app,delivery,Not happy: My order was delayed and the tracking updates were not helpful.,United Kingdom
+REV0461,2026-08-28,YouTube,1,subscription,customer_support,"Honestly, The response was rude and my complaint was ignored.",India
+REV0476,2026-08-28,YouTube,2,smart watch,pricing,"Honestly, The price is too high for the quality offered.",Australia
+REV0013,2026-08-29,Facebook,5,subscription,delivery,My order arrived earlier than expected and was packed carefully. Please improve this.,United States
+REV0018,2026-08-29,X,3,subscription,pricing,"My feedback: The product is okay for the price, but there is room for improvement.",United Kingdom
+REV0166,2026-08-29,X,5,subscription,user_experience,Really happy: The app is easy to use and the experience is smooth.,Australia
+REV0219,2026-08-29,Instagram,2,mobile app,product_quality,"Honestly, The quality feels poor and does not match the description.",United States
+REV0274,2026-08-29,Instagram,1,mobile app,delivery,Not happy: The package arrived damaged and the replacement process is slow.,Australia
+REV0346,2026-08-29,Facebook,5,mobile app,delivery,Really happy: My order arrived earlier than expected and was packed carefully.,United Kingdom
+REV0382,2026-08-29,YouTube,2,wireless earbuds,pricing,Need this fixed — The price is too high for the quality offered.,Australia
+REV0168,2026-08-30,Instagram,5,smart watch,user_experience,Update: The app is easy to use and the experience is smooth.,Singapore
+REV0390,2026-08-30,Google Reviews,4,mobile app,product_quality,Really happy: Impressed with the build quality and reliable performance.,India
+REV0036,2026-08-31,X,3,mobile app,user_experience,"For reference, The app works for basic tasks, although some screens take time to load.",Singapore
+REV0076,2026-08-31,YouTube,3,wireless earbuds,user_experience,"The app works for basic tasks, although some screens take time to load.",India
+REV0236,2026-08-31,X,1,mobile app,refunds,"Honestly, My refund is still pending and I have not received a clear update.",Australia
+REV0358,2026-08-31,Facebook,3,wireless earbuds,brand_trust,"My feedback: This is my first purchase from the brand, so I do not have a strong opinion yet.",United States
+REV0405,2026-08-31,Facebook,3,wireless earbuds,delivery,"For reference, The order arrived within the estimated delivery window. Hope the team sees this.",Singapore
+REV0479,2026-08-31,Facebook,4,wireless earbuds,customer_support,Just sharing my experience — The support team was helpful and kept me updated.,India
+REV0040,2026-09-01,X,1,mobile app,delivery,Not happy: The package arrived damaged and the replacement process is slow.,India
+REV0324,2026-09-01,X,5,speaker,user_experience,Just sharing my experience — The app is easy to use and the experience is smooth.,India
+REV0348,2026-09-01,Facebook,4,smart watch,delivery,Just sharing my experience — Delivery was on time and the packaging was neat.,United Kingdom
+REV0452,2026-09-01,Google Reviews,3,subscription,pricing,"For reference, The product is okay for the price, but there is room for improvement.",Australia
+REV0102,2026-09-02,Instagram,4,smart watch,delivery,Just sharing my experience — Delivery was on time and the packaging was neat.,India
+REV0125,2026-09-02,Facebook,5,mobile app,product_quality,Update: The mobile app quality is excellent and feels worth the price.,Australia
+REV0136,2026-09-02,Facebook,1,wireless earbuds,refunds,My refund is still pending and I have not received a clear update.,Singapore
+REV0146,2026-09-02,Facebook,1,wireless earbuds,customer_support,"Honestly, The response was rude and my complaint was ignored.",Australia
+REV0445,2026-09-02,Google Reviews,1,subscription,delivery,My order was delayed and the tracking updates were not helpful. Hope the team sees this.,Australia
+REV0046,2026-09-03,Facebook,1,mobile app,customer_support,I contacted customer support twice but nobody resolved the issue.,United States
+REV0113,2026-09-03,YouTube,5,speaker,customer_support,Really happy: Customer support resolved my issue quickly and politely.,United Kingdom
+REV0164,2026-09-03,Facebook,4,subscription,product_quality,Really happy: Impressed with the build quality and reliable performance.,Australia
+REV0188,2026-09-03,Instagram,3,smart watch,pricing,"For reference, The price is in the usual range for this category.",United Kingdom
+REV0200,2026-09-03,Google Reviews,5,wireless earbuds,customer_support,Update: Customer support resolved my issue quickly and politely.,Australia
+REV0099,2026-09-04,Facebook,3,smart watch,user_experience,"My feedback: The app works for basic tasks, although some screens take time to load.",United States
+REV0195,2026-09-04,X,1,subscription,customer_support,Not happy: I contacted customer support twice but nobody resolved the issue.,Singapore
+REV0238,2026-09-04,X,5,speaker,value_for_money,Great value for money. I am genuinely happy with this purchase.,Australia
+REV0364,2026-09-04,YouTube,4,wireless earbuds,features,Really happy: The latest features are useful and make my daily work easier.,Singapore
+REV0473,2026-09-04,YouTube,5,smart watch,value_for_money,Just sharing my experience — Great value for money. I am genuinely happy with this purchase.,India
+REV0077,2026-09-05,Google Reviews,2,speaker,pricing,"Honestly, The price is too high for the quality offered.",Australia
+REV0231,2026-09-05,Google Reviews,1,subscription,customer_support,Not happy: The response was rude and my complaint was ignored.,Australia
+REV0309,2026-09-05,Instagram,4,subscription,customer_support,The support team was helpful and kept me updated. Please improve this.,Singapore
+REV0386,2026-09-05,X,1,wireless earbuds,refunds,My refund is still pending and I have not received a clear update.,United States
+REV0426,2026-09-05,Instagram,5,smart watch,customer_support,Update: Customer support resolved my issue quickly and politely.,United Kingdom
+REV0428,2026-09-05,YouTube,1,speaker,delivery,My order was delayed and the tracking updates were not helpful.,Singapore
+REV0432,2026-09-05,Google Reviews,3,wireless earbuds,pricing,My feedback: The price is in the usual range for this category.,Singapore
+REV0442,2026-09-05,Facebook,3,wireless earbuds,delivery,My feedback: The order arrived within the estimated delivery window.,United States
+REV0056,2026-09-06,Google Reviews,2,speaker,pricing,The price is too high for the quality offered.,Australia
+REV0092,2026-09-06,X,1,smart watch,customer_support,"Honestly, I contacted customer support twice but nobody resolved the issue.",India
+REV0254,2026-09-06,YouTube,4,speaker,product_quality,Impressed with the build quality and reliable performance.,Australia
+REV0264,2026-09-06,Instagram,1,smart watch,delivery,My order was delayed and the tracking updates were not helpful.,Singapore
+REV0418,2026-09-06,YouTube,1,smart watch,customer_support,The response was rude and my complaint was ignored.,India
+REV0472,2026-09-06,X,3,wireless earbuds,delivery,My feedback: The order arrived within the estimated delivery window.,India
+REV0085,2026-09-07,YouTube,1,wireless earbuds,refunds,My refund is still pending and I have not received a clear update.,United States
+REV0106,2026-09-07,Google Reviews,5,speaker,delivery,My order arrived earlier than expected and was packed carefully.,Singapore
+REV0187,2026-09-07,Facebook,4,subscription,customer_support,Update: The support team was helpful and kept me updated. Thanks.,United Kingdom
+REV0190,2026-09-07,Google Reviews,3,subscription,delivery,My feedback: The order arrived within the estimated delivery window.,United States
+REV0268,2026-09-07,Facebook,4,speaker,customer_support,Update: The support team was helpful and kept me updated. Please improve this.,Singapore
+REV0279,2026-09-07,Facebook,3,speaker,features,"For reference, The update includes a few changes. I am still exploring them.",Singapore
+REV0409,2026-09-07,X,4,smart watch,customer_support,Update: The support team was helpful and kept me updated.,United Kingdom
+REV0413,2026-09-07,Instagram,1,subscription,refunds,"Honestly, My refund is still pending and I have not received a clear update.",United Kingdom
+REV0090,2026-09-08,X,1,mobile app,user_experience,"Honestly, The app keeps crashing and the checkout process is frustrating.",India
+REV0132,2026-09-08,Google Reviews,1,smart watch,user_experience,"Honestly, The app keeps crashing and the checkout process is frustrating.",United Kingdom
+REV0143,2026-09-08,Instagram,4,subscription,product_quality,Update: Impressed with the build quality and reliable performance. Thanks.,Singapore
+REV0266,2026-09-08,Instagram,3,smart watch,pricing,The price is in the usual range for this category.,United Kingdom
+REV0294,2026-09-08,Instagram,1,mobile app,refunds,Not happy: My refund is still pending and I have not received a clear update.,Singapore
+REV0349,2026-09-08,YouTube,3,mobile app,pricing,"For reference, The product is okay for the price, but there is room for improvement.",Australia
+REV0326,2026-09-09,YouTube,5,smart watch,brand_trust,Update: I have had a good experience with this brand so far.,United Kingdom
+REV0341,2026-09-09,YouTube,4,speaker,customer_support,Really happy: The support team was helpful and kept me updated.,Australia
+REV0393,2026-09-09,Google Reviews,4,subscription,product_quality,Impressed with the build quality and reliable performance.,United States
+REV0411,2026-09-09,Google Reviews,1,mobile app,customer_support,I contacted customer support twice but nobody resolved the issue.,United States
+REV0435,2026-09-09,Instagram,4,wireless earbuds,product_quality,Impressed with the build quality and reliable performance.,India
+REV0008,2026-09-10,X,4,mobile app,features,Just sharing my experience — The latest features are useful and make my daily work easier.,India
+REV0068,2026-09-10,YouTube,4,mobile app,customer_support,The support team was helpful and kept me updated.,Singapore
+REV0337,2026-09-10,Google Reviews,5,mobile app,delivery,Update: My order arrived earlier than expected and was packed carefully.,Singapore
+REV0457,2026-09-10,X,3,smart watch,user_experience,"The app works for basic tasks, although some screens take time to load.",Singapore
+REV0486,2026-09-10,YouTube,4,mobile app,customer_support,Just sharing my experience — The support team was helpful and kept me updated.,United Kingdom
+REV0240,2026-09-11,Google Reviews,1,speaker,customer_support,I contacted customer support twice but nobody resolved the issue.,United Kingdom
+REV0048,2026-09-12,Facebook,5,speaker,customer_support,Really happy: Customer support resolved my issue quickly and politely.,Singapore
+REV0196,2026-09-12,YouTube,3,speaker,delivery,"For reference, The order arrived within the estimated delivery window.",United Kingdom
+REV0229,2026-09-12,X,5,smart watch,delivery,Update: My order arrived earlier than expected and was packed carefully.,Australia
+REV0467,2026-09-12,X,1,smart watch,delivery,"Honestly, The package arrived damaged and the replacement process is slow.",United States
+REV0023,2026-09-13,Instagram,1,smart watch,customer_support,Not happy: The response was rude and my complaint was ignored. Please improve this.,India
+REV0118,2026-09-13,YouTube,1,smart watch,refunds,Need this fixed — My refund is still pending and I have not received a clear update.,India
+REV0145,2026-09-13,X,4,smart watch,delivery,Just sharing my experience — Delivery was on time and the packaging was neat.,United States
+REV0154,2026-09-13,YouTube,1,subscription,customer_support,Need this fixed — I contacted customer support twice but nobody resolved the issue.,United Kingdom
+REV0169,2026-09-13,Google Reviews,1,smart watch,product_quality,The product stopped working after a few days. Very disappointing.,Australia
+REV0314,2026-09-13,Instagram,5,wireless earbuds,delivery,Update: My order arrived earlier than expected and was packed carefully.,United Kingdom
+REV0340,2026-09-13,YouTube,1,subscription,refunds,My refund is still pending and I have not received a clear update.,United States
+REV0369,2026-09-13,YouTube,1,speaker,customer_support,Need this fixed — I contacted customer support twice but nobody resolved the issue.,India
+REV0029,2026-09-14,Facebook,4,wireless earbuds,delivery,Really happy: Delivery was on time and the packaging was neat.,Singapore
+REV0066,2026-09-14,X,2,mobile app,pricing,The price is too high for the quality offered. Thanks.,United Kingdom
+REV0123,2026-09-14,X,3,subscription,pricing,"For reference, The price is in the usual range for this category.",United States
+REV0191,2026-09-14,YouTube,1,speaker,delivery,"Honestly, My order was delayed and the tracking updates were not helpful.",Australia
+REV0197,2026-09-14,YouTube,3,wireless earbuds,brand_trust,"My feedback: This is my first purchase from the brand, so I do not have a strong opinion yet.",India
+REV0270,2026-09-14,Instagram,5,wireless earbuds,brand_trust,Update: I have had a good experience with this brand so far.,India
+REV0376,2026-09-14,YouTube,5,smart watch,product_quality,The smart watch quality is excellent and feels worth the price.,Australia
+REV0395,2026-09-14,YouTube,4,mobile app,customer_support,Really happy: The support team was helpful and kept me updated.,Singapore
+REV0415,2026-09-14,X,2,smart watch,pricing,Not happy: The price is too high for the quality offered.,Australia
+REV0061,2026-09-15,Facebook,1,smart watch,customer_support,The response was rude and my complaint was ignored.,India
+REV0114,2026-09-15,YouTube,1,speaker,user_experience,The app keeps crashing and the checkout process is frustrating.,Australia
+REV0144,2026-09-15,Facebook,5,subscription,user_experience,Really happy: The app is easy to use and the experience is smooth. Thanks.,Australia
+REV0251,2026-09-15,Instagram,1,speaker,customer_support,Need this fixed — The response was rude and my complaint was ignored.,Australia
+REV0255,2026-09-15,X,4,mobile app,product_quality,Impressed with the build quality and reliable performance.,Australia
+REV0299,2026-09-15,YouTube,5,mobile app,user_experience,Just sharing my experience — The app is easy to use and the experience is smooth.,Australia
+REV0339,2026-09-15,Google Reviews,4,wireless earbuds,product_quality,Just sharing my experience — Impressed with the build quality and reliable performance.,United States
+REV0497,2026-09-15,YouTube,1,wireless earbuds,customer_support,The response was rude and my complaint was ignored.,United Kingdom
+REV0135,2026-09-16,YouTube,4,mobile app,delivery,Update: Delivery was on time and the packaging was neat.,United Kingdom
+REV0482,2026-09-16,YouTube,2,speaker,product_quality,The quality feels poor and does not match the description.,United States
+REV0051,2026-09-17,Instagram,3,mobile app,features,"For reference, The update includes a few changes. I am still exploring them.",India
+REV0073,2026-09-17,YouTube,4,smart watch,customer_support,The support team was helpful and kept me updated.,United Kingdom
+REV0101,2026-09-17,Google Reviews,5,mobile app,value_for_money,Great value for money. I am genuinely happy with this purchase. Hope the team sees this.,United States
+REV0220,2026-09-17,YouTube,2,subscription,product_quality,Not happy: The quality feels poor and does not match the description.,United States
+REV0398,2026-09-17,X,1,speaker,delivery,Need this fixed — My order was delayed and the tracking updates were not helpful.,Singapore
+REV0401,2026-09-17,Instagram,4,smart watch,product_quality,Impressed with the build quality and reliable performance.,India
+REV0403,2026-09-17,Facebook,1,speaker,refunds,Not happy: My refund is still pending and I have not received a clear update.,India
+REV0485,2026-09-17,Google Reviews,5,speaker,customer_support,Just sharing my experience — Customer support resolved my issue quickly and politely.,United States
+REV0161,2026-09-18,Instagram,3,subscription,pricing,"The product is okay for the price, but there is room for improvement.",United States
+REV0259,2026-09-18,Google Reviews,2,smart watch,features,Need this fixed — The feature I need is missing and the latest update made things worse.,United Kingdom
+REV0352,2026-09-18,Google Reviews,1,speaker,customer_support,Not happy: The response was rude and my complaint was ignored.,United Kingdom
+REV0384,2026-09-18,Instagram,3,smart watch,product_quality,My feedback: The quality is average and similar to other products I have tried.,India
+REV0438,2026-09-18,Google Reviews,5,speaker,value_for_money,Great value for money. I am genuinely happy with this purchase.,India
+REV0003,2026-09-19,Instagram,1,speaker,delivery,Need this fixed — The package arrived damaged and the replacement process is slow.,United States
+REV0042,2026-09-19,Instagram,1,wireless earbuds,user_experience,Not happy: The app keeps crashing and the checkout process is frustrating.,India
+REV0086,2026-09-19,Google Reviews,5,mobile app,value_for_money,Update: Great value for money. I am genuinely happy with this purchase.,India
+REV0091,2026-09-19,Google Reviews,1,smart watch,product_quality,Need this fixed — The product stopped working after a few days. Very disappointing.,Australia
+REV0115,2026-09-19,YouTube,5,subscription,user_experience,Just sharing my experience — The app is easy to use and the experience is smooth.,United Kingdom
+REV0283,2026-09-19,Facebook,2,smart watch,pricing,The price is too high for the quality offered.,India
+REV0360,2026-09-19,X,5,wireless earbuds,customer_support,Customer support resolved my issue quickly and politely.,Singapore
+REV0499,2026-09-19,Instagram,3,speaker,features,My feedback: The update includes a few changes. I am still exploring them.,Australia
+REV0183,2026-09-20,YouTube,4,speaker,features,Just sharing my experience — The latest features are useful and make my daily work easier.,Singapore
+REV0295,2026-09-20,YouTube,3,speaker,user_experience,"For reference, The app works for basic tasks, although some screens take time to load.",Singapore
+REV0391,2026-09-20,X,4,wireless earbuds,delivery,Delivery was on time and the packaging was neat.,United Kingdom
+REV0267,2026-09-21,Google Reviews,4,mobile app,features,Just sharing my experience — The latest features are useful and make my daily work easier. Thanks.,United States
+REV0336,2026-09-21,YouTube,1,mobile app,product_quality,Not happy: The product stopped working after a few days. Very disappointing.,India
+REV0477,2026-09-21,YouTube,1,wireless earbuds,product_quality,Not happy: The product stopped working after a few days. Very disappointing.,Australia
+REV0096,2026-09-22,Instagram,1,smart watch,delivery,Need this fixed — My order was delayed and the tracking updates were not helpful.,United States
+REV0124,2026-09-22,Instagram,2,wireless earbuds,product_quality,Not happy: The quality feels poor and does not match the description.,India
+REV0129,2026-09-22,Facebook,3,speaker,product_quality,The quality is average and similar to other products I have tried.,Singapore
+REV0139,2026-09-22,YouTube,3,wireless earbuds,user_experience,"The app works for basic tasks, although some screens take time to load.",India
+REV0247,2026-09-22,Google Reviews,3,smart watch,customer_support,My feedback: Support shared the information I requested.,United Kingdom
+REV0248,2026-09-22,YouTube,1,subscription,delivery,The package arrived damaged and the replacement process is slow.,India
+REV0290,2026-09-22,Facebook,4,speaker,delivery,Just sharing my experience — Delivery was on time and the packaging was neat.,Singapore
+REV0322,2026-09-22,X,1,speaker,product_quality,Need this fixed — The product stopped working after a few days. Very disappointing.,Singapore
+REV0338,2026-09-22,Instagram,5,speaker,customer_support,Customer support resolved my issue quickly and politely.,India
+REV0345,2026-09-22,Google Reviews,4,speaker,product_quality,Just sharing my experience — Impressed with the build quality and reliable performance.,Australia
+REV0365,2026-09-22,Facebook,4,smart watch,customer_support,Just sharing my experience — The support team was helpful and kept me updated.,United Kingdom
+REV0370,2026-09-22,Facebook,1,wireless earbuds,customer_support,"Honestly, I contacted customer support twice but nobody resolved the issue.",Singapore
+REV0449,2026-09-22,X,1,mobile app,user_experience,Not happy: The app keeps crashing and the checkout process is frustrating.,United Kingdom
+REV0078,2026-09-23,Google Reviews,3,smart watch,features,My feedback: The update includes a few changes. I am still exploring them. Please improve this.,Singapore
+REV0380,2026-09-23,Instagram,1,subscription,customer_support,Need this fixed — I contacted customer support twice but nobody resolved the issue.,Australia
+REV0436,2026-09-23,YouTube,5,wireless earbuds,value_for_money,Great value for money. I am genuinely happy with this purchase.,Singapore
+REV0010,2026-09-24,YouTube,4,wireless earbuds,product_quality,Just sharing my experience — Impressed with the build quality and reliable performance.,United Kingdom
+REV0155,2026-09-24,X,3,speaker,brand_trust,"This is my first purchase from the brand, so I do not have a strong opinion yet.",United Kingdom
+REV0222,2026-09-24,X,3,wireless earbuds,pricing,The price is in the usual range for this category.,India
+REV0055,2026-09-25,YouTube,1,subscription,user_experience,"Honestly, The app keeps crashing and the checkout process is frustrating.",United Kingdom
+REV0275,2026-09-25,Google Reviews,3,subscription,user_experience,"The app works for basic tasks, although some screens take time to load.",Singapore
+REV0315,2026-09-25,Instagram,1,subscription,customer_support,The response was rude and my complaint was ignored.,United Kingdom
+REV0402,2026-09-25,Facebook,5,subscription,value_for_money,Really happy: Great value for money. I am genuinely happy with this purchase.,India
+REV0420,2026-09-25,Instagram,5,mobile app,delivery,Just sharing my experience — My order arrived earlier than expected and was packed carefully.,India
+REV0047,2026-09-26,YouTube,3,speaker,delivery,"For reference, The order arrived within the estimated delivery window.",United States
+REV0107,2026-09-26,X,2,wireless earbuds,features,The feature I need is missing and the latest update made things worse.,India
+REV0122,2026-09-26,Google Reviews,1,mobile app,user_experience,The app keeps crashing and the checkout process is frustrating.,Singapore
+REV0186,2026-09-26,Facebook,5,mobile app,customer_support,Customer support resolved my issue quickly and politely.,Australia
+REV0265,2026-09-26,X,1,mobile app,product_quality,Not happy: The product stopped working after a few days. Very disappointing. Please improve this.,Singapore
+REV0325,2026-09-26,YouTube,3,subscription,customer_support,My feedback: Support shared the information I requested.,United Kingdom
+REV0334,2026-09-26,YouTube,1,subscription,delivery,My order was delayed and the tracking updates were not helpful.,India
+REV0407,2026-09-26,Instagram,4,smart watch,features,Really happy: The latest features are useful and make my daily work easier.,India
+REV0448,2026-09-26,Facebook,2,wireless earbuds,product_quality,The quality feels poor and does not match the description.,India
+REV0004,2026-09-27,Instagram,1,mobile app,refunds,Need this fixed — My refund is still pending and I have not received a clear update.,India
+REV0022,2026-09-27,Instagram,3,wireless earbuds,pricing,"For reference, The price is in the usual range for this category.",Australia
+REV0041,2026-09-27,Facebook,3,mobile app,delivery,My feedback: The order arrived within the estimated delivery window.,United Kingdom
+REV0207,2026-09-27,Facebook,1,smart watch,refunds,Not happy: My refund is still pending and I have not received a clear update.,Singapore
+REV0244,2026-09-27,Google Reviews,1,smart watch,customer_support,Not happy: I contacted customer support twice but nobody resolved the issue.,United Kingdom
+REV0185,2026-09-28,X,5,smart watch,brand_trust,Update: I have had a good experience with this brand so far. Hope the team sees this.,Singapore
+REV0206,2026-09-28,Facebook,3,wireless earbuds,product_quality,My feedback: The quality is average and similar to other products I have tried.,India
+REV0214,2026-09-28,YouTube,5,speaker,brand_trust,Just sharing my experience — I have had a good experience with this brand so far.,India
+REV0227,2026-09-28,Facebook,3,speaker,features,My feedback: The update includes a few changes. I am still exploring them.,Australia
+REV0373,2026-09-28,YouTube,3,wireless earbuds,delivery,The order arrived within the estimated delivery window.,United Kingdom
+REV0427,2026-09-28,X,5,smart watch,value_for_money,Just sharing my experience — Great value for money. I am genuinely happy with this purchase.,India
+REV0459,2026-09-28,YouTube,5,mobile app,value_for_money,Great value for money. I am genuinely happy with this purchase.,United Kingdom
+REV0069,2026-09-29,X,3,subscription,pricing,"My feedback: The product is okay for the price, but there is room for improvement.",Singapore
+REV0147,2026-09-29,Facebook,5,wireless earbuds,delivery,Really happy: My order arrived earlier than expected and was packed carefully.,Australia
+REV0412,2026-09-29,YouTube,1,wireless earbuds,delivery,The package arrived damaged and the replacement process is slow.,Australia
+REV0204,2026-09-30,Instagram,4,smart watch,customer_support,Really happy: The support team was helpful and kept me updated.,Australia
+REV0489,2026-09-30,X,1,smart watch,customer_support,Not happy: I contacted customer support twice but nobody resolved the issue.,Singapore
+REV0017,2026-10-01,Facebook,3,subscription,product_quality,The quality is average and similar to other products I have tried.,Australia
+REV0303,2026-10-01,Instagram,5,wireless earbuds,user_experience,Just sharing my experience — The app is easy to use and the experience is smooth.,Australia
+REV0421,2026-10-01,YouTube,5,wireless earbuds,delivery,Update: My order arrived earlier than expected and was packed carefully.,Australia
+REV0009,2026-10-02,X,1,subscription,product_quality,Need this fixed — The product stopped working after a few days. Very disappointing.,Australia
+REV0097,2026-10-02,YouTube,4,subscription,customer_support,Just sharing my experience — The support team was helpful and kept me updated.,Singapore
+REV0193,2026-10-02,Google Reviews,1,speaker,customer_support,The response was rude and my complaint was ignored.,Australia
+REV0316,2026-10-02,YouTube,2,speaker,features,Need this fixed — The feature I need is missing and the latest update made things worse.,United States
+REV0437,2026-10-02,X,1,wireless earbuds,user_experience,The app keeps crashing and the checkout process is frustrating.,United States
+REV0494,2026-10-02,X,5,speaker,brand_trust,I have had a good experience with this brand so far.,Australia
+REV0067,2026-10-03,Facebook,4,wireless earbuds,delivery,Just sharing my experience — Delivery was on time and the packaging was neat.,United States
+REV0211,2026-10-03,X,4,speaker,product_quality,Impressed with the build quality and reliable performance.,United States
+REV0291,2026-10-03,Facebook,3,speaker,brand_trust,"This is my first purchase from the brand, so I do not have a strong opinion yet.",United Kingdom
+REV0313,2026-10-03,Google Reviews,3,smart watch,product_quality,The quality is average and similar to other products I have tried.,United Kingdom
+REV0388,2026-10-03,Facebook,3,smart watch,pricing,"For reference, The product is okay for the price, but there is room for improvement.",United States
+REV0416,2026-10-03,X,3,smart watch,pricing,"The product is okay for the price, but there is room for improvement.",United States
+REV0456,2026-10-03,Instagram,5,mobile app,delivery,Really happy: My order arrived earlier than expected and was packed carefully.,United States
+REV0492,2026-10-03,YouTube,4,speaker,customer_support,The support team was helpful and kept me updated.,Singapore
+REV0011,2026-10-04,YouTube,5,mobile app,brand_trust,Just sharing my experience — I have had a good experience with this brand so far.,United States
+REV0281,2026-10-04,Google Reviews,1,wireless earbuds,refunds,Need this fixed — My refund is still pending and I have not received a clear update.,United States
+REV0328,2026-10-04,X,1,speaker,refunds,"Honestly, My refund is still pending and I have not received a clear update.",India
+REV0335,2026-10-04,YouTube,5,smart watch,value_for_money,Just sharing my experience — Great value for money. I am genuinely happy with this purchase.,Australia
+REV0408,2026-10-04,YouTube,3,smart watch,pricing,"The product is okay for the price, but there is room for improvement.",India
+REV0049,2026-10-05,X,5,smart watch,user_experience,Really happy: The app is easy to use and the experience is smooth.,United Kingdom
+REV0088,2026-10-05,Facebook,2,speaker,features,Not happy: The feature I need is missing and the latest update made things worse. Hope the team sees this.,United Kingdom
+REV0095,2026-10-05,YouTube,5,mobile app,product_quality,The mobile app quality is excellent and feels worth the price. Please improve this.,India
+REV0109,2026-10-05,Google Reviews,5,mobile app,customer_support,Update: Customer support resolved my issue quickly and politely.,India
+REV0242,2026-10-05,Instagram,5,mobile app,value_for_money,Great value for money. I am genuinely happy with this purchase.,Australia
+REV0285,2026-10-05,YouTube,5,wireless earbuds,brand_trust,Just sharing my experience — I have had a good experience with this brand so far.,United States
+REV0307,2026-10-05,YouTube,3,speaker,product_quality,"For reference, The quality is average and similar to other products I have tried.",Australia
+REV0447,2026-10-05,Facebook,4,subscription,features,The latest features are useful and make my daily work easier. Thanks.,Australia
+REV0289,2026-10-06,Facebook,4,speaker,product_quality,Update: Impressed with the build quality and reliable performance.,United Kingdom
+REV0297,2026-10-06,Instagram,3,mobile app,pricing,"For reference, The price is in the usual range for this category.",Australia
+REV0433,2026-10-06,Google Reviews,5,mobile app,customer_support,Just sharing my experience — Customer support resolved my issue quickly and politely.,Australia
+REV0439,2026-10-06,Google Reviews,5,wireless earbuds,customer_support,Update: Customer support resolved my issue quickly and politely.,United States
+REV0451,2026-10-06,YouTube,1,wireless earbuds,customer_support,Need this fixed — The response was rude and my complaint was ignored.,Australia
+REV0074,2026-10-07,X,4,mobile app,product_quality,Impressed with the build quality and reliable performance.,India
+REV0134,2026-10-07,Facebook,5,wireless earbuds,delivery,Update: My order arrived earlier than expected and was packed carefully.,United States
+REV0148,2026-10-07,Google Reviews,5,mobile app,delivery,Really happy: My order arrived earlier than expected and was packed carefully.,India
+REV0233,2026-10-07,Google Reviews,5,mobile app,brand_trust,Just sharing my experience — I have had a good experience with this brand so far.,India
+REV0252,2026-10-07,Facebook,3,smart watch,features,"For reference, The update includes a few changes. I am still exploring them.",Singapore
+REV0332,2026-10-07,Google Reviews,5,speaker,brand_trust,I have had a good experience with this brand so far.,India
+REV0389,2026-10-07,Facebook,3,subscription,pricing,"The product is okay for the price, but there is room for improvement.",United Kingdom
+REV0012,2026-10-08,Google Reviews,5,subscription,user_experience,Update: The app is easy to use and the experience is smooth.,Singapore
+REV0212,2026-10-08,Instagram,2,mobile app,features,"Honestly, The feature I need is missing and the latest update made things worse.",Singapore
+REV0288,2026-10-08,Google Reviews,5,wireless earbuds,value_for_money,Just sharing my experience — Great value for money. I am genuinely happy with this purchase.,Singapore
+REV0331,2026-10-08,YouTube,5,smart watch,value_for_money,Update: Great value for money. I am genuinely happy with this purchase.,India
+REV0057,2026-10-09,Google Reviews,4,wireless earbuds,delivery,Update: Delivery was on time and the packaging was neat.,Australia
+REV0104,2026-10-09,X,3,speaker,pricing,"For reference, The price is in the usual range for this category.",Australia
+REV0422,2026-10-09,YouTube,5,mobile app,value_for_money,Just sharing my experience — Great value for money. I am genuinely happy with this purchase.,United Kingdom
+REV0111,2026-10-10,YouTube,2,mobile app,pricing,Need this fixed — The price is too high for the quality offered.,India
+REV0133,2026-10-10,Instagram,1,wireless earbuds,product_quality,Not happy: The product stopped working after a few days. Very disappointing.,Australia
+REV0142,2026-10-10,Facebook,1,wireless earbuds,user_experience,"Honestly, The app keeps crashing and the checkout process is frustrating.",United Kingdom
+REV0151,2026-10-10,Instagram,3,wireless earbuds,brand_trust,"My feedback: This is my first purchase from the brand, so I do not have a strong opinion yet.",India
+REV0350,2026-10-10,YouTube,2,speaker,features,The feature I need is missing and the latest update made things worse.,United States
+REV0368,2026-10-10,Instagram,1,subscription,product_quality,Need this fixed — The product stopped working after a few days. Very disappointing.,India
+REV0372,2026-10-10,Facebook,5,smart watch,user_experience,The app is easy to use and the experience is smooth.,India
+REV0450,2026-10-10,X,3,smart watch,features,"For reference, The update includes a few changes. I am still exploring them.",United Kingdom
+REV0495,2026-10-10,Instagram,5,speaker,delivery,My order arrived earlier than expected and was packed carefully.,India
+REV0177,2026-10-11,Google Reviews,3,speaker,pricing,The price is in the usual range for this category.,Australia
+REV0179,2026-10-11,Instagram,1,subscription,refunds,Not happy: My refund is still pending and I have not received a clear update.,India
+REV0237,2026-10-11,Facebook,1,smart watch,refunds,My refund is still pending and I have not received a clear update.,United States
+REV0269,2026-10-11,X,5,wireless earbuds,user_experience,Update: The app is easy to use and the experience is smooth.,United Kingdom
+REV0319,2026-10-11,Google Reviews,5,wireless earbuds,value_for_money,Just sharing my experience — Great value for money. I am genuinely happy with this purchase.,Australia
+REV0005,2026-10-12,Google Reviews,4,mobile app,product_quality,Update: Impressed with the build quality and reliable performance.,India
+REV0127,2026-10-12,X,3,smart watch,delivery,My feedback: The order arrived within the estimated delivery window.,India
+REV0137,2026-10-12,X,3,wireless earbuds,customer_support,My feedback: Support shared the information I requested. Please improve this.,United Kingdom
+REV0163,2026-10-12,X,5,wireless earbuds,product_quality,Just sharing my experience — The wireless earbuds quality is excellent and feels worth the price.,United States
+REV0343,2026-10-12,Instagram,1,smart watch,delivery,"Honestly, The package arrived damaged and the replacement process is slow.",United Kingdom
+REV0453,2026-10-12,Instagram,5,smart watch,user_experience,Really happy: The app is easy to use and the experience is smooth.,United Kingdom
+REV0471,2026-10-12,Facebook,3,speaker,customer_support,Support shared the information I requested.,United Kingdom
+REV0488,2026-10-12,X,3,wireless earbuds,features,My feedback: The update includes a few changes. I am still exploring them.,United Kingdom
+REV0084,2026-10-13,Google Reviews,3,mobile app,features,My feedback: The update includes a few changes. I am still exploring them.,Australia
+REV0103,2026-10-13,X,5,subscription,value_for_money,Update: Great value for money. I am genuinely happy with this purchase.,Singapore
+REV0235,2026-10-13,Facebook,1,smart watch,delivery,My order was delayed and the tracking updates were not helpful.,United Kingdom
+REV0239,2026-10-13,YouTube,2,smart watch,pricing,The price is too high for the quality offered.,United Kingdom
+REV0282,2026-10-13,Google Reviews,2,wireless earbuds,pricing,Not happy: The price is too high for the quality offered.,Singapore
+REV0400,2026-10-13,X,1,wireless earbuds,customer_support,Need this fixed — The response was rude and my complaint was ignored.,Singapore
+REV0025,2026-10-14,YouTube,5,subscription,brand_trust,I have had a good experience with this brand so far.,United States
+REV0060,2026-10-14,Google Reviews,3,wireless earbuds,delivery,"For reference, The order arrived within the estimated delivery window.",India
+REV0094,2026-10-14,YouTube,2,wireless earbuds,features,Not happy: The feature I need is missing and the latest update made things worse.,Singapore
+REV0181,2026-10-14,Google Reviews,1,speaker,delivery,Need this fixed — My order was delayed and the tracking updates were not helpful.,United States
+REV0192,2026-10-14,Facebook,4,smart watch,features,Just sharing my experience — The latest features are useful and make my daily work easier.,United Kingdom
+REV0199,2026-10-14,YouTube,5,speaker,value_for_money,Just sharing my experience — Great value for money. I am genuinely happy with this purchase.,Australia
+REV0205,2026-10-14,Instagram,1,subscription,delivery,Not happy: The package arrived damaged and the replacement process is slow.,Singapore
+REV0261,2026-10-14,Instagram,1,wireless earbuds,delivery,My order was delayed and the tracking updates were not helpful.,United States
+REV0262,2026-10-14,YouTube,4,smart watch,delivery,Delivery was on time and the packaging was neat.,United States
+REV0414,2026-10-14,Google Reviews,1,mobile app,delivery,Not happy: My order was delayed and the tracking updates were not helpful.,United Kingdom
+REV0455,2026-10-14,Google Reviews,4,subscription,features,The latest features are useful and make my daily work easier.,Australia
+REV0465,2026-10-14,X,3,smart watch,customer_support,Support shared the information I requested.,Australia
+REV0466,2026-10-14,Facebook,5,subscription,delivery,Just sharing my experience — My order arrived earlier than expected and was packed carefully.,United Kingdom
+REV0159,2026-10-15,Facebook,5,subscription,customer_support,Just sharing my experience — Customer support resolved my issue quickly and politely.,India
+REV0323,2026-10-15,Instagram,5,speaker,delivery,Update: My order arrived earlier than expected and was packed carefully.,United Kingdom
+REV0474,2026-10-15,YouTube,4,speaker,customer_support,The support team was helpful and kept me updated.,India
+REV0024,2026-10-16,Facebook,3,subscription,features,"For reference, The update includes a few changes. I am still exploring them.",Australia
+REV0087,2026-10-16,Google Reviews,2,wireless earbuds,pricing,Need this fixed — The price is too high for the quality offered.,United States
+REV0165,2026-10-16,Google Reviews,5,mobile app,customer_support,Customer support resolved my issue quickly and politely.,Singapore
+REV0256,2026-10-16,X,5,mobile app,value_for_money,Just sharing my experience — Great value for money. I am genuinely happy with this purchase.,Singapore
+REV0301,2026-10-16,Facebook,4,smart watch,product_quality,Just sharing my experience — Impressed with the build quality and reliable performance.,Australia
+REV0363,2026-10-16,X,3,subscription,customer_support,Support shared the information I requested.,India
+REV0478,2026-10-16,X,1,speaker,refunds,Need this fixed — My refund is still pending and I have not received a clear update.,United States
+REV0224,2026-10-17,Instagram,1,smart watch,customer_support,Need this fixed — I contacted customer support twice but nobody resolved the issue.,United Kingdom
+REV0296,2026-10-17,YouTube,1,mobile app,refunds,"Honestly, My refund is still pending and I have not received a clear update.",India
+REV0362,2026-10-17,X,3,smart watch,brand_trust,"My feedback: This is my first purchase from the brand, so I do not have a strong opinion yet.",United Kingdom
+REV0410,2026-10-17,YouTube,5,wireless earbuds,delivery,Just sharing my experience — My order arrived earlier than expected and was packed carefully.,Australia
+REV0002,2026-10-18,Google Reviews,1,wireless earbuds,delivery,Not happy: My order was delayed and the tracking updates were not helpful.,India
+REV0016,2026-10-18,Facebook,4,smart watch,customer_support,The support team was helpful and kept me updated. Thanks.,Australia
+REV0180,2026-10-18,YouTube,5,wireless earbuds,value_for_money,Really happy: Great value for money. I am genuinely happy with this purchase.,Singapore
+REV0379,2026-10-18,YouTube,5,speaker,product_quality,Update: The speaker quality is excellent and feels worth the price.,Singapore
+REV0498,2026-10-18,YouTube,2,smart watch,product_quality,Not happy: The quality feels poor and does not match the description. Hope the team sees this.,Singapore
+REV0052,2026-10-19,Instagram,1,mobile app,refunds,My refund is still pending and I have not received a clear update.,Singapore
+REV0058,2026-10-19,YouTube,2,speaker,features,The feature I need is missing and the latest update made things worse.,United States
+REV0209,2026-10-19,YouTube,5,wireless earbuds,user_experience,Update: The app is easy to use and the experience is smooth.,Australia
+REV0246,2026-10-19,Facebook,2,subscription,features,The feature I need is missing and the latest update made things worse.,United Kingdom
+REV0357,2026-10-19,Instagram,1,mobile app,refunds,"Honestly, My refund is still pending and I have not received a clear update.",United States
+REV0375,2026-10-19,Facebook,5,mobile app,product_quality,Just sharing my experience — The mobile app quality is excellent and feels worth the price.,Singapore
+REV0387,2026-10-19,Instagram,5,subscription,customer_support,Really happy: Customer support resolved my issue quickly and politely.,India
+REV0062,2026-10-20,YouTube,3,speaker,features,"For reference, The update includes a few changes. I am still exploring them.",India
+REV0082,2026-10-20,X,2,smart watch,features,The feature I need is missing and the latest update made things worse.,Australia
+REV0396,2026-10-20,YouTube,3,mobile app,delivery,"For reference, The order arrived within the estimated delivery window. Hope the team sees this.",United Kingdom
+REV0173,2026-10-21,Instagram,5,smart watch,customer_support,Customer support resolved my issue quickly and politely.,Singapore
+REV0189,2026-10-21,Instagram,3,subscription,features,The update includes a few changes. I am still exploring them.,United Kingdom
+REV0475,2026-10-21,Facebook,5,mobile app,user_experience,Really happy: The app is easy to use and the experience is smooth.,India
+REV0015,2026-10-22,X,4,wireless earbuds,delivery,Really happy: Delivery was on time and the packaging was neat.,United Kingdom
+REV0027,2026-10-22,YouTube,4,wireless earbuds,product_quality,Just sharing my experience — Impressed with the build quality and reliable performance.,United States
+REV0140,2026-10-22,Facebook,5,mobile app,product_quality,The mobile app quality is excellent and feels worth the price. Hope the team sees this.,Singapore
+REV0351,2026-10-22,X,5,smart watch,product_quality,Update: The smart watch quality is excellent and feels worth the price. Hope the team sees this.,United States
+REV0356,2026-10-22,X,2,smart watch,pricing,Not happy: The price is too high for the quality offered.,Australia
+REV0446,2026-10-22,X,1,wireless earbuds,customer_support,Not happy: I contacted customer support twice but nobody resolved the issue.,Singapore
+REV0257,2026-10-23,YouTube,5,mobile app,value_for_money,Really happy: Great value for money. I am genuinely happy with this purchase.,Singapore
+REV0043,2026-10-24,YouTube,5,mobile app,delivery,Just sharing my experience — My order arrived earlier than expected and was packed carefully.,Australia
+REV0064,2026-10-24,YouTube,2,subscription,features,The feature I need is missing and the latest update made things worse.,United States
+REV0089,2026-10-24,X,1,speaker,refunds,"Honestly, My refund is still pending and I have not received a clear update.",United Kingdom
+REV0093,2026-10-24,X,1,mobile app,product_quality,Not happy: The product stopped working after a few days. Very disappointing.,United States
+REV0117,2026-10-24,Google Reviews,3,subscription,pricing,My feedback: The price is in the usual range for this category.,Singapore
+REV0230,2026-10-24,X,3,mobile app,features,"For reference, The update includes a few changes. I am still exploring them.",United States
+REV0243,2026-10-24,X,1,subscription,refunds,"Honestly, My refund is still pending and I have not received a clear update.",Australia
+REV0329,2026-10-24,Instagram,3,subscription,user_experience,"The app works for basic tasks, although some screens take time to load.",Singapore
+REV0444,2026-10-24,X,5,wireless earbuds,customer_support,Customer support resolved my issue quickly and politely.,United Kingdom
+REV0031,2026-10-25,YouTube,3,mobile app,pricing,My feedback: The price is in the usual range for this category.,United States
+REV0157,2026-10-25,Google Reviews,1,smart watch,refunds,Not happy: My refund is still pending and I have not received a clear update.,United Kingdom
+REV0184,2026-10-25,YouTube,1,wireless earbuds,customer_support,"Honestly, The response was rude and my complaint was ignored. Please improve this.",United Kingdom
+REV0034,2026-10-26,Facebook,2,speaker,pricing,Not happy: The price is too high for the quality offered.,Australia
+REV0035,2026-10-26,Google Reviews,1,wireless earbuds,customer_support,The response was rude and my complaint was ignored.,United Kingdom
+REV0037,2026-10-26,Instagram,5,wireless earbuds,customer_support,Customer support resolved my issue quickly and politely.,India
+REV0162,2026-10-26,YouTube,5,mobile app,value_for_money,Update: Great value for money. I am genuinely happy with this purchase. Hope the team sees this.,India
+REV0217,2026-10-26,Instagram,5,mobile app,user_experience,Update: The app is easy to use and the experience is smooth.,Australia
+REV0232,2026-10-26,Instagram,5,subscription,brand_trust,Update: I have had a good experience with this brand so far.,India
+REV0377,2026-10-26,YouTube,5,mobile app,product_quality,Update: The mobile app quality is excellent and feels worth the price.,United Kingdom
+REV0392,2026-10-26,X,4,wireless earbuds,features,Update: The latest features are useful and make my daily work easier.,Australia
+REV0130,2026-10-27,X,3,smart watch,features,My feedback: The update includes a few changes. I am still exploring them.,United Kingdom
+REV0160,2026-10-27,Facebook,4,mobile app,delivery,Really happy: Delivery was on time and the packaging was neat.,Singapore
+REV0226,2026-10-27,Instagram,4,subscription,features,The latest features are useful and make my daily work easier.,United States
+REV0286,2026-10-27,X,1,smart watch,delivery,"Honestly, My order was delayed and the tracking updates were not helpful.",Australia
+REV0347,2026-10-27,YouTube,1,speaker,delivery,The package arrived damaged and the replacement process is slow.,Singapore
+REV0359,2026-10-27,X,4,smart watch,product_quality,Impressed with the build quality and reliable performance.,Singapore
+REV0385,2026-10-27,Instagram,4,mobile app,customer_support,Really happy: The support team was helpful and kept me updated.,Singapore
+REV0424,2026-10-27,YouTube,5,smart watch,value_for_money,Just sharing my experience — Great value for money. I am genuinely happy with this purchase.,Australia
+REV0429,2026-10-27,Facebook,3,subscription,customer_support,My feedback: Support shared the information I requested.,United States
+REV0434,2026-10-27,Google Reviews,5,mobile app,value_for_money,Just sharing my experience — Great value for money. I am genuinely happy with this purchase.,Singapore
+REV0500,2026-10-27,YouTube,4,speaker,customer_support,Just sharing my experience — The support team was helpful and kept me updated.,India
+REV0044,2026-10-28,Google Reviews,5,smart watch,customer_support,Really happy: Customer support resolved my issue quickly and politely.,United States
+REV0250,2026-10-28,YouTube,1,subscription,customer_support,Need this fixed — The response was rude and my complaint was ignored.,United States
+REV0298,2026-10-28,Google Reviews,3,wireless earbuds,delivery,My feedback: The order arrived within the estimated delivery window.,Singapore
+REV0468,2026-10-28,X,1,speaker,user_experience,"Honestly, The app keeps crashing and the checkout process is frustrating.",Singapore
+REV0072,2026-10-29,Google Reviews,3,subscription,delivery,The order arrived within the estimated delivery window.,India
+REV0083,2026-10-29,X,3,speaker,pricing,My feedback: The price is in the usual range for this category.,United Kingdom
+REV0116,2026-10-29,Google Reviews,3,wireless earbuds,product_quality,My feedback: The quality is average and similar to other products I have tried.,Singapore
+REV0293,2026-10-29,Google Reviews,1,wireless earbuds,customer_support,Not happy: The response was rude and my complaint was ignored.,United States
+REV0312,2026-10-29,Facebook,1,smart watch,delivery,"Honestly, My order was delayed and the tracking updates were not helpful. Hope the team sees this.",Singapore
+REV0423,2026-10-29,Facebook,4,subscription,delivery,Update: Delivery was on time and the packaging was neat.,Singapore
+REV0014,2026-10-30,YouTube,2,subscription,product_quality,Not happy: The quality feels poor and does not match the description.,Australia
+REV0100,2026-10-30,YouTube,1,wireless earbuds,product_quality,The product stopped working after a few days. Very disappointing.,United Kingdom
+REV0167,2026-10-30,Instagram,1,wireless earbuds,user_experience,Need this fixed — The app keeps crashing and the checkout process is frustrating.,India
+REV0202,2026-10-30,Google Reviews,1,speaker,customer_support,Not happy: The response was rude and my complaint was ignored.,India
+REV0374,2026-10-30,Google Reviews,2,mobile app,pricing,Not happy: The price is too high for the quality offered.,Australia
+REV0458,2026-10-30,Instagram,1,speaker,delivery,Need this fixed — My order was delayed and the tracking updates were not helpful.,United States
+REV0020,2026-10-31,YouTube,4,subscription,features,Just sharing my experience — The latest features are useful and make my daily work easier.,United States
+REV0070,2026-10-31,Facebook,3,subscription,brand_trust,"This is my first purchase from the brand, so I do not have a strong opinion yet.",Singapore
+REV0153,2026-10-31,YouTube,2,subscription,product_quality,"Honestly, The quality feels poor and does not match the description.",India
+REV0272,2026-10-31,X,2,smart watch,pricing,The price is too high for the quality offered.,Singapore
+REV0344,2026-11-01,YouTube,2,subscription,features,"Honestly, The feature I need is missing and the latest update made things worse.",Australia
+REV0355,2026-11-01,YouTube,2,smart watch,pricing,"Honestly, The price is too high for the quality offered.",United States
+REV0054,2026-11-02,X,2,mobile app,pricing,The price is too high for the quality offered. Thanks.,India
+REV0110,2026-11-02,YouTube,1,speaker,delivery,The package arrived damaged and the replacement process is slow. Thanks.,Singapore
+REV0126,2026-11-02,Facebook,5,smart watch,delivery,Just sharing my experience — My order arrived earlier than expected and was packed carefully.,Singapore
+REV0138,2026-11-02,Google Reviews,1,wireless earbuds,refunds,Need this fixed — My refund is still pending and I have not received a clear update.,United Kingdom
+REV0172,2026-11-02,YouTube,5,mobile app,product_quality,Just sharing my experience — The mobile app quality is excellent and feels worth the price.,United Kingdom
+REV0306,2026-11-02,Google Reviews,5,subscription,customer_support,Just sharing my experience — Customer support resolved my issue quickly and politely.,United Kingdom
+REV0469,2026-11-02,Instagram,3,wireless earbuds,pricing,The price is in the usual range for this category.,Singapore
+REV0484,2026-11-02,Instagram,1,speaker,product_quality,Not happy: The product stopped working after a few days. Very disappointing.,United Kingdom
+REV0006,2026-11-03,Google Reviews,3,wireless earbuds,brand_trust,"This is my first purchase from the brand, so I do not have a strong opinion yet.",United Kingdom
+REV0178,2026-11-03,X,4,smart watch,product_quality,Impressed with the build quality and reliable performance.,United Kingdom
+REV0249,2026-11-03,Instagram,5,speaker,customer_support,Update: Customer support resolved my issue quickly and politely.,Australia
+REV0443,2026-11-03,Facebook,4,wireless earbuds,customer_support,The support team was helpful and kept me updated.,Australia
+REV0065,2026-11-04,X,2,speaker,features,"Honestly, The feature I need is missing and the latest update made things worse.",Australia
+REV0152,2026-11-04,Google Reviews,5,wireless earbuds,delivery,Just sharing my experience — My order arrived earlier than expected and was packed carefully.,Australia
+REV0171,2026-11-04,YouTube,1,mobile app,customer_support,I contacted customer support twice but nobody resolved the issue.,United Kingdom
+REV0223,2026-11-04,Facebook,1,mobile app,user_experience,Need this fixed — The app keeps crashing and the checkout process is frustrating.,United Kingdom
+REV0271,2026-11-04,X,1,speaker,product_quality,"Honestly, The product stopped working after a few days. Very disappointing.",United Kingdom
+REV0327,2026-11-04,YouTube,4,mobile app,customer_support,Update: The support team was helpful and kept me updated.,Australia
+REV0381,2026-11-04,Instagram,3,subscription,delivery,My feedback: The order arrived within the estimated delivery window.,United Kingdom
+REV0394,2026-11-04,Instagram,4,wireless earbuds,customer_support,Just sharing my experience — The support team was helpful and kept me updated.,United Kingdom
+REV0397,2026-11-04,YouTube,1,subscription,customer_support,Not happy: I contacted customer support twice but nobody resolved the issue.,India
+REV0454,2026-11-04,Instagram,1,mobile app,user_experience,The app keeps crashing and the checkout process is frustrating.,India
+REV0175,2026-11-05,Facebook,2,mobile app,pricing,"Honestly, The price is too high for the quality offered.",United States
+REV0300,2026-11-05,YouTube,1,mobile app,refunds,My refund is still pending and I have not received a clear update.,Singapore
+REV0021,2026-11-06,X,3,mobile app,user_experience,"My feedback: The app works for basic tasks, although some screens take time to load.",Singapore
+REV0039,2026-11-06,Google Reviews,4,subscription,features,Update: The latest features are useful and make my daily work easier.,India
+REV0119,2026-11-06,Facebook,4,speaker,features,The latest features are useful and make my daily work easier.,Singapore
+REV0121,2026-11-06,Facebook,2,wireless earbuds,features,Need this fixed — The feature I need is missing and the latest update made things worse.,India
+REV0141,2026-11-06,Instagram,1,speaker,delivery,Need this fixed — The package arrived damaged and the replacement process is slow.,Singapore
+REV0176,2026-11-06,Instagram,5,smart watch,value_for_money,Just sharing my experience — Great value for money. I am genuinely happy with this purchase.,United States
+REV0198,2026-11-06,X,5,mobile app,product_quality,Really happy: The mobile app quality is excellent and feels worth the price.,United States
+REV0308,2026-11-06,Instagram,5,mobile app,user_experience,Really happy: The app is easy to use and the experience is smooth.,India
+REV0366,2026-11-06,Facebook,4,mobile app,product_quality,Really happy: Impressed with the build quality and reliable performance.,India
+REV0462,2026-11-06,X,5,mobile app,value_for_money,Update: Great value for money. I am genuinely happy with this purchase.,United States
+REV0481,2026-11-06,Instagram,1,wireless earbuds,customer_support,Not happy: The response was rude and my complaint was ignored.,India
+REV0080,2026-11-07,X,1,wireless earbuds,customer_support,"Honestly, The response was rude and my complaint was ignored.",India
+REV0108,2026-11-07,YouTube,3,speaker,customer_support,Support shared the information I requested.,Australia
+REV0287,2026-11-07,Google Reviews,1,smart watch,refunds,"Honestly, My refund is still pending and I have not received a clear update.",United States
+REV0333,2026-11-07,X,1,subscription,refunds,Not happy: My refund is still pending and I have not received a clear update. Hope the team sees this.,United States
+REV0483,2026-11-07,Google Reviews,5,mobile app,product_quality,The mobile app quality is excellent and feels worth the price.,United Kingdom
+REV0490,2026-11-07,Facebook,1,wireless earbuds,customer_support,Not happy: I contacted customer support twice but nobody resolved the issue.,United Kingdom
+REV0063,2026-11-08,Google Reviews,1,speaker,customer_support,Need this fixed — I contacted customer support twice but nobody resolved the issue.,Australia
+REV0071,2026-11-08,YouTube,4,speaker,customer_support,Really happy: The support team was helpful and kept me updated.,United States
+REV0260,2026-11-08,Google Reviews,5,subscription,brand_trust,Just sharing my experience — I have had a good experience with this brand so far.,United States
+REV0487,2026-11-08,YouTube,5,wireless earbuds,product_quality,Really happy: The wireless earbuds quality is excellent and feels worth the price.,United States
+REV0496,2026-11-08,X,4,wireless earbuds,product_quality,Just sharing my experience — Impressed with the build quality and reliable performance.,Australia
+REV0050,2026-11-09,Google Reviews,3,mobile app,product_quality,The quality is average and similar to other products I have tried.,United Kingdom
+REV0059,2026-11-09,X,1,subscription,user_experience,"Honestly, The app keeps crashing and the checkout process is frustrating. Hope the team sees this.",United States
+REV0105,2026-11-09,X,5,smart watch,customer_support,Really happy: Customer support resolved my issue quickly and politely.,Australia
+REV0216,2026-11-09,YouTube,5,wireless earbuds,delivery,Just sharing my experience — My order arrived earlier than expected and was packed carefully.,India
+REV0277,2026-11-09,X,2,subscription,features,Not happy: The feature I need is missing and the latest update made things worse.,India
+REV0305,2026-11-09,YouTube,1,mobile app,delivery,Not happy: The package arrived damaged and the replacement process is slow.,United States
+REV0079,2026-11-10,Google Reviews,5,wireless earbuds,user_experience,Just sharing my experience — The app is easy to use and the experience is smooth. Thanks.,India
+REV0131,2026-11-10,Instagram,4,mobile app,customer_support,Really happy: The support team was helpful and kept me updated.,Australia
+REV0234,2026-11-10,YouTube,1,mobile app,delivery,"Honestly, The package arrived damaged and the replacement process is slow.",United Kingdom
+REV0273,2026-11-10,Google Reviews,2,subscription,features,Need this fixed — The feature I need is missing and the latest update made things worse.,India
+REV0280,2026-11-10,Google Reviews,4,speaker,customer_support,The support team was helpful and kept me updated.,United States
+REV0311,2026-11-10,X,3,mobile app,pricing,"For reference, The price is in the usual range for this category.",Australia
+REV0440,2026-11-10,YouTube,2,subscription,product_quality,The quality feels poor and does not match the description.,Australia
+REV0463,2026-11-10,Facebook,5,wireless earbuds,user_experience,The app is easy to use and the experience is smooth.,India
