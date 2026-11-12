@@ -1,0 +1,209 @@
+year,content_type,record_count
+1905.0,Movie,5
+1910.0,Movie,1
+1913.0,Movie,1
+1914.0,Movie,1
+1916.0,Movie,1
+1918.0,Movie,4
+1919.0,Movie,1
+1922.0,Movie,2
+1923.0,Movie,1
+1924.0,Movie,2
+1925.0,Movie,4
+1926.0,Movie,5
+1927.0,Movie,5
+1928.0,Movie,6
+1929.0,Movie,4
+1930.0,Movie,5
+1931.0,Movie,7
+1932.0,Movie,7
+1933.0,Movie,4
+1934.0,Movie,6
+1935.0,Movie,2
+1936.0,Movie,6
+1937.0,Movie,5
+1937.0,TV Show,1
+1938.0,Movie,11
+1938.0,TV Show,1
+1939.0,Movie,8
+1940.0,Movie,7
+1940.0,TV Show,1
+1941.0,Movie,3
+1941.0,TV Show,1
+1942.0,Movie,9
+1942.0,TV Show,1
+1943.0,Movie,8
+1944.0,Movie,10
+1945.0,Movie,15
+1946.0,Movie,11
+1947.0,Movie,14
+1947.0,TV Show,1
+1948.0,Movie,9
+1948.0,TV Show,1
+1949.0,Movie,13
+1950.0,Movie,14
+1951.0,Movie,16
+1951.0,TV Show,2
+1952.0,Movie,11
+1952.0,TV Show,4
+1953.0,Movie,18
+1954.0,Movie,14
+1954.0,TV Show,1
+1955.0,Movie,16
+1955.0,TV Show,3
+1956.0,Movie,15
+1956.0,TV Show,1
+1957.0,Movie,30
+1957.0,TV Show,2
+1958.0,Movie,26
+1958.0,TV Show,3
+1959.0,Movie,25
+1959.0,TV Show,46
+1960.0,Movie,33
+1960.0,TV Show,2
+1961.0,Movie,19
+1961.0,TV Show,3
+1962.0,Movie,28
+1962.0,TV Show,5
+1963.0,Movie,30
+1963.0,TV Show,2
+1964.0,Movie,34
+1964.0,TV Show,3
+1965.0,Movie,39
+1965.0,TV Show,2
+1966.0,Movie,31
+1966.0,TV Show,4
+1967.0,Movie,37
+1967.0,TV Show,6
+1968.0,Movie,43
+1968.0,TV Show,7
+1969.0,Movie,38
+1969.0,TV Show,10
+1970.0,Movie,43
+1970.0,TV Show,3
+1971.0,Movie,45
+1971.0,TV Show,9
+1972.0,Movie,68
+1972.0,TV Show,8
+1973.0,Movie,63
+1973.0,TV Show,10
+1974.0,Movie,63
+1974.0,TV Show,15
+1975.0,Movie,43
+1975.0,TV Show,6
+1976.0,Movie,59
+1976.0,TV Show,6
+1977.0,Movie,49
+1977.0,TV Show,7
+1978.0,Movie,53
+1978.0,TV Show,12
+1979.0,Movie,63
+1979.0,TV Show,9
+1980.0,Movie,65
+1980.0,TV Show,14
+1981.0,Movie,74
+1981.0,TV Show,9
+1982.0,Movie,61
+1982.0,TV Show,11
+1983.0,Movie,66
+1983.0,TV Show,11
+1984.0,Movie,66
+1984.0,Other,1
+1984.0,TV Show,12
+1985.0,Movie,81
+1985.0,TV Show,15
+1986.0,Movie,80
+1986.0,TV Show,17
+1987.0,Movie,107
+1987.0,TV Show,22
+1988.0,Movie,117
+1988.0,TV Show,26
+1989.0,Movie,94
+1989.0,TV Show,23
+1990.0,Movie,101
+1990.0,Other,1
+1990.0,TV Show,20
+1991.0,Movie,121
+1991.0,Other,1
+1991.0,TV Show,22
+1992.0,Movie,127
+1992.0,TV Show,24
+1993.0,Movie,151
+1993.0,Other,1
+1993.0,TV Show,54
+1994.0,Movie,177
+1994.0,TV Show,41
+1995.0,Movie,191
+1995.0,Other,2
+1995.0,TV Show,41
+1996.0,Movie,244
+1996.0,Other,2
+1996.0,TV Show,53
+1997.0,Movie,253
+1997.0,TV Show,64
+1998.0,Movie,317
+1998.0,Other,3
+1998.0,TV Show,72
+1999.0,Movie,402
+1999.0,TV Show,79
+2000.0,Movie,460
+2000.0,Other,2
+2000.0,TV Show,73
+2001.0,Movie,495
+2001.0,Other,2
+2001.0,TV Show,126
+2002.0,Movie,542
+2002.0,Other,1
+2002.0,TV Show,100
+2003.0,Movie,569
+2003.0,Other,2
+2003.0,TV Show,112
+2004.0,Movie,557
+2004.0,Other,2
+2004.0,TV Show,104
+2005.0,Movie,261
+2005.0,TV Show,40
+2006.0,Movie,51
+2006.0,Other,1
+2006.0,TV Show,19
+2007.0,Movie,35
+2007.0,Other,1
+2007.0,TV Show,21
+2008.0,Movie,39
+2008.0,Other,1
+2008.0,TV Show,5
+2009.0,Movie,26
+2009.0,TV Show,18
+2010.0,Movie,38
+2010.0,TV Show,31
+2011.0,Movie,26
+2011.0,Other,1
+2011.0,TV Show,18
+2012.0,Movie,51
+2012.0,TV Show,18
+2013.0,Movie,36
+2013.0,TV Show,37
+2014.0,Movie,37
+2014.0,Other,1
+2014.0,TV Show,28
+2015.0,Movie,47
+2015.0,Other,6
+2015.0,TV Show,40
+2016.0,Movie,31
+2016.0,TV Show,55
+2017.0,Movie,53
+2017.0,TV Show,50
+2018.0,Movie,55
+2018.0,Other,1
+2018.0,TV Show,63
+2019.0,Movie,51
+2019.0,Other,1
+2019.0,TV Show,66
+2020.0,Movie,58
+2020.0,Other,1
+2020.0,TV Show,70
+2021.0,Movie,57
+2021.0,TV Show,45
+2022.0,Movie,12
+2022.0,TV Show,2
+2023.0,Movie,2

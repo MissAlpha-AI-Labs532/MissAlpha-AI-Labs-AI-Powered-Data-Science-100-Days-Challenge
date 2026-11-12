@@ -1,0 +1,34 @@
+DATASET CHECK
+Rows: 9,826
+Columns: 14
+Kind counts:
+kind
+movie             5541
+video movie       1420
+episode            893
+tv series          813
+tv movie           796
+tv mini series     276
+NaN                 38
+video game          34
+tv short            15
+
+Missing values:
+Unnamed: 0       0
+title            1
+year            70
+kind            38
+genre           93
+rating         877
+vote           877
+country        665
+language       793
+cast           344
+director      1860
+composer      3622
+writer        1656
+runtime       1056
+
+KPI summary:
+ total_records  movies  tv_shows  other_or_unknown  unique_countries  unique_genres  average_rating  missing_year
+          9826    7757      1997                72               105             27            6.68            70
