@@ -1,0 +1,1001 @@
+﻿Order_ID,Order_Date,Restaurant_ID,Customer_ID,City,Meal_Period,Order_Channel,Food_Subtotal_INR,Discount_Rate,Delivery_Fee_INR,Customer_Bill_INR,Delivery_Minutes,Order_Status,Customer_Rating,Payment_Method
+F00001,2025-09-05,R026,U0353,Mumbai,Late Night,Web,1164,0.15,15,1004.4,47,Delivered,3,UPI
+F00002,2025-03-22,R010,U0192,Kolkata,Dinner,App,607,0.2,30,515.6,25,Delivered,5,UPI
+F00003,2025-03-11,R060,U0318,Kolkata,Breakfast,App,1207,0,15,1222,65,Refunded,0,Card
+F00004,2025-12-02,R023,U0103,Chennai,Breakfast,Web,420,0.1,35,413.0,32,Delivered,4,UPI
+F00005,2025-02-10,R078,U0095,Kolkata,Dinner,App,601,0.1,25,565.9,55,Delivered,0,UPI
+F00006,2025-06-17,R053,U0015,Pune,Late Night,Web,368,0.2,20,314.4,30,Delivered,5,UPI
+F00007,2025-10-25,R053,U0281,Pune,Lunch,Web,344,0,20,364,43,Refunded,0,Cash
+F00008,2025-07-13,R032,U0158,Chennai,Breakfast,App,601,0.05,35,605.95,58,Delivered,3,Card
+F00009,2025-09-21,R008,U0240,Bengaluru,Dinner,App,1109,0.1,20,1018.1,36,Delivered,5,Cash
+F00010,2025-02-06,R014,U0154,Bengaluru,Late Night,Web,835,0.1,20,771.5,51,Delivered,5,Card
+F00011,2025-04-11,R013,U0202,Mumbai,Breakfast,App,311,0.1,25,304.9,18,Delivered,3,Cash
+F00012,2025-11-26,R019,U0252,Bengaluru,Lunch,Web,259,0.05,20,266.05,33,Delivered,5,UPI
+F00013,2025-10-27,R046,U0180,Delhi,Dinner,App,981,0.1,30,912.9,48,Delivered,3,Wallet
+F00014,2025-04-30,R078,U0078,Kolkata,Late Night,Web,630,0.05,35,633.5,21,Delivered,3,Card
+F00015,2025-10-08,R068,U0042,Kolkata,Breakfast,App,540,0.1,35,521.0,26,Delivered,0,Wallet
+F00016,2025-03-11,R004,U0282,Kolkata,Breakfast,App,1156,0,35,1191,19,Delivered,5,Card
+F00017,2025-02-07,R071,U0200,Pune,Dinner,App,814,0.05,35,808.3,36,Delivered,5,Card
+F00018,2025-11-27,R032,U0077,Chennai,Lunch,App,218,0.2,20,194.4,57,Delivered,5,UPI
+F00019,2025-09-16,R008,U0208,Bengaluru,Late Night,App,363,0.15,20,328.55,53,Delivered,0,Wallet
+F00020,2025-12-27,R040,U0309,Kolkata,Lunch,Web,637,0.2,35,544.6,59,Delivered,5,Wallet
+F00021,2025-02-08,R019,U0222,Bengaluru,Late Night,Web,637,0.2,35,544.6,57,Delivered,5,Cash
+F00022,2025-02-25,R028,U0103,Chennai,Breakfast,Web,870,0.15,15,754.5,25,Delivered,4,Cash
+F00023,2025-12-22,R059,U0167,Mumbai,Dinner,Web,587,0,15,602,63,Delivered,3,UPI
+F00024,2025-06-29,R056,U0435,Hyderabad,Breakfast,Web,338,0.1,25,329.2,40,Delivered,5,UPI
+F00025,2025-06-18,R038,U0391,Pune,Dinner,App,1268,0.1,30,1171.2,28,Delivered,4,UPI
+F00026,2025-09-06,R026,U0372,Mumbai,Dinner,App,632,0.15,20,557.2,23,Delivered,3,UPI
+F00027,2025-10-15,R025,U0142,Mumbai,Breakfast,Web,1108,0.2,15,901.4,48,Delivered,5,Wallet
+F00028,2025-06-29,R072,U0301,Mumbai,Dinner,Web,321,0.05,20,324.95,28,Delivered,3,Cash
+F00029,2025-11-05,R077,U0193,Delhi,Late Night,Web,1031,0.15,15,891.35,52,Delivered,4,Wallet
+F00030,2025-07-09,R045,U0240,Chennai,Breakfast,Web,249,0,35,284,71,Delivered,3,Card
+F00031,2025-03-22,R024,U0316,Pune,Dinner,Web,1124,0,30,1154,55,Delivered,0,Wallet
+F00032,2025-10-19,R071,U0081,Pune,Breakfast,App,1185,0.15,20,1027.25,71,Refunded,0,UPI
+F00033,2025-08-16,R009,U0066,Delhi,Late Night,Web,1345,0.15,25,1168.25,64,Delivered,3,Cash
+F00034,2025-05-13,R067,U0283,Chennai,Late Night,App,764,0.1,20,707.6,54,Cancelled,0,UPI
+F00035,2025-04-06,R018,U0228,Kolkata,Late Night,Web,594,0.2,30,505.2,75,Delivered,4,Card
+F00036,2025-06-01,R054,U0052,Kolkata,Breakfast,App,868,0,25,893,69,Delivered,4,UPI
+F00037,2025-08-20,R075,U0029,Bengaluru,Lunch,App,1084,0,30,1114,57,Delivered,5,Wallet
+F00038,2025-07-08,R079,U0102,Hyderabad,Late Night,App,908,0.05,20,882.6,18,Delivered,5,Wallet
+F00039,2025-06-20,R056,U0298,Hyderabad,Dinner,App,631,0.1,35,602.9,68,Delivered,5,Cash
+F00040,2025-10-04,R002,U0173,Hyderabad,Dinner,App,299,0.15,20,274.15,56,Delivered,3,Card
+F00041,2025-12-28,R031,U0375,Bengaluru,Breakfast,App,1370,0.05,30,1331.5,67,Delivered,5,UPI
+F00042,2025-08-24,R029,U0258,Mumbai,Dinner,Web,784,0.1,25,730.6,30,Delivered,3,Card
+F00043,2025-05-28,R038,U0352,Pune,Lunch,Web,886,0.1,20,817.4,71,Delivered,3,Wallet
+F00044,2025-08-26,R001,U0337,Chennai,Lunch,App,924,0.15,35,820.4,19,Delivered,4,Cash
+F00045,2025-05-19,R007,U0405,Delhi,Breakfast,Web,752,0.15,25,664.2,24,Delivered,5,Cash
+F00046,2025-08-07,R062,U0326,Chennai,Dinner,App,1156,0.05,20,1118.2,53,Delivered,0,Cash
+F00047,2025-07-05,R014,U0378,Bengaluru,Dinner,Web,1190,0,20,1210,55,Delivered,0,Card
+F00048,2025-09-17,R063,U0308,Mumbai,Breakfast,Web,537,0.1,15,498.3,35,Delivered,3,Wallet
+F00049,2025-11-28,R072,U0037,Mumbai,Breakfast,App,581,0,20,601,26,Delivered,4,Cash
+F00050,2025-10-02,R037,U0251,Mumbai,Dinner,Web,468,0.2,15,389.4,54,Delivered,4,UPI
+F00051,2025-09-16,R058,U0188,Chennai,Breakfast,App,1146,0,30,1176,58,Delivered,4,Wallet
+F00052,2025-05-27,R015,U0102,Kolkata,Breakfast,App,789,0.05,25,774.55,50,Delivered,3,Cash
+F00053,2025-12-07,R009,U0292,Delhi,Late Night,Web,805,0.1,20,744.5,58,Refunded,0,UPI
+F00054,2025-04-11,R070,U0106,Pune,Lunch,App,913,0.1,35,856.7,74,Delivered,5,Cash
+F00055,2025-08-20,R065,U0443,Kolkata,Late Night,App,1396,0,35,1431,25,Cancelled,0,UPI
+F00056,2025-11-08,R060,U0238,Kolkata,Lunch,App,405,0,30,435,19,Delivered,4,Cash
+F00057,2025-07-08,R036,U0283,Chennai,Late Night,Web,292,0.05,20,297.4,37,Delivered,0,Cash
+F00058,2025-07-18,R016,U0104,Mumbai,Breakfast,App,1380,0,15,1395,28,Delivered,5,UPI
+F00059,2025-01-26,R063,U0233,Mumbai,Lunch,App,1102,0.1,25,1016.8,60,Delivered,3,UPI
+F00060,2025-04-20,R035,U0216,Bengaluru,Lunch,Web,675,0.1,15,622.5,24,Delivered,4,UPI
+F00061,2025-04-20,R074,U0336,Delhi,Lunch,Web,1375,0.1,15,1252.5,51,Delivered,5,Cash
+F00062,2025-08-15,R060,U0347,Kolkata,Breakfast,App,1277,0,35,1312,50,Delivered,0,UPI
+F00063,2025-01-24,R036,U0419,Chennai,Lunch,App,759,0.05,35,756.05,53,Delivered,0,UPI
+F00064,2025-07-02,R005,U0420,Mumbai,Dinner,App,258,0,20,278,63,Delivered,4,Wallet
+F00065,2025-10-13,R073,U0421,Mumbai,Lunch,Web,1292,0.1,35,1197.8,38,Delivered,0,Cash
+F00066,2025-11-07,R006,U0009,Hyderabad,Lunch,Web,357,0.2,25,310.6,21,Delivered,0,Cash
+F00067,2025-02-16,R036,U0218,Chennai,Breakfast,Web,892,0.2,35,748.6,37,Delivered,3,Wallet
+F00068,2025-03-01,R068,U0096,Kolkata,Dinner,Web,373,0,20,393,44,Delivered,5,Wallet
+F00069,2025-08-16,R032,U0305,Chennai,Late Night,App,696,0.2,20,576.8,38,Delivered,0,UPI
+F00070,2025-09-05,R068,U0023,Kolkata,Breakfast,Web,180,0.15,25,178.0,44,Delivered,4,Wallet
+F00071,2025-10-13,R073,U0100,Mumbai,Late Night,App,1174,0.15,35,1032.9,56,Delivered,4,Cash
+F00072,2025-03-10,R062,U0327,Chennai,Late Night,Web,864,0.2,35,726.2,34,Delivered,4,Wallet
+F00073,2025-05-28,R013,U0432,Mumbai,Late Night,App,185,0,15,200,68,Delivered,5,UPI
+F00074,2025-11-17,R049,U0051,Kolkata,Lunch,Web,691,0.15,15,602.35,26,Delivered,4,Cash
+F00075,2025-06-24,R002,U0254,Hyderabad,Late Night,Web,1247,0.2,15,1012.6,44,Delivered,3,Wallet
+F00076,2025-08-14,R050,U0265,Bengaluru,Dinner,App,565,0,30,595,52,Refunded,0,Wallet
+F00077,2025-06-15,R046,U0189,Delhi,Late Night,Web,1025,0.2,15,835.0,68,Delivered,5,Cash
+F00078,2025-05-11,R009,U0292,Delhi,Late Night,App,673,0.2,25,563.4,28,Delivered,0,Cash
+F00079,2025-05-09,R052,U0276,Delhi,Breakfast,Web,1311,0.2,25,1073.8,55,Delivered,3,Wallet
+F00080,2025-08-31,R009,U0078,Delhi,Late Night,App,208,0.05,30,227.6,30,Delivered,4,Card
+F00081,2025-03-05,R047,U0072,Delhi,Dinner,Web,1037,0.15,25,906.45,34,Delivered,0,Card
+F00082,2025-08-22,R008,U0309,Bengaluru,Breakfast,Web,297,0.2,15,252.6,20,Delivered,3,UPI
+F00083,2025-06-15,R024,U0023,Pune,Lunch,App,609,0.05,30,608.55,39,Delivered,3,Card
+F00084,2025-08-20,R048,U0109,Bengaluru,Breakfast,App,420,0.2,35,371.0,26,Cancelled,0,Card
+F00085,2025-11-06,R057,U0270,Pune,Late Night,App,560,0.2,35,483.0,62,Delivered,0,Wallet
+F00086,2025-09-06,R006,U0424,Hyderabad,Late Night,App,404,0.2,35,358.2,40,Delivered,4,Card
+F00087,2025-01-08,R003,U0111,Kolkata,Late Night,App,1256,0.05,25,1218.2,43,Delivered,5,Card
+F00088,2025-01-31,R071,U0349,Pune,Lunch,App,649,0.2,15,534.2,31,Delivered,0,UPI
+F00089,2025-12-27,R075,U0399,Bengaluru,Late Night,App,560,0.1,35,539.0,42,Delivered,5,Card
+F00090,2025-05-30,R029,U0268,Mumbai,Lunch,App,854,0.15,25,750.9,52,Delivered,5,Wallet
+F00091,2025-07-08,R080,U0434,Kolkata,Dinner,Web,1223,0.2,30,1008.4,40,Delivered,0,Cash
+F00092,2025-07-24,R028,U0010,Chennai,Breakfast,App,220,0.1,20,218.0,62,Delivered,3,Cash
+F00093,2025-08-03,R011,U0140,Kolkata,Late Night,App,485,0.15,25,437.25,52,Delivered,0,UPI
+F00094,2025-04-08,R022,U0001,Delhi,Late Night,Web,945,0.15,25,828.25,75,Delivered,0,UPI
+F00095,2025-01-18,R061,U0016,Pune,Lunch,App,906,0.15,15,785.1,39,Delivered,5,Wallet
+F00096,2025-09-09,R028,U0098,Chennai,Late Night,Web,577,0.1,35,554.3,37,Delivered,5,UPI
+F00097,2025-02-24,R012,U0379,Kolkata,Late Night,App,621,0.05,20,609.95,19,Delivered,4,Wallet
+F00098,2025-08-20,R014,U0382,Bengaluru,Breakfast,Web,543,0,35,578,31,Delivered,3,UPI
+F00099,2025-05-07,R072,U0213,Mumbai,Breakfast,Web,551,0.1,30,525.9,56,Delivered,4,UPI
+F00100,2025-04-17,R018,U0216,Kolkata,Lunch,Web,552,0.15,35,504.2,41,Delivered,3,Wallet
+F00101,2025-02-12,R049,U0314,Kolkata,Late Night,Web,1115,0.05,20,1079.25,29,Delivered,5,Wallet
+F00102,2025-05-28,R032,U0231,Chennai,Breakfast,Web,831,0,25,856,43,Cancelled,0,Wallet
+F00103,2025-09-16,R046,U0291,Delhi,Lunch,App,1375,0.15,25,1193.75,48,Delivered,5,Cash
+F00104,2025-07-03,R029,U0392,Mumbai,Breakfast,Web,1336,0,15,1351,52,Delivered,3,Wallet
+F00105,2025-07-06,R038,U0439,Pune,Late Night,Web,945,0.05,25,922.75,56,Delivered,4,UPI
+F00106,2025-02-19,R051,U0228,Mumbai,Dinner,Web,693,0.15,20,609.05,20,Delivered,5,Wallet
+F00107,2025-08-01,R023,U0111,Chennai,Dinner,Web,695,0,25,720,40,Delivered,3,Wallet
+F00108,2025-05-04,R069,U0108,Bengaluru,Late Night,Web,1350,0.15,35,1182.5,49,Delivered,5,Card
+F00109,2025-04-03,R013,U0182,Mumbai,Late Night,Web,993,0,25,1018,66,Delivered,4,Wallet
+F00110,2025-04-27,R047,U0137,Delhi,Lunch,Web,216,0.2,20,192.8,37,Cancelled,0,Card
+F00111,2025-10-06,R036,U0231,Chennai,Dinner,Web,424,0,25,449,63,Delivered,5,UPI
+F00112,2025-03-17,R020,U0247,Hyderabad,Lunch,App,975,0.05,20,946.25,60,Delivered,5,Wallet
+F00113,2025-12-15,R028,U0341,Chennai,Breakfast,App,710,0.15,25,628.5,36,Delivered,5,Card
+F00114,2025-08-14,R078,U0421,Kolkata,Lunch,Web,384,0.05,35,399.8,65,Delivered,0,Cash
+F00115,2025-07-26,R033,U0192,Bengaluru,Lunch,Web,1067,0.05,15,1028.65,30,Delivered,3,Wallet
+F00116,2025-06-29,R017,U0148,Mumbai,Dinner,App,735,0,25,760,60,Delivered,3,Wallet
+F00117,2025-08-15,R040,U0047,Kolkata,Late Night,App,452,0.1,20,426.8,66,Delivered,0,Card
+F00118,2025-03-23,R032,U0262,Chennai,Breakfast,App,1035,0.15,30,909.75,57,Delivered,0,Wallet
+F00119,2025-03-30,R041,U0054,Chennai,Lunch,App,1149,0,15,1164,53,Delivered,4,UPI
+F00120,2025-02-28,R007,U0328,Delhi,Late Night,App,532,0.15,35,487.2,29,Delivered,3,UPI
+F00121,2025-09-08,R029,U0422,Mumbai,Breakfast,App,896,0.2,30,746.8,29,Delivered,3,Wallet
+F00122,2025-02-08,R046,U0092,Delhi,Dinner,Web,549,0.1,35,529.1,54,Delivered,4,Card
+F00123,2025-01-05,R035,U0254,Bengaluru,Dinner,Web,225,0.15,20,211.25,18,Delivered,5,Card
+F00124,2025-09-20,R023,U0375,Chennai,Late Night,App,409,0.2,35,362.2,49,Cancelled,0,Cash
+F00125,2025-08-19,R044,U0103,Mumbai,Late Night,Web,575,0.05,25,571.25,36,Delivered,5,Wallet
+F00126,2025-06-22,R019,U0128,Bengaluru,Breakfast,App,528,0.2,30,452.4,36,Delivered,0,Wallet
+F00127,2025-06-18,R038,U0264,Pune,Breakfast,Web,765,0.05,35,761.75,49,Delivered,5,UPI
+F00128,2025-12-20,R019,U0382,Bengaluru,Dinner,App,902,0.1,15,826.8,67,Delivered,5,Card
+F00129,2025-01-29,R068,U0319,Kolkata,Breakfast,Web,369,0.2,20,315.2,40,Delivered,4,Cash
+F00130,2025-09-18,R009,U0149,Delhi,Breakfast,App,1154,0.2,15,938.2,58,Delivered,4,UPI
+F00131,2025-04-28,R008,U0057,Bengaluru,Lunch,Web,1155,0.2,25,949.0,21,Delivered,3,Cash
+F00132,2025-07-13,R038,U0348,Pune,Lunch,App,770,0.15,25,679.5,57,Cancelled,0,Wallet
+F00133,2025-04-02,R042,U0007,Delhi,Lunch,App,1252,0.05,30,1219.4,20,Delivered,5,UPI
+F00134,2025-10-09,R068,U0430,Kolkata,Dinner,App,1256,0.2,35,1039.8,28,Delivered,5,Card
+F00135,2025-09-16,R033,U0288,Bengaluru,Late Night,Web,636,0.1,20,592.4,44,Delivered,3,Wallet
+F00136,2025-05-24,R018,U0042,Kolkata,Breakfast,App,1377,0.1,30,1269.3,62,Delivered,4,UPI
+F00137,2025-08-14,R058,U0163,Chennai,Dinner,Web,516,0.05,35,525.2,46,Cancelled,0,Card
+F00138,2025-12-23,R041,U0396,Chennai,Late Night,App,584,0.05,35,589.8,18,Delivered,0,Wallet
+F00139,2025-07-10,R080,U0311,Kolkata,Breakfast,App,518,0.05,15,507.1,18,Delivered,3,Cash
+F00140,2025-07-09,R036,U0414,Chennai,Lunch,App,695,0.2,25,581.0,23,Delivered,4,UPI
+F00141,2025-02-06,R079,U0290,Hyderabad,Late Night,App,663,0.2,25,555.4,46,Delivered,5,UPI
+F00142,2025-01-31,R072,U0349,Mumbai,Dinner,Web,725,0.15,30,646.25,45,Delivered,5,Wallet
+F00143,2025-04-05,R028,U0124,Chennai,Late Night,App,1210,0.2,20,988.0,67,Refunded,0,Wallet
+F00144,2025-10-19,R076,U0444,Bengaluru,Late Night,App,921,0.05,20,894.95,33,Delivered,5,Card
+F00145,2025-11-29,R032,U0303,Chennai,Breakfast,Web,594,0.1,25,559.6,62,Delivered,3,UPI
+F00146,2025-08-24,R020,U0297,Hyderabad,Lunch,App,368,0.2,15,309.4,49,Delivered,3,Wallet
+F00147,2025-10-28,R077,U0075,Delhi,Lunch,Web,301,0.05,25,310.95,22,Delivered,5,Card
+F00148,2025-08-07,R060,U0109,Kolkata,Lunch,App,325,0.15,20,296.25,24,Refunded,0,Wallet
+F00149,2025-05-08,R029,U0229,Mumbai,Late Night,Web,1325,0.15,35,1161.25,41,Delivered,5,Card
+F00150,2025-04-03,R068,U0011,Kolkata,Lunch,Web,878,0.05,15,849.1,72,Delivered,3,Cash
+F00151,2025-11-03,R014,U0157,Bengaluru,Dinner,App,532,0.05,20,525.4,19,Delivered,5,Card
+F00152,2025-07-13,R048,U0223,Bengaluru,Breakfast,App,633,0,30,663,65,Delivered,4,UPI
+F00153,2025-03-18,R077,U0315,Delhi,Breakfast,Web,900,0.15,15,780.0,56,Delivered,4,Cash
+F00154,2025-10-26,R002,U0433,Hyderabad,Late Night,Web,828,0.05,35,821.6,22,Delivered,0,Wallet
+F00155,2025-12-17,R043,U0375,Kolkata,Late Night,App,780,0,25,805,26,Delivered,0,Cash
+F00156,2025-12-23,R033,U0343,Bengaluru,Dinner,App,1155,0.05,35,1132.25,48,Delivered,0,Cash
+F00157,2025-10-28,R024,U0188,Pune,Lunch,App,190,0.1,15,186.0,67,Delivered,3,UPI
+F00158,2025-04-02,R031,U0242,Bengaluru,Lunch,App,1198,0.2,15,973.4,58,Delivered,4,Card
+F00159,2025-04-05,R048,U0260,Bengaluru,Lunch,Web,351,0.05,30,363.45,46,Delivered,4,UPI
+F00160,2025-02-06,R008,U0067,Bengaluru,Late Night,App,789,0.2,15,646.2,50,Delivered,0,Card
+F00161,2025-03-08,R055,U0201,Mumbai,Breakfast,App,485,0.2,15,403.0,40,Delivered,4,Card
+F00162,2025-01-29,R036,U0200,Chennai,Breakfast,App,1137,0.1,25,1048.3,57,Delivered,5,Card
+F00163,2025-11-17,R077,U0015,Delhi,Late Night,Web,898,0,30,928,33,Refunded,0,Wallet
+F00164,2025-05-27,R001,U0143,Chennai,Late Night,App,533,0.1,35,514.7,31,Delivered,4,UPI
+F00165,2025-08-09,R041,U0185,Chennai,Late Night,App,1106,0.1,15,1010.4,29,Delivered,0,Card
+F00166,2025-12-19,R079,U0025,Hyderabad,Lunch,App,834,0,15,849,31,Delivered,0,Wallet
+F00167,2025-06-11,R049,U0047,Kolkata,Dinner,Web,1171,0.05,20,1132.45,50,Delivered,0,Cash
+F00168,2025-11-25,R005,U0450,Mumbai,Breakfast,App,1296,0.1,30,1196.4,62,Delivered,4,Cash
+F00169,2025-12-25,R028,U0006,Chennai,Dinner,Web,963,0.2,25,795.4,40,Delivered,0,Card
+F00170,2025-10-11,R077,U0082,Delhi,Lunch,Web,940,0.05,35,928.0,66,Delivered,5,Wallet
+F00171,2025-12-13,R017,U0229,Mumbai,Dinner,Web,1140,0.05,35,1118.0,54,Delivered,5,Cash
+F00172,2025-08-20,R067,U0339,Chennai,Breakfast,Web,564,0.05,25,560.8,40,Delivered,0,UPI
+F00173,2025-12-29,R038,U0113,Pune,Dinner,Web,352,0.15,20,319.2,64,Cancelled,0,Card
+F00174,2025-07-09,R061,U0433,Pune,Lunch,Web,601,0.05,25,595.95,31,Cancelled,0,Card
+F00175,2025-08-04,R017,U0203,Mumbai,Breakfast,App,760,0.1,15,699.0,41,Delivered,5,Wallet
+F00176,2025-08-07,R020,U0410,Hyderabad,Breakfast,App,883,0.2,25,731.4,52,Delivered,3,Wallet
+F00177,2025-05-22,R035,U0011,Bengaluru,Breakfast,App,519,0,30,549,51,Delivered,0,UPI
+F00178,2025-05-27,R060,U0016,Kolkata,Breakfast,App,284,0.2,30,257.2,74,Delivered,0,Card
+F00179,2025-11-24,R043,U0060,Kolkata,Late Night,App,1353,0.15,35,1185.05,62,Delivered,5,Cash
+F00180,2025-09-18,R041,U0217,Chennai,Lunch,Web,522,0.2,30,447.6,37,Refunded,0,Card
+F00181,2025-04-20,R013,U0024,Mumbai,Breakfast,Web,393,0.2,15,329.4,35,Delivered,3,Card
+F00182,2025-09-15,R019,U0082,Bengaluru,Lunch,Web,835,0.15,35,744.75,25,Delivered,5,Cash
+F00183,2025-01-30,R077,U0366,Delhi,Lunch,App,890,0.15,20,776.5,48,Delivered,4,Cash
+F00184,2025-11-26,R008,U0175,Bengaluru,Lunch,Web,646,0.05,30,643.7,73,Delivered,5,Wallet
+F00185,2025-01-24,R015,U0307,Kolkata,Late Night,App,202,0.1,30,211.8,33,Delivered,0,Cash
+F00186,2025-02-24,R040,U0023,Kolkata,Breakfast,App,1070,0.05,20,1036.5,54,Delivered,0,UPI
+F00187,2025-02-23,R059,U0217,Mumbai,Lunch,App,1178,0.15,15,1016.3,40,Delivered,3,Wallet
+F00188,2025-08-17,R057,U0216,Pune,Dinner,App,1221,0.1,35,1133.9,21,Delivered,3,Wallet
+F00189,2025-04-16,R041,U0060,Chennai,Lunch,Web,379,0,35,414,63,Delivered,3,Cash
+F00190,2025-07-14,R062,U0346,Chennai,Late Night,App,1258,0.2,30,1036.4,46,Delivered,0,Wallet
+F00191,2025-06-01,R021,U0090,Pune,Dinner,App,1046,0.15,15,904.1,23,Delivered,3,UPI
+F00192,2025-10-24,R042,U0336,Delhi,Late Night,Web,788,0,20,808,65,Delivered,3,Cash
+F00193,2025-10-27,R055,U0267,Mumbai,Late Night,App,367,0,15,382,41,Delivered,5,Wallet
+F00194,2025-01-20,R032,U0410,Chennai,Lunch,App,422,0.2,25,362.6,35,Delivered,0,Card
+F00195,2025-08-01,R012,U0059,Kolkata,Breakfast,App,607,0.15,35,550.95,67,Delivered,0,Cash
+F00196,2025-06-22,R033,U0158,Bengaluru,Lunch,Web,1111,0.15,20,964.35,28,Delivered,5,UPI
+F00197,2025-06-02,R003,U0071,Kolkata,Lunch,Web,600,0.05,20,590.0,63,Delivered,4,Cash
+F00198,2025-11-15,R053,U0226,Pune,Late Night,App,1120,0.1,25,1033.0,41,Delivered,4,UPI
+F00199,2025-08-03,R068,U0076,Kolkata,Late Night,App,717,0.1,20,665.3,73,Delivered,3,Wallet
+F00200,2025-07-18,R025,U0146,Mumbai,Breakfast,Web,846,0.2,20,696.8,66,Delivered,0,Wallet
+F00201,2025-08-23,R009,U0049,Delhi,Breakfast,Web,687,0,35,722,24,Delivered,3,Card
+F00202,2025-11-26,R029,U0357,Mumbai,Lunch,App,314,0.15,30,296.9,37,Delivered,3,UPI
+F00203,2025-06-18,R033,U0018,Bengaluru,Breakfast,Web,916,0.1,15,839.4,34,Refunded,0,UPI
+F00204,2025-08-22,R023,U0412,Chennai,Lunch,App,905,0,15,920,21,Delivered,5,Cash
+F00205,2025-09-03,R043,U0446,Kolkata,Lunch,Web,602,0.15,30,541.7,46,Delivered,0,Cash
+F00206,2025-07-13,R018,U0304,Kolkata,Dinner,Web,612,0.05,30,611.4,29,Delivered,4,UPI
+F00207,2025-06-09,R065,U0075,Kolkata,Lunch,App,342,0.1,15,322.8,47,Delivered,3,Card
+F00208,2025-08-18,R051,U0404,Mumbai,Dinner,App,1377,0.15,15,1185.45,74,Delivered,4,Card
+F00209,2025-09-20,R004,U0407,Kolkata,Late Night,App,251,0.2,15,215.8,22,Delivered,0,Wallet
+F00210,2025-03-18,R026,U0184,Mumbai,Lunch,App,584,0.05,15,569.8,44,Delivered,0,Cash
+F00211,2025-02-05,R053,U0278,Pune,Breakfast,App,280,0.1,25,277.0,69,Delivered,5,Cash
+F00212,2025-09-24,R068,U0408,Kolkata,Breakfast,Web,1129,0,15,1144,70,Delivered,4,UPI
+F00213,2025-04-02,R067,U0327,Chennai,Dinner,Web,1359,0.1,25,1248.1,55,Delivered,0,UPI
+F00214,2025-06-27,R062,U0034,Chennai,Breakfast,Web,291,0.1,15,276.9,37,Refunded,0,Wallet
+F00215,2025-11-01,R032,U0430,Chennai,Breakfast,Web,822,0.2,20,677.6,47,Delivered,4,Card
+F00216,2025-08-07,R022,U0137,Delhi,Late Night,App,653,0.05,35,655.35,50,Cancelled,0,UPI
+F00217,2025-07-09,R044,U0058,Mumbai,Late Night,App,352,0.05,30,364.4,70,Delivered,5,Wallet
+F00218,2025-07-06,R065,U0275,Kolkata,Late Night,App,262,0,35,297,59,Delivered,5,UPI
+F00219,2025-01-01,R020,U0158,Hyderabad,Late Night,App,1240,0.2,20,1012.0,72,Delivered,5,Wallet
+F00220,2025-07-02,R062,U0431,Chennai,Lunch,Web,474,0.1,35,461.6,63,Delivered,3,Cash
+F00221,2025-12-27,R033,U0383,Bengaluru,Dinner,Web,227,0.05,15,230.65,47,Delivered,4,Wallet
+F00222,2025-11-26,R055,U0108,Mumbai,Late Night,App,656,0.1,30,620.4,65,Delivered,4,UPI
+F00223,2025-11-30,R025,U0177,Mumbai,Late Night,Web,917,0,30,947,58,Delivered,0,Wallet
+F00224,2025-09-07,R074,U0095,Delhi,Breakfast,App,300,0.05,20,305.0,22,Delivered,0,Card
+F00225,2025-11-20,R016,U0395,Mumbai,Breakfast,App,967,0.05,15,933.65,57,Delivered,3,Wallet
+F00226,2025-06-24,R058,U0021,Chennai,Lunch,Web,1257,0.1,15,1146.3,34,Delivered,4,UPI
+F00227,2025-12-30,R037,U0319,Mumbai,Lunch,App,278,0.15,20,256.3,44,Delivered,3,Wallet
+F00228,2025-09-02,R054,U0001,Kolkata,Dinner,App,1334,0.1,15,1215.6,44,Delivered,5,Card
+F00229,2025-05-08,R027,U0064,Chennai,Breakfast,App,1043,0.15,15,901.55,35,Delivered,0,Wallet
+F00230,2025-01-27,R060,U0174,Kolkata,Dinner,Web,248,0.2,30,228.4,75,Delivered,0,UPI
+F00231,2025-12-25,R013,U0027,Mumbai,Dinner,Web,1265,0,25,1290,33,Delivered,3,Card
+F00232,2025-03-14,R047,U0003,Delhi,Dinner,App,1285,0.15,35,1127.25,45,Delivered,3,UPI
+F00233,2025-12-25,R012,U0408,Kolkata,Dinner,Web,906,0.05,35,895.7,61,Refunded,0,Cash
+F00234,2025-08-06,R046,U0450,Delhi,Late Night,Web,1034,0,15,1049,56,Delivered,3,Card
+F00235,2025-06-21,R010,U0404,Kolkata,Lunch,Web,638,0,20,658,60,Delivered,5,UPI
+F00236,2025-01-04,R018,U0335,Kolkata,Lunch,App,220,0.2,35,211.0,53,Delivered,3,Card
+F00237,2025-12-08,R021,U0448,Pune,Dinner,Web,846,0,35,881,30,Delivered,5,UPI
+F00238,2025-09-23,R075,U0014,Bengaluru,Breakfast,App,957,0.2,15,780.6,38,Delivered,3,Card
+F00239,2025-04-04,R072,U0266,Mumbai,Dinner,App,671,0.05,35,672.45,61,Delivered,4,Cash
+F00240,2025-11-21,R034,U0199,Mumbai,Dinner,App,597,0.15,30,537.45,57,Cancelled,0,Card
+F00241,2025-08-25,R006,U0204,Hyderabad,Breakfast,Web,624,0.1,20,581.6,57,Delivered,4,Cash
+F00242,2025-06-22,R019,U0185,Bengaluru,Breakfast,App,1306,0.05,30,1270.7,58,Delivered,3,Card
+F00243,2025-12-02,R019,U0419,Bengaluru,Lunch,App,1176,0.05,25,1142.2,42,Delivered,3,Wallet
+F00244,2025-11-18,R057,U0360,Pune,Lunch,App,891,0.15,30,787.35,54,Delivered,3,Cash
+F00245,2025-11-11,R035,U0438,Bengaluru,Late Night,App,192,0.15,20,183.2,56,Cancelled,0,UPI
+F00246,2025-12-04,R001,U0409,Chennai,Breakfast,Web,281,0.1,30,282.9,21,Refunded,0,Wallet
+F00247,2025-01-11,R005,U0111,Mumbai,Dinner,App,1020,0,25,1045,55,Delivered,3,Wallet
+F00248,2025-09-19,R026,U0052,Mumbai,Dinner,Web,663,0.05,20,649.85,67,Delivered,4,UPI
+F00249,2025-10-13,R034,U0338,Mumbai,Breakfast,App,1230,0.1,35,1142.0,32,Delivered,4,Card
+F00250,2025-12-13,R009,U0448,Delhi,Late Night,App,561,0.15,25,501.85,42,Delivered,4,Card
+F00251,2025-08-22,R042,U0102,Delhi,Late Night,App,765,0.05,20,746.75,19,Delivered,4,UPI
+F00252,2025-12-09,R058,U0228,Chennai,Late Night,App,642,0.1,35,612.8,32,Cancelled,0,Card
+F00253,2025-11-30,R056,U0201,Hyderabad,Dinner,Web,578,0.05,25,574.1,48,Delivered,4,Wallet
+F00254,2025-09-17,R029,U0144,Mumbai,Lunch,App,199,0.1,15,194.1,56,Delivered,4,UPI
+F00255,2025-11-16,R011,U0254,Kolkata,Lunch,App,521,0.2,35,451.8,35,Delivered,4,UPI
+F00256,2025-12-28,R069,U0225,Bengaluru,Dinner,App,1326,0.1,20,1213.4,26,Delivered,4,UPI
+F00257,2025-08-14,R051,U0169,Mumbai,Breakfast,App,695,0.1,25,650.5,35,Delivered,5,UPI
+F00258,2025-09-02,R054,U0317,Kolkata,Breakfast,App,820,0.1,15,753.0,59,Delivered,0,Card
+F00259,2025-08-18,R061,U0297,Pune,Breakfast,Web,682,0.15,20,599.7,39,Refunded,0,UPI
+F00260,2025-10-16,R038,U0175,Pune,Late Night,App,305,0.1,25,299.5,61,Delivered,4,UPI
+F00261,2025-06-06,R045,U0327,Chennai,Lunch,Web,695,0.1,30,655.5,28,Delivered,0,Wallet
+F00262,2025-06-07,R034,U0151,Mumbai,Breakfast,App,992,0,20,1012,69,Delivered,0,Cash
+F00263,2025-10-31,R061,U0259,Pune,Breakfast,App,940,0.05,25,918.0,53,Delivered,3,UPI
+F00264,2025-02-22,R079,U0191,Hyderabad,Dinner,Web,1244,0.2,25,1020.2,73,Delivered,5,Card
+F00265,2025-12-12,R010,U0171,Kolkata,Lunch,Web,1015,0.05,30,994.25,59,Delivered,0,Wallet
+F00266,2025-09-17,R051,U0114,Mumbai,Breakfast,Web,837,0.1,20,773.3,52,Delivered,4,UPI
+F00267,2025-09-04,R056,U0361,Hyderabad,Late Night,App,1043,0.05,25,1015.85,50,Delivered,3,UPI
+F00268,2025-04-25,R020,U0222,Hyderabad,Lunch,App,552,0.2,20,461.6,37,Delivered,0,Card
+F00269,2025-07-20,R008,U0337,Bengaluru,Late Night,Web,653,0.05,35,655.35,69,Delivered,5,Cash
+F00270,2025-09-22,R054,U0354,Kolkata,Dinner,App,774,0.15,20,677.9,55,Delivered,0,UPI
+F00271,2025-04-30,R076,U0225,Bengaluru,Dinner,App,1179,0,25,1204,28,Delivered,5,Cash
+F00272,2025-08-08,R019,U0042,Bengaluru,Dinner,App,1306,0.1,25,1200.4,57,Delivered,3,UPI
+F00273,2025-01-03,R051,U0386,Mumbai,Dinner,Web,209,0.05,25,223.55,66,Delivered,4,Cash
+F00274,2025-04-03,R011,U0400,Kolkata,Late Night,Web,302,0.15,15,271.7,48,Delivered,0,Card
+F00275,2025-01-01,R026,U0167,Mumbai,Lunch,Web,1272,0,25,1297,25,Cancelled,0,Cash
+F00276,2025-12-17,R009,U0207,Delhi,Lunch,Web,303,0,20,323,38,Delivered,5,Cash
+F00277,2025-04-27,R047,U0134,Delhi,Dinner,App,496,0.15,15,436.6,70,Delivered,0,Cash
+F00278,2025-03-11,R034,U0011,Mumbai,Breakfast,Web,430,0.05,15,423.5,61,Delivered,0,UPI
+F00279,2025-07-26,R001,U0077,Chennai,Late Night,App,379,0.15,25,347.15,64,Delivered,0,Card
+F00280,2025-05-14,R003,U0113,Kolkata,Breakfast,Web,397,0.1,15,372.3,35,Cancelled,0,Card
+F00281,2025-02-09,R054,U0274,Kolkata,Late Night,App,1148,0,25,1173,66,Delivered,0,UPI
+F00282,2025-06-05,R052,U0288,Delhi,Late Night,Web,995,0.15,35,880.75,39,Delivered,4,Cash
+F00283,2025-06-23,R005,U0131,Mumbai,Lunch,Web,694,0.1,15,639.6,45,Delivered,5,Wallet
+F00284,2025-10-10,R013,U0038,Mumbai,Breakfast,App,1185,0.2,35,983.0,48,Delivered,5,Cash
+F00285,2025-10-06,R063,U0369,Mumbai,Lunch,Web,1125,0.15,20,976.25,40,Delivered,0,UPI
+F00286,2025-11-14,R072,U0307,Mumbai,Late Night,Web,840,0.15,35,749.0,40,Delivered,5,UPI
+F00287,2025-09-05,R012,U0092,Kolkata,Dinner,App,981,0.05,15,946.95,37,Delivered,5,Card
+F00288,2025-05-01,R012,U0139,Kolkata,Lunch,Web,717,0.1,35,680.3,30,Delivered,5,Card
+F00289,2025-02-10,R056,U0099,Hyderabad,Breakfast,Web,1341,0.05,15,1288.95,45,Delivered,3,Cash
+F00290,2025-02-13,R057,U0386,Pune,Dinner,Web,627,0.2,35,536.6,32,Delivered,5,Wallet
+F00291,2025-07-25,R012,U0221,Kolkata,Lunch,App,315,0.15,30,297.75,34,Delivered,5,Wallet
+F00292,2025-03-03,R077,U0404,Delhi,Dinner,App,1398,0.2,15,1133.4,67,Delivered,5,Card
+F00293,2025-04-26,R042,U0372,Delhi,Late Night,App,549,0.1,35,529.1,51,Cancelled,0,UPI
+F00294,2025-05-17,R046,U0361,Delhi,Breakfast,Web,734,0.05,30,727.3,57,Delivered,3,Wallet
+F00295,2025-04-17,R052,U0379,Delhi,Late Night,App,289,0.2,25,256.2,60,Delivered,4,Card
+F00296,2025-11-22,R033,U0445,Bengaluru,Lunch,App,1103,0,30,1133,72,Delivered,5,UPI
+F00297,2025-08-01,R044,U0176,Mumbai,Late Night,Web,1213,0.15,15,1046.05,50,Delivered,3,UPI
+F00298,2025-10-26,R010,U0053,Kolkata,Dinner,App,420,0.1,30,408.0,33,Delivered,3,Wallet
+F00299,2025-07-20,R032,U0027,Chennai,Lunch,Web,1072,0.05,15,1033.4,63,Delivered,3,UPI
+F00300,2025-10-16,R031,U0080,Bengaluru,Late Night,App,432,0.1,35,423.8,42,Delivered,5,Wallet
+F00301,2025-01-05,R012,U0289,Kolkata,Dinner,App,1060,0.2,20,868.0,43,Delivered,3,Wallet
+F00302,2025-04-16,R065,U0306,Kolkata,Breakfast,Web,514,0.1,15,477.6,45,Refunded,0,UPI
+F00303,2025-02-06,R014,U0213,Bengaluru,Late Night,App,1027,0.05,20,995.65,69,Delivered,5,Cash
+F00304,2025-03-31,R020,U0216,Hyderabad,Dinner,App,839,0.1,15,770.1,18,Delivered,0,Cash
+F00305,2025-02-09,R047,U0068,Delhi,Dinner,Web,1291,0.2,15,1047.8,27,Delivered,3,UPI
+F00306,2025-03-20,R041,U0388,Chennai,Lunch,App,717,0,15,732,24,Delivered,5,UPI
+F00307,2025-03-07,R080,U0218,Kolkata,Dinner,Web,421,0.1,35,413.9,42,Delivered,0,Card
+F00308,2025-10-10,R050,U0369,Bengaluru,Lunch,App,681,0,20,701,32,Delivered,4,Cash
+F00309,2025-02-19,R075,U0349,Bengaluru,Dinner,App,692,0.05,20,677.4,67,Delivered,5,Cash
+F00310,2025-05-05,R001,U0219,Chennai,Breakfast,Web,1271,0,20,1291,35,Delivered,4,Wallet
+F00311,2025-03-01,R052,U0356,Delhi,Lunch,App,885,0,15,900,71,Delivered,0,Card
+F00312,2025-01-23,R074,U0444,Delhi,Breakfast,App,1095,0.05,25,1065.25,69,Delivered,3,Wallet
+F00313,2025-08-06,R029,U0362,Mumbai,Late Night,App,634,0.05,30,632.3,74,Refunded,0,Card
+F00314,2025-01-10,R050,U0235,Bengaluru,Late Night,Web,860,0.05,20,837.0,26,Delivered,5,Wallet
+F00315,2025-09-08,R072,U0010,Mumbai,Late Night,Web,943,0,30,973,38,Delivered,3,Card
+F00316,2025-03-07,R030,U0316,Chennai,Breakfast,App,883,0.2,20,726.4,40,Delivered,5,UPI
+F00317,2025-11-03,R065,U0075,Kolkata,Breakfast,Web,1399,0.1,25,1284.1,26,Delivered,4,Wallet
+F00318,2025-12-12,R021,U0065,Pune,Breakfast,Web,822,0.15,20,718.7,48,Cancelled,0,UPI
+F00319,2025-04-22,R003,U0018,Kolkata,Lunch,App,942,0.15,30,830.7,48,Delivered,0,Cash
+F00320,2025-09-18,R062,U0410,Chennai,Late Night,App,776,0.05,20,757.2,26,Delivered,4,Cash
+F00321,2025-04-13,R036,U0433,Chennai,Late Night,Web,513,0.2,35,445.4,21,Cancelled,0,Wallet
+F00322,2025-12-03,R020,U0253,Hyderabad,Breakfast,App,765,0,30,795,62,Delivered,4,Card
+F00323,2025-11-13,R059,U0413,Mumbai,Dinner,App,1018,0.2,20,834.4,39,Delivered,3,Wallet
+F00324,2025-11-24,R003,U0072,Kolkata,Late Night,Web,338,0.05,25,346.1,21,Delivered,0,Cash
+F00325,2025-05-15,R049,U0160,Kolkata,Breakfast,Web,1113,0,20,1133,24,Delivered,0,UPI
+F00326,2025-10-13,R066,U0174,Chennai,Lunch,Web,895,0.1,15,820.5,61,Delivered,4,UPI
+F00327,2025-02-28,R055,U0006,Mumbai,Lunch,Web,817,0.15,30,724.45,75,Delivered,4,Card
+F00328,2025-08-02,R060,U0078,Kolkata,Late Night,Web,895,0.2,20,736.0,74,Delivered,3,UPI
+F00329,2025-12-21,R042,U0077,Delhi,Late Night,Web,943,0,15,958,41,Delivered,3,Card
+F00330,2025-12-15,R062,U0127,Chennai,Late Night,App,576,0.2,35,495.8,66,Delivered,5,Card
+F00331,2025-08-01,R032,U0403,Chennai,Lunch,App,1374,0.1,30,1266.6,38,Refunded,0,Wallet
+F00332,2025-12-27,R060,U0443,Kolkata,Dinner,App,1189,0,30,1219,36,Delivered,5,UPI
+F00333,2025-08-16,R012,U0328,Kolkata,Breakfast,App,934,0.1,25,865.6,57,Delivered,3,Cash
+F00334,2025-10-18,R052,U0431,Delhi,Late Night,App,1305,0.05,30,1269.75,50,Cancelled,0,Wallet
+F00335,2025-09-25,R023,U0033,Chennai,Lunch,App,259,0,30,289,50,Delivered,3,Cash
+F00336,2025-03-31,R065,U0300,Kolkata,Late Night,Web,1159,0.2,20,947.2,31,Cancelled,0,UPI
+F00337,2025-01-24,R061,U0243,Pune,Late Night,App,806,0,25,831,69,Delivered,0,Wallet
+F00338,2025-01-31,R042,U0375,Delhi,Lunch,App,824,0.15,30,730.4,33,Delivered,0,UPI
+F00339,2025-08-21,R012,U0364,Kolkata,Late Night,App,877,0.05,30,863.15,39,Delivered,5,Cash
+F00340,2025-06-24,R011,U0450,Kolkata,Lunch,App,789,0.2,20,651.2,24,Cancelled,0,Wallet
+F00341,2025-01-09,R012,U0161,Kolkata,Breakfast,Web,1136,0.15,25,990.6,51,Delivered,3,Card
+F00342,2025-08-31,R045,U0203,Chennai,Lunch,App,976,0.15,30,859.6,56,Delivered,0,Card
+F00343,2025-11-22,R004,U0376,Kolkata,Breakfast,App,923,0.15,35,819.55,38,Delivered,3,UPI
+F00344,2025-09-04,R041,U0069,Chennai,Late Night,Web,191,0.05,30,211.45,35,Delivered,5,Cash
+F00345,2025-06-13,R014,U0364,Bengaluru,Dinner,Web,924,0.2,15,754.2,18,Delivered,3,Cash
+F00346,2025-05-01,R061,U0305,Pune,Lunch,App,450,0.2,20,380.0,38,Delivered,0,Cash
+F00347,2025-10-20,R038,U0286,Pune,Breakfast,App,467,0.15,20,416.95,37,Delivered,5,Wallet
+F00348,2025-02-26,R062,U0267,Chennai,Breakfast,Web,550,0,35,585,62,Delivered,4,UPI
+F00349,2025-01-22,R071,U0233,Pune,Lunch,App,700,0.2,35,595.0,55,Delivered,0,Cash
+F00350,2025-09-05,R067,U0226,Chennai,Dinner,App,575,0.05,30,576.25,25,Delivered,3,Card
+F00351,2025-09-11,R032,U0253,Chennai,Dinner,App,538,0,35,573,60,Cancelled,0,Card
+F00352,2025-06-23,R038,U0234,Pune,Dinner,Web,909,0.1,15,833.1,29,Delivered,5,Wallet
+F00353,2025-11-02,R032,U0274,Chennai,Lunch,Web,939,0,15,954,72,Delivered,5,Wallet
+F00354,2025-11-11,R054,U0405,Kolkata,Breakfast,Web,624,0.05,25,617.8,33,Delivered,4,Cash
+F00355,2025-12-05,R067,U0326,Chennai,Breakfast,App,298,0.1,35,303.2,60,Cancelled,0,UPI
+F00356,2025-01-29,R006,U0129,Hyderabad,Late Night,Web,872,0.2,35,732.6,51,Delivered,3,Cash
+F00357,2025-04-06,R006,U0355,Hyderabad,Breakfast,Web,989,0.1,15,905.1,19,Delivered,4,Wallet
+F00358,2025-01-20,R053,U0180,Pune,Late Night,App,534,0.1,15,495.6,44,Delivered,0,Card
+F00359,2025-02-25,R061,U0339,Pune,Lunch,App,666,0.2,30,562.8,73,Refunded,0,UPI
+F00360,2025-08-26,R024,U0161,Pune,Lunch,Web,278,0.05,15,279.1,64,Delivered,5,Cash
+F00361,2025-10-21,R040,U0382,Kolkata,Dinner,App,895,0.1,20,825.5,39,Delivered,4,Wallet
+F00362,2025-12-02,R047,U0031,Delhi,Breakfast,Web,288,0.15,20,264.8,33,Delivered,0,Cash
+F00363,2025-03-27,R046,U0309,Delhi,Dinner,Web,540,0.1,35,521.0,20,Delivered,4,UPI
+F00364,2025-10-27,R057,U0157,Pune,Lunch,Web,1314,0.15,25,1141.9,51,Delivered,3,Wallet
+F00365,2025-03-04,R021,U0435,Pune,Lunch,Web,253,0.15,35,250.05,49,Refunded,0,Wallet
+F00366,2025-08-17,R052,U0280,Delhi,Lunch,App,669,0.1,15,617.1,65,Delivered,4,Wallet
+F00367,2025-05-23,R059,U0444,Mumbai,Dinner,App,1297,0.2,30,1067.6,42,Delivered,5,Card
+F00368,2025-04-20,R071,U0174,Pune,Dinner,App,589,0,30,619,24,Delivered,3,Cash
+F00369,2025-10-19,R008,U0330,Bengaluru,Late Night,Web,839,0.2,30,701.2,21,Delivered,0,UPI
+F00370,2025-01-14,R043,U0253,Kolkata,Dinner,App,963,0.05,25,939.85,33,Delivered,0,Card
+F00371,2025-05-18,R028,U0378,Chennai,Breakfast,Web,798,0,20,818,42,Delivered,0,UPI
+F00372,2025-09-21,R046,U0068,Delhi,Late Night,App,733,0.05,20,716.35,45,Delivered,5,Wallet
+F00373,2025-10-04,R070,U0406,Pune,Breakfast,Web,829,0.05,30,817.55,53,Delivered,5,Wallet
+F00374,2025-11-27,R001,U0323,Chennai,Late Night,Web,1378,0.05,15,1324.1,28,Delivered,0,Cash
+F00375,2025-04-11,R057,U0086,Pune,Lunch,Web,1202,0.15,35,1056.7,26,Delivered,4,UPI
+F00376,2025-02-10,R062,U0284,Chennai,Breakfast,App,390,0,35,425,27,Delivered,3,Cash
+F00377,2025-03-21,R065,U0085,Kolkata,Dinner,Web,861,0.05,25,842.95,32,Delivered,5,Cash
+F00378,2025-04-21,R004,U0081,Kolkata,Breakfast,Web,1136,0.15,15,980.6,62,Delivered,3,Wallet
+F00379,2025-09-11,R065,U0003,Kolkata,Dinner,Web,1014,0.2,35,846.2,71,Delivered,3,Wallet
+F00380,2025-05-13,R031,U0252,Bengaluru,Dinner,Web,771,0.05,25,757.45,74,Refunded,0,Wallet
+F00381,2025-12-25,R067,U0174,Chennai,Late Night,Web,400,0.1,25,385.0,37,Delivered,3,Cash
+F00382,2025-05-29,R045,U0298,Chennai,Lunch,App,1355,0.05,35,1322.25,23,Refunded,0,Cash
+F00383,2025-12-01,R008,U0277,Bengaluru,Late Night,App,525,0,20,545,51,Delivered,0,UPI
+F00384,2025-03-08,R031,U0075,Bengaluru,Breakfast,Web,912,0,15,927,58,Delivered,3,Wallet
+F00385,2025-01-04,R055,U0017,Mumbai,Breakfast,Web,1037,0.1,15,948.3,69,Delivered,0,Card
+F00386,2025-06-05,R036,U0130,Chennai,Late Night,App,399,0.1,30,389.1,66,Delivered,5,UPI
+F00387,2025-01-05,R035,U0439,Bengaluru,Late Night,App,1360,0.15,25,1181.0,47,Delivered,3,Card
+F00388,2025-08-23,R063,U0050,Mumbai,Breakfast,Web,317,0,30,347,34,Delivered,0,Card
+F00389,2025-06-17,R007,U0421,Delhi,Late Night,App,494,0.05,35,504.3,23,Delivered,0,UPI
+F00390,2025-07-19,R048,U0218,Bengaluru,Lunch,App,1286,0.1,35,1192.4,42,Delivered,0,Card
+F00391,2025-11-29,R028,U0426,Chennai,Lunch,App,1200,0.2,15,975.0,46,Delivered,3,Card
+F00392,2025-04-20,R033,U0409,Bengaluru,Breakfast,App,436,0.15,20,390.6,59,Delivered,0,Cash
+F00393,2025-06-12,R050,U0352,Bengaluru,Late Night,Web,1195,0.1,30,1105.5,46,Delivered,4,Cash
+F00394,2025-12-02,R035,U0415,Bengaluru,Breakfast,App,912,0.2,35,764.6,29,Delivered,4,Cash
+F00395,2025-06-01,R042,U0282,Delhi,Late Night,App,978,0.1,25,905.2,41,Delivered,4,UPI
+F00396,2025-05-11,R048,U0228,Bengaluru,Dinner,App,912,0.2,20,749.6,33,Delivered,5,Wallet
+F00397,2025-03-09,R013,U0075,Mumbai,Lunch,Web,1126,0.15,20,977.1,48,Cancelled,0,UPI
+F00398,2025-04-14,R058,U0116,Chennai,Dinner,App,802,0.15,35,716.7,59,Delivered,5,UPI
+F00399,2025-08-05,R012,U0132,Kolkata,Breakfast,Web,434,0,30,464,48,Delivered,5,Cash
+F00400,2025-04-27,R018,U0024,Kolkata,Breakfast,App,508,0.05,30,512.6,75,Delivered,5,UPI
+F00401,2025-03-03,R075,U0365,Bengaluru,Late Night,Web,785,0,15,800,63,Delivered,0,UPI
+F00402,2025-09-03,R052,U0232,Delhi,Late Night,App,294,0.15,35,284.9,20,Delivered,5,Wallet
+F00403,2025-01-27,R063,U0411,Mumbai,Lunch,App,736,0,15,751,61,Delivered,0,Cash
+F00404,2025-08-30,R062,U0075,Chennai,Late Night,Web,707,0,30,737,65,Delivered,5,Card
+F00405,2025-02-04,R044,U0260,Mumbai,Lunch,Web,898,0.05,15,868.1,24,Refunded,0,UPI
+F00406,2025-08-17,R038,U0421,Pune,Lunch,Web,1354,0,20,1374,30,Delivered,0,UPI
+F00407,2025-02-09,R068,U0099,Kolkata,Late Night,Web,1024,0,20,1044,31,Delivered,3,Card
+F00408,2025-11-17,R068,U0281,Kolkata,Breakfast,App,596,0.2,30,506.8,45,Refunded,0,Cash
+F00409,2025-10-30,R052,U0296,Delhi,Dinner,Web,1242,0.15,20,1075.7,49,Delivered,3,Cash
+F00410,2025-07-25,R041,U0165,Chennai,Lunch,App,1342,0,35,1377,58,Delivered,4,Wallet
+F00411,2025-04-04,R053,U0189,Pune,Breakfast,App,1105,0,20,1125,34,Delivered,4,UPI
+F00412,2025-01-31,R075,U0130,Bengaluru,Breakfast,Web,892,0.1,15,817.8,21,Cancelled,0,Wallet
+F00413,2025-01-27,R048,U0187,Bengaluru,Breakfast,Web,705,0.05,35,704.75,65,Delivered,5,UPI
+F00414,2025-10-28,R021,U0315,Pune,Late Night,Web,1060,0.2,20,868.0,50,Delivered,4,Wallet
+F00415,2025-10-29,R014,U0230,Bengaluru,Lunch,App,1155,0.05,15,1112.25,72,Delivered,0,Card
+F00416,2025-10-18,R077,U0050,Delhi,Lunch,App,579,0.15,15,507.15,32,Refunded,0,Wallet
+F00417,2025-11-17,R070,U0079,Pune,Lunch,Web,984,0.15,25,861.4,36,Delivered,3,Card
+F00418,2025-08-24,R029,U0016,Mumbai,Late Night,Web,182,0.2,25,170.6,43,Delivered,0,Cash
+F00419,2025-02-16,R059,U0442,Mumbai,Late Night,App,196,0.15,35,201.6,62,Delivered,3,Card
+F00420,2025-02-10,R035,U0227,Bengaluru,Dinner,Web,943,0.05,15,910.85,21,Delivered,3,Wallet
+F00421,2025-06-13,R061,U0308,Pune,Breakfast,Web,337,0.2,25,294.6,28,Delivered,5,Cash
+F00422,2025-03-31,R029,U0236,Mumbai,Late Night,App,1083,0.05,15,1043.85,67,Delivered,5,Card
+F00423,2025-04-25,R033,U0072,Bengaluru,Late Night,App,393,0.15,30,364.05,57,Delivered,4,Card
+F00424,2025-10-11,R055,U0375,Mumbai,Late Night,Web,1396,0.2,35,1151.8,74,Delivered,5,Wallet
+F00425,2025-05-30,R069,U0079,Bengaluru,Late Night,App,268,0.2,25,239.4,44,Refunded,0,Card
+F00426,2025-03-04,R009,U0036,Delhi,Breakfast,App,871,0.05,20,847.45,49,Delivered,5,Wallet
+F00427,2025-11-30,R015,U0255,Kolkata,Dinner,App,640,0.15,15,559.0,44,Delivered,5,Card
+F00428,2025-09-25,R072,U0096,Mumbai,Late Night,App,340,0.2,15,287.0,69,Delivered,4,Wallet
+F00429,2025-02-15,R018,U0063,Kolkata,Late Night,Web,1094,0,20,1114,60,Delivered,4,Wallet
+F00430,2025-01-25,R042,U0269,Delhi,Dinner,App,716,0.15,35,643.6,60,Delivered,0,Card
+F00431,2025-01-13,R010,U0217,Kolkata,Lunch,Web,240,0.2,20,212.0,31,Delivered,5,Cash
+F00432,2025-07-29,R037,U0403,Mumbai,Breakfast,Web,723,0.15,15,629.55,18,Delivered,3,Wallet
+F00433,2025-11-23,R008,U0055,Bengaluru,Breakfast,App,1180,0.1,20,1082.0,37,Delivered,4,Wallet
+F00434,2025-09-29,R061,U0241,Pune,Dinner,App,778,0.15,25,686.3,38,Delivered,0,Card
+F00435,2025-01-22,R035,U0128,Bengaluru,Dinner,App,1340,0.2,15,1087.0,21,Delivered,0,Cash
+F00436,2025-03-28,R080,U0288,Kolkata,Late Night,App,474,0.05,30,480.3,23,Delivered,0,Wallet
+F00437,2025-09-16,R061,U0424,Pune,Late Night,Web,442,0.15,30,405.7,18,Delivered,5,UPI
+F00438,2025-01-28,R008,U0445,Bengaluru,Lunch,Web,1385,0.15,20,1197.25,55,Delivered,3,Card
+F00439,2025-07-16,R068,U0380,Kolkata,Lunch,Web,976,0.05,30,957.2,70,Delivered,3,Card
+F00440,2025-02-01,R019,U0301,Bengaluru,Breakfast,App,1193,0.1,35,1108.7,46,Delivered,4,UPI
+F00441,2025-10-07,R016,U0447,Mumbai,Dinner,Web,307,0.1,20,296.3,23,Delivered,0,Card
+F00442,2025-06-18,R051,U0127,Mumbai,Dinner,App,450,0,30,480,44,Delivered,3,Wallet
+F00443,2025-07-27,R028,U0386,Chennai,Lunch,Web,661,0.05,20,647.95,47,Delivered,4,UPI
+F00444,2025-11-13,R044,U0192,Mumbai,Late Night,App,1102,0.2,35,916.6,37,Delivered,5,UPI
+F00445,2025-01-31,R076,U0167,Bengaluru,Breakfast,Web,459,0.2,20,387.2,48,Delivered,4,Cash
+F00446,2025-06-23,R005,U0348,Mumbai,Breakfast,App,1360,0.1,20,1244.0,43,Delivered,4,Card
+F00447,2025-10-11,R047,U0015,Delhi,Lunch,App,435,0.15,30,399.75,24,Delivered,4,Wallet
+F00448,2025-03-19,R054,U0204,Kolkata,Dinner,Web,1291,0.1,30,1191.9,36,Delivered,0,UPI
+F00449,2025-11-26,R064,U0253,Pune,Late Night,Web,1254,0.2,35,1038.2,39,Refunded,0,Card
+F00450,2025-12-17,R039,U0178,Kolkata,Late Night,Web,232,0.1,25,233.8,56,Delivered,3,UPI
+F00451,2025-07-05,R037,U0107,Mumbai,Late Night,App,879,0,35,914,22,Delivered,5,Cash
+F00452,2025-12-25,R014,U0220,Bengaluru,Breakfast,App,657,0.05,35,659.15,29,Delivered,5,Wallet
+F00453,2025-10-20,R018,U0447,Kolkata,Dinner,Web,547,0.2,30,467.6,18,Cancelled,0,Wallet
+F00454,2025-02-09,R065,U0101,Kolkata,Late Night,App,606,0.15,30,545.1,49,Delivered,5,UPI
+F00455,2025-05-06,R065,U0107,Kolkata,Lunch,Web,461,0.2,35,403.8,56,Delivered,0,UPI
+F00456,2025-12-13,R039,U0419,Kolkata,Breakfast,App,667,0.1,20,620.3,62,Cancelled,0,Cash
+F00457,2025-11-21,R011,U0093,Kolkata,Late Night,Web,282,0.1,20,273.8,28,Delivered,4,UPI
+F00458,2025-03-25,R022,U0009,Delhi,Breakfast,App,873,0.2,15,713.4,47,Delivered,0,UPI
+F00459,2025-02-15,R015,U0070,Kolkata,Breakfast,App,1109,0.15,30,972.65,34,Delivered,4,Cash
+F00460,2025-03-08,R071,U0163,Pune,Lunch,Web,969,0.15,20,843.65,32,Delivered,4,Wallet
+F00461,2025-09-24,R037,U0189,Mumbai,Lunch,App,230,0,30,260,39,Delivered,5,Card
+F00462,2025-07-05,R048,U0216,Bengaluru,Lunch,App,1199,0.05,15,1154.05,37,Delivered,3,Card
+F00463,2025-10-16,R001,U0153,Chennai,Late Night,App,523,0,30,553,54,Delivered,3,Card
+F00464,2025-05-02,R023,U0296,Chennai,Dinner,App,594,0,35,629,33,Delivered,0,Cash
+F00465,2025-11-14,R051,U0364,Mumbai,Late Night,App,384,0.1,25,370.6,60,Cancelled,0,Cash
+F00466,2025-04-27,R044,U0439,Mumbai,Lunch,Web,1054,0,35,1089,33,Delivered,4,UPI
+F00467,2025-05-12,R042,U0373,Delhi,Breakfast,App,508,0.05,30,512.6,37,Delivered,5,Card
+F00468,2025-11-21,R069,U0341,Bengaluru,Dinner,Web,1269,0.05,15,1220.55,68,Delivered,5,Wallet
+F00469,2025-12-26,R069,U0341,Bengaluru,Lunch,App,222,0.1,20,219.8,40,Cancelled,0,Wallet
+F00470,2025-03-01,R075,U0031,Bengaluru,Dinner,App,224,0.1,35,236.6,52,Cancelled,0,Card
+F00471,2025-04-11,R037,U0185,Mumbai,Late Night,Web,504,0,15,519,65,Delivered,4,Cash
+F00472,2025-07-12,R038,U0248,Pune,Breakfast,App,232,0.05,35,255.4,25,Delivered,5,UPI
+F00473,2025-06-19,R053,U0185,Pune,Late Night,App,720,0.1,30,678.0,57,Delivered,4,Wallet
+F00474,2025-06-28,R037,U0291,Mumbai,Late Night,App,723,0.05,15,701.85,75,Delivered,5,Card
+F00475,2025-01-22,R016,U0068,Mumbai,Breakfast,Web,699,0.05,30,694.05,49,Delivered,4,Card
+F00476,2025-07-19,R004,U0170,Kolkata,Dinner,App,1281,0.05,30,1246.95,70,Delivered,5,Card
+F00477,2025-05-21,R068,U0403,Kolkata,Late Night,App,325,0,30,355,22,Delivered,0,Card
+F00478,2025-03-22,R052,U0398,Delhi,Lunch,Web,547,0,15,562,71,Delivered,0,Card
+F00479,2025-12-17,R012,U0023,Kolkata,Breakfast,App,1204,0.2,30,993.2,19,Delivered,4,Cash
+F00480,2025-04-11,R023,U0279,Chennai,Breakfast,App,933,0.2,35,781.4,69,Delivered,5,Cash
+F00481,2025-04-22,R003,U0353,Kolkata,Dinner,App,1276,0.05,25,1237.2,45,Refunded,0,Wallet
+F00482,2025-03-18,R035,U0285,Bengaluru,Dinner,App,889,0,30,919,59,Delivered,5,Cash
+F00483,2025-03-26,R049,U0280,Kolkata,Dinner,Web,1030,0.15,20,895.5,25,Delivered,0,Card
+F00484,2025-01-11,R074,U0233,Delhi,Late Night,Web,341,0,30,371,71,Delivered,0,UPI
+F00485,2025-10-24,R032,U0215,Chennai,Lunch,Web,816,0,30,846,51,Delivered,3,Card
+F00486,2025-12-11,R051,U0351,Mumbai,Late Night,Web,1340,0.05,25,1298.0,44,Delivered,4,Wallet
+F00487,2025-04-14,R028,U0093,Chennai,Breakfast,Web,512,0.2,30,439.6,45,Delivered,5,Card
+F00488,2025-10-15,R027,U0047,Chennai,Breakfast,Web,272,0.05,20,278.4,63,Delivered,5,Card
+F00489,2025-02-26,R068,U0370,Kolkata,Lunch,App,1153,0.2,15,937.4,36,Delivered,4,UPI
+F00490,2025-04-30,R069,U0046,Bengaluru,Dinner,Web,547,0.2,30,467.6,48,Delivered,5,UPI
+F00491,2025-08-14,R014,U0009,Bengaluru,Breakfast,Web,1202,0.05,30,1171.9,62,Refunded,0,Wallet
+F00492,2025-11-15,R015,U0086,Kolkata,Lunch,Web,1185,0,25,1210,58,Delivered,4,UPI
+F00493,2025-03-12,R052,U0123,Delhi,Breakfast,Web,1157,0.05,25,1124.15,39,Delivered,0,Cash
+F00494,2025-05-28,R064,U0067,Pune,Dinner,App,855,0.1,30,799.5,25,Delivered,0,Wallet
+F00495,2025-08-01,R078,U0267,Kolkata,Breakfast,App,705,0.15,35,634.25,46,Delivered,0,Wallet
+F00496,2025-03-02,R032,U0115,Chennai,Dinner,App,1317,0.1,35,1220.3,47,Delivered,5,Wallet
+F00497,2025-05-13,R005,U0167,Mumbai,Dinner,App,746,0.15,20,654.1,33,Cancelled,0,UPI
+F00498,2025-09-11,R011,U0131,Kolkata,Dinner,Web,847,0,25,872,35,Delivered,0,Card
+F00499,2025-01-01,R057,U0077,Pune,Late Night,Web,292,0.15,30,278.2,37,Delivered,3,Cash
+F00500,2025-07-18,R030,U0091,Chennai,Breakfast,App,538,0.15,15,472.3,71,Delivered,0,Cash
+F00501,2025-11-28,R004,U0304,Kolkata,Breakfast,Web,1052,0.1,20,966.8,28,Delivered,4,UPI
+F00502,2025-11-02,R023,U0431,Chennai,Dinner,App,722,0.15,25,638.7,46,Delivered,5,Wallet
+F00503,2025-12-12,R013,U0024,Mumbai,Lunch,Web,719,0,30,749,62,Delivered,3,UPI
+F00504,2025-02-26,R004,U0155,Kolkata,Late Night,Web,205,0.05,30,224.75,21,Delivered,5,UPI
+F00505,2025-07-26,R013,U0219,Mumbai,Breakfast,App,789,0.05,20,769.55,49,Delivered,4,Wallet
+F00506,2025-01-13,R009,U0216,Delhi,Dinner,App,977,0.2,20,801.6,52,Delivered,4,Wallet
+F00507,2025-07-27,R010,U0268,Kolkata,Lunch,App,1397,0,15,1412,43,Cancelled,0,Cash
+F00508,2025-01-29,R014,U0223,Bengaluru,Lunch,Web,1346,0.05,35,1313.7,36,Delivered,4,Wallet
+F00509,2025-01-08,R024,U0177,Pune,Late Night,App,203,0.05,15,207.85,19,Delivered,0,Wallet
+F00510,2025-05-08,R037,U0230,Mumbai,Dinner,App,938,0,25,963,50,Delivered,5,Wallet
+F00511,2025-06-10,R008,U0144,Bengaluru,Lunch,App,688,0.15,20,604.8,52,Delivered,4,Wallet
+F00512,2025-03-29,R015,U0060,Kolkata,Lunch,Web,730,0.05,35,728.5,31,Delivered,3,UPI
+F00513,2025-04-14,R055,U0160,Mumbai,Lunch,Web,1267,0.05,25,1228.65,39,Refunded,0,Wallet
+F00514,2025-12-25,R070,U0279,Pune,Breakfast,Web,969,0,30,999,19,Delivered,4,Cash
+F00515,2025-03-30,R026,U0362,Mumbai,Late Night,App,786,0,20,806,33,Delivered,3,Wallet
+F00516,2025-06-05,R042,U0399,Delhi,Late Night,App,367,0.2,15,308.6,71,Delivered,0,Card
+F00517,2025-11-10,R044,U0013,Mumbai,Late Night,App,1006,0.1,15,920.4,61,Delivered,5,Cash
+F00518,2025-12-13,R023,U0030,Chennai,Breakfast,Web,1085,0.2,20,888.0,40,Delivered,3,Card
+F00519,2025-03-29,R002,U0001,Hyderabad,Breakfast,Web,563,0.15,15,493.55,41,Refunded,0,Wallet
+F00520,2025-02-08,R033,U0320,Bengaluru,Dinner,App,353,0.15,35,335.05,54,Delivered,5,Cash
+F00521,2025-07-03,R074,U0038,Delhi,Breakfast,App,453,0.1,35,442.7,63,Refunded,0,Card
+F00522,2025-05-06,R058,U0380,Chennai,Late Night,Web,408,0.15,35,381.8,71,Refunded,0,Cash
+F00523,2025-12-01,R063,U0430,Mumbai,Lunch,App,1125,0.1,25,1037.5,69,Cancelled,0,UPI
+F00524,2025-01-25,R076,U0263,Bengaluru,Dinner,App,876,0,30,906,72,Delivered,4,Cash
+F00525,2025-04-20,R060,U0277,Kolkata,Breakfast,Web,1102,0.1,25,1016.8,35,Delivered,5,UPI
+F00526,2025-12-17,R005,U0425,Mumbai,Late Night,App,494,0.15,25,444.9,22,Delivered,3,UPI
+F00527,2025-09-02,R022,U0386,Delhi,Dinner,App,361,0.2,35,323.8,66,Delivered,3,Card
+F00528,2025-05-20,R078,U0129,Kolkata,Dinner,Web,615,0.15,15,537.75,70,Refunded,0,UPI
+F00529,2025-03-30,R024,U0275,Pune,Dinner,App,1310,0.15,20,1133.5,60,Delivered,3,Cash
+F00530,2025-07-30,R048,U0079,Bengaluru,Late Night,App,1227,0,25,1252,25,Delivered,3,UPI
+F00531,2025-11-02,R020,U0329,Hyderabad,Late Night,App,1365,0,30,1395,63,Delivered,5,Wallet
+F00532,2025-01-26,R006,U0417,Hyderabad,Lunch,Web,254,0,30,284,37,Delivered,3,Card
+F00533,2025-05-02,R014,U0273,Bengaluru,Lunch,App,824,0.05,20,802.8,65,Delivered,5,Card
+F00534,2025-01-05,R068,U0279,Kolkata,Lunch,Web,1332,0.2,30,1095.6,68,Delivered,4,UPI
+F00535,2025-07-19,R039,U0020,Kolkata,Dinner,App,546,0.1,15,506.4,53,Delivered,3,UPI
+F00536,2025-09-07,R078,U0440,Kolkata,Lunch,Web,398,0.05,30,408.1,46,Delivered,5,Wallet
+F00537,2025-02-13,R026,U0200,Mumbai,Late Night,Web,1143,0.15,15,986.55,32,Cancelled,0,UPI
+F00538,2025-05-13,R016,U0037,Mumbai,Breakfast,Web,535,0.2,15,443.0,29,Delivered,5,UPI
+F00539,2025-12-26,R006,U0384,Hyderabad,Lunch,App,724,0.1,35,686.6,20,Delivered,3,UPI
+F00540,2025-02-20,R065,U0177,Kolkata,Breakfast,Web,1138,0.1,30,1054.2,25,Delivered,0,UPI
+F00541,2025-06-26,R019,U0032,Bengaluru,Late Night,App,581,0.05,30,581.95,73,Delivered,0,Cash
+F00542,2025-06-25,R024,U0112,Pune,Lunch,Web,894,0.1,30,834.6,60,Delivered,5,UPI
+F00543,2025-08-23,R052,U0189,Delhi,Late Night,App,730,0.15,20,640.5,30,Delivered,5,Cash
+F00544,2025-12-22,R010,U0115,Kolkata,Late Night,Web,1075,0.1,15,982.5,42,Delivered,0,UPI
+F00545,2025-09-04,R059,U0334,Mumbai,Breakfast,Web,1290,0.1,20,1181.0,71,Delivered,0,UPI
+F00546,2025-11-23,R073,U0177,Mumbai,Breakfast,App,936,0.15,35,830.6,72,Delivered,4,Wallet
+F00547,2025-01-29,R056,U0052,Hyderabad,Late Night,App,887,0.2,20,729.6,57,Delivered,0,Card
+F00548,2025-10-06,R010,U0160,Kolkata,Late Night,App,620,0.15,25,552.0,55,Delivered,5,Wallet
+F00549,2025-01-06,R070,U0171,Pune,Dinner,Web,929,0.2,30,773.2,43,Delivered,3,Wallet
+F00550,2025-03-17,R035,U0055,Bengaluru,Lunch,Web,464,0.15,30,424.4,50,Cancelled,0,Wallet
+F00551,2025-04-10,R076,U0158,Bengaluru,Late Night,App,912,0.15,25,800.2,63,Delivered,3,Cash
+F00552,2025-07-17,R051,U0395,Mumbai,Late Night,App,585,0.2,20,488.0,33,Delivered,5,Cash
+F00553,2025-11-11,R017,U0441,Mumbai,Breakfast,Web,301,0,25,326,35,Delivered,5,Wallet
+F00554,2025-02-01,R075,U0349,Bengaluru,Late Night,Web,999,0.1,35,934.1,53,Delivered,0,Card
+F00555,2025-02-13,R057,U0382,Pune,Breakfast,App,458,0.15,30,419.3,31,Delivered,4,Card
+F00556,2025-02-11,R063,U0384,Mumbai,Late Night,Web,1202,0.1,20,1101.8,59,Delivered,5,Wallet
+F00557,2025-01-24,R031,U0074,Bengaluru,Dinner,App,848,0.05,15,820.6,45,Delivered,3,Wallet
+F00558,2025-03-13,R003,U0235,Kolkata,Dinner,App,1144,0.15,15,987.4,31,Delivered,3,UPI
+F00559,2025-12-13,R004,U0119,Kolkata,Late Night,Web,896,0.2,25,741.8,23,Delivered,0,Cash
+F00560,2025-02-23,R018,U0115,Kolkata,Dinner,App,702,0.2,25,586.6,26,Delivered,4,Wallet
+F00561,2025-06-08,R002,U0438,Hyderabad,Lunch,Web,199,0.05,20,209.05,41,Delivered,5,Cash
+F00562,2025-04-18,R026,U0010,Mumbai,Lunch,Web,248,0.05,35,270.6,50,Refunded,0,UPI
+F00563,2025-05-14,R013,U0433,Mumbai,Dinner,App,386,0.15,15,343.1,24,Refunded,0,Wallet
+F00564,2025-04-08,R016,U0329,Mumbai,Late Night,Web,389,0.15,20,350.65,54,Delivered,3,Cash
+F00565,2025-05-07,R058,U0019,Chennai,Breakfast,App,842,0.05,30,829.9,74,Delivered,5,Wallet
+F00566,2025-09-20,R029,U0107,Mumbai,Dinner,App,630,0.1,20,587.0,73,Delivered,0,Cash
+F00567,2025-08-21,R067,U0327,Chennai,Lunch,Web,194,0.15,35,199.9,71,Delivered,3,Wallet
+F00568,2025-09-14,R056,U0431,Hyderabad,Late Night,App,228,0.1,20,225.2,50,Delivered,4,Cash
+F00569,2025-11-14,R022,U0123,Delhi,Lunch,Web,973,0.2,20,798.4,47,Delivered,5,UPI
+F00570,2025-11-02,R010,U0202,Kolkata,Lunch,Web,844,0,20,864,66,Delivered,3,Cash
+F00571,2025-10-11,R073,U0105,Mumbai,Breakfast,App,611,0.2,15,503.8,55,Delivered,3,Cash
+F00572,2025-11-21,R057,U0187,Pune,Dinner,Web,909,0.05,35,898.55,22,Cancelled,0,Cash
+F00573,2025-12-13,R003,U0126,Kolkata,Lunch,Web,859,0,25,884,36,Delivered,4,UPI
+F00574,2025-11-08,R015,U0446,Kolkata,Late Night,Web,966,0,25,991,18,Delivered,3,Cash
+F00575,2025-05-17,R022,U0245,Delhi,Late Night,Web,1307,0.1,30,1206.3,44,Delivered,5,Card
+F00576,2025-07-26,R056,U0010,Hyderabad,Lunch,Web,1377,0.1,20,1259.3,33,Delivered,3,Card
+F00577,2025-01-23,R053,U0239,Pune,Late Night,Web,1031,0.1,15,942.9,58,Delivered,4,Wallet
+F00578,2025-05-17,R013,U0133,Mumbai,Late Night,App,938,0.1,15,859.2,32,Refunded,0,Card
+F00579,2025-05-27,R047,U0004,Delhi,Late Night,App,1062,0.05,15,1023.9,75,Delivered,4,Cash
+F00580,2025-07-24,R022,U0212,Delhi,Dinner,Web,755,0.15,15,656.75,34,Delivered,4,UPI
+F00581,2025-04-17,R076,U0307,Bengaluru,Dinner,Web,1246,0.2,25,1021.8,55,Delivered,0,Card
+F00582,2025-05-05,R011,U0366,Kolkata,Breakfast,Web,1374,0.1,15,1251.6,74,Delivered,0,Cash
+F00583,2025-03-15,R052,U0366,Delhi,Dinner,Web,673,0,15,688,59,Refunded,0,UPI
+F00584,2025-07-11,R078,U0430,Kolkata,Breakfast,App,335,0.1,25,326.5,36,Delivered,3,Card
+F00585,2025-11-09,R038,U0032,Pune,Lunch,App,331,0,30,361,67,Delivered,0,Wallet
+F00586,2025-03-15,R031,U0265,Bengaluru,Late Night,App,897,0.2,35,752.6,33,Cancelled,0,Cash
+F00587,2025-07-06,R039,U0217,Kolkata,Breakfast,Web,347,0.2,30,307.6,20,Delivered,4,UPI
+F00588,2025-04-25,R058,U0269,Chennai,Breakfast,App,1127,0.2,15,916.6,74,Delivered,0,Cash
+F00589,2025-02-10,R022,U0213,Delhi,Lunch,App,1246,0.2,20,1016.8,75,Delivered,4,Card
+F00590,2025-11-29,R062,U0139,Chennai,Breakfast,Web,613,0.05,15,597.35,29,Cancelled,0,Wallet
+F00591,2025-03-28,R025,U0124,Mumbai,Late Night,App,644,0,35,679,32,Delivered,0,Cash
+F00592,2025-11-12,R073,U0180,Mumbai,Dinner,App,731,0,20,751,55,Delivered,0,Card
+F00593,2025-05-24,R019,U0041,Bengaluru,Lunch,Web,1346,0.2,30,1106.8,45,Delivered,4,Cash
+F00594,2025-04-19,R077,U0068,Delhi,Dinner,Web,1313,0,15,1328,44,Delivered,0,UPI
+F00595,2025-02-14,R021,U0204,Pune,Late Night,App,467,0.15,25,421.95,23,Delivered,0,Wallet
+F00596,2025-05-17,R040,U0304,Kolkata,Late Night,App,654,0.1,15,603.6,34,Delivered,4,UPI
+F00597,2025-03-08,R053,U0431,Pune,Dinner,App,395,0.05,30,405.25,61,Delivered,3,Card
+F00598,2025-10-31,R030,U0194,Chennai,Breakfast,App,1138,0,30,1168,50,Cancelled,0,Cash
+F00599,2025-06-24,R023,U0082,Chennai,Breakfast,Web,635,0.05,35,638.25,26,Delivered,4,UPI
+F00600,2025-11-07,R068,U0113,Kolkata,Breakfast,App,557,0.15,35,508.45,71,Delivered,0,Wallet
+F00601,2025-09-02,R021,U0249,Pune,Late Night,App,550,0.15,30,497.5,48,Delivered,3,Cash
+F00602,2025-07-18,R079,U0283,Hyderabad,Breakfast,App,667,0.05,30,663.65,18,Cancelled,0,UPI
+F00603,2025-04-02,R025,U0068,Mumbai,Breakfast,Web,1280,0,25,1305,24,Delivered,4,UPI
+F00604,2025-03-07,R079,U0329,Hyderabad,Late Night,Web,1343,0.05,25,1300.85,57,Delivered,3,Wallet
+F00605,2025-01-08,R057,U0229,Pune,Breakfast,Web,1133,0.05,20,1096.35,21,Delivered,0,UPI
+F00606,2025-09-24,R052,U0433,Delhi,Lunch,Web,863,0.15,25,758.55,51,Delivered,4,Wallet
+F00607,2025-07-12,R003,U0209,Kolkata,Breakfast,Web,257,0.15,35,253.45,63,Delivered,0,Card
+F00608,2025-10-11,R071,U0173,Pune,Dinner,App,331,0.2,25,289.8,71,Delivered,0,Wallet
+F00609,2025-12-23,R070,U0299,Pune,Breakfast,App,424,0,20,444,53,Delivered,5,Cash
+F00610,2025-09-27,R029,U0113,Mumbai,Breakfast,App,1275,0.15,35,1118.75,72,Delivered,5,Cash
+F00611,2025-07-19,R017,U0258,Mumbai,Dinner,App,786,0.05,15,761.7,47,Delivered,5,UPI
+F00612,2025-07-01,R053,U0022,Pune,Dinner,App,712,0.05,20,696.4,35,Cancelled,0,Cash
+F00613,2025-09-17,R040,U0165,Kolkata,Late Night,Web,262,0.05,30,278.9,44,Delivered,5,Card
+F00614,2025-02-23,R063,U0395,Mumbai,Dinner,Web,1238,0.2,35,1025.4,28,Delivered,4,Card
+F00615,2025-03-21,R046,U0447,Delhi,Breakfast,Web,630,0.2,25,529.0,47,Cancelled,0,Cash
+F00616,2025-10-05,R029,U0221,Mumbai,Breakfast,App,574,0.15,25,512.9,44,Delivered,0,Card
+F00617,2025-03-03,R065,U0112,Kolkata,Late Night,Web,193,0.2,35,189.4,48,Delivered,0,Cash
+F00618,2025-04-23,R065,U0370,Kolkata,Late Night,Web,973,0.05,20,944.35,19,Delivered,5,Cash
+F00619,2025-06-11,R038,U0113,Pune,Dinner,Web,996,0.15,15,861.6,51,Delivered,5,Card
+F00620,2025-03-11,R078,U0062,Kolkata,Dinner,Web,1201,0.05,20,1160.95,57,Refunded,0,Card
+F00621,2025-11-14,R076,U0216,Bengaluru,Late Night,Web,598,0.15,30,538.3,71,Cancelled,0,UPI
+F00622,2025-11-30,R012,U0126,Kolkata,Lunch,App,1303,0.1,20,1192.7,60,Delivered,4,Wallet
+F00623,2025-02-06,R066,U0028,Chennai,Lunch,App,342,0.15,35,325.7,23,Delivered,3,Card
+F00624,2025-08-10,R049,U0332,Kolkata,Breakfast,App,857,0,25,882,67,Delivered,4,UPI
+F00625,2025-09-29,R054,U0351,Kolkata,Lunch,Web,985,0.05,25,960.75,41,Delivered,3,Cash
+F00626,2025-10-08,R059,U0410,Mumbai,Breakfast,App,666,0.1,15,614.4,75,Delivered,5,Card
+F00627,2025-10-01,R004,U0166,Kolkata,Breakfast,Web,1367,0.1,35,1265.3,47,Delivered,4,Card
+F00628,2025-04-22,R023,U0035,Chennai,Dinner,Web,629,0.1,30,596.1,54,Cancelled,0,Wallet
+F00629,2025-05-01,R022,U0101,Delhi,Breakfast,App,537,0,35,572,44,Delivered,3,Wallet
+F00630,2025-01-27,R053,U0397,Pune,Late Night,Web,1020,0,15,1035,34,Delivered,4,Wallet
+F00631,2025-01-26,R080,U0428,Kolkata,Dinner,Web,390,0.1,15,366.0,59,Delivered,4,Cash
+F00632,2025-04-19,R008,U0172,Bengaluru,Breakfast,Web,470,0,35,505,47,Delivered,4,Card
+F00633,2025-07-01,R003,U0414,Kolkata,Dinner,Web,769,0.2,25,640.2,59,Delivered,5,Cash
+F00634,2025-07-28,R062,U0263,Chennai,Late Night,App,976,0.05,25,952.2,48,Delivered,4,Wallet
+F00635,2025-07-22,R070,U0103,Pune,Lunch,Web,1389,0.15,35,1215.65,27,Delivered,3,UPI
+F00636,2025-06-11,R055,U0015,Mumbai,Dinner,Web,532,0.1,35,513.8,52,Delivered,5,Cash
+F00637,2025-12-14,R006,U0095,Hyderabad,Breakfast,App,1289,0.1,30,1190.1,33,Delivered,5,Cash
+F00638,2025-03-23,R063,U0186,Mumbai,Lunch,App,1002,0.2,25,826.6,44,Delivered,0,Card
+F00639,2025-09-22,R010,U0409,Kolkata,Breakfast,App,696,0.2,35,591.8,65,Delivered,5,Card
+F00640,2025-02-24,R022,U0200,Delhi,Lunch,App,490,0.15,30,446.5,30,Delivered,5,Cash
+F00641,2025-04-19,R046,U0030,Delhi,Lunch,App,1008,0.05,15,972.6,31,Delivered,3,Card
+F00642,2025-05-26,R071,U0438,Pune,Late Night,Web,259,0.15,35,255.15,47,Delivered,0,Wallet
+F00643,2025-12-10,R051,U0097,Mumbai,Dinner,App,969,0,25,994,45,Delivered,4,Wallet
+F00644,2025-12-25,R027,U0340,Chennai,Lunch,App,684,0.1,20,635.6,38,Delivered,5,Card
+F00645,2025-09-26,R017,U0298,Mumbai,Dinner,Web,712,0.05,20,696.4,75,Delivered,4,Cash
+F00646,2025-06-15,R012,U0281,Kolkata,Late Night,Web,431,0.05,15,424.45,55,Delivered,0,Card
+F00647,2025-06-28,R057,U0060,Pune,Breakfast,Web,718,0.05,30,712.1,71,Delivered,5,UPI
+F00648,2025-11-21,R002,U0233,Hyderabad,Dinner,App,1052,0.1,25,971.8,63,Delivered,4,Cash
+F00649,2025-11-13,R057,U0090,Pune,Late Night,Web,326,0.05,25,334.7,28,Delivered,3,Cash
+F00650,2025-05-18,R069,U0400,Bengaluru,Dinner,Web,543,0.1,35,523.7,19,Delivered,5,Wallet
+F00651,2025-11-17,R021,U0094,Pune,Late Night,Web,992,0.1,30,922.8,59,Refunded,0,Cash
+F00652,2025-07-29,R006,U0343,Hyderabad,Late Night,App,812,0.05,20,791.4,35,Delivered,0,Card
+F00653,2025-10-27,R004,U0291,Kolkata,Lunch,Web,296,0.1,20,286.4,44,Delivered,5,Cash
+F00654,2025-10-26,R052,U0179,Delhi,Dinner,App,1207,0.1,30,1116.3,31,Delivered,4,UPI
+F00655,2025-10-22,R021,U0381,Pune,Lunch,App,319,0.15,15,286.15,44,Delivered,0,UPI
+F00656,2025-01-31,R066,U0407,Chennai,Breakfast,App,506,0.15,25,455.1,18,Delivered,3,Cash
+F00657,2025-05-07,R076,U0007,Bengaluru,Breakfast,Web,1301,0.05,30,1265.95,47,Delivered,4,UPI
+F00658,2025-06-06,R066,U0205,Chennai,Breakfast,Web,1070,0,15,1085,27,Delivered,5,Wallet
+F00659,2025-05-09,R045,U0124,Chennai,Dinner,App,1096,0.1,20,1006.4,34,Delivered,3,Cash
+F00660,2025-01-28,R021,U0330,Pune,Breakfast,App,840,0.15,30,744.0,28,Delivered,5,UPI
+F00661,2025-07-15,R018,U0087,Kolkata,Late Night,Web,259,0,35,294,45,Delivered,5,Card
+F00662,2025-03-09,R018,U0211,Kolkata,Lunch,App,690,0.1,15,636.0,37,Delivered,3,UPI
+F00663,2025-12-25,R069,U0305,Bengaluru,Late Night,App,1141,0,20,1161,20,Delivered,3,Cash
+F00664,2025-05-17,R045,U0275,Chennai,Dinner,Web,642,0,20,662,48,Delivered,3,UPI
+F00665,2025-10-28,R009,U0360,Delhi,Breakfast,App,1093,0.1,15,998.7,54,Cancelled,0,Wallet
+F00666,2025-03-21,R015,U0428,Kolkata,Late Night,App,677,0.15,35,610.45,50,Refunded,0,Wallet
+F00667,2025-09-17,R055,U0119,Mumbai,Dinner,App,632,0.05,25,625.4,19,Delivered,4,Card
+F00668,2025-12-03,R068,U0374,Kolkata,Breakfast,Web,1116,0,25,1141,50,Cancelled,0,Cash
+F00669,2025-12-23,R077,U0193,Delhi,Late Night,Web,943,0.05,20,915.85,40,Delivered,3,Card
+F00670,2025-12-01,R038,U0002,Pune,Dinner,Web,1221,0.1,35,1133.9,62,Delivered,3,Wallet
+F00671,2025-04-05,R022,U0172,Delhi,Lunch,App,508,0,35,543,59,Delivered,4,UPI
+F00672,2025-11-12,R022,U0176,Delhi,Breakfast,Web,1128,0.2,30,932.4,46,Delivered,3,Cash
+F00673,2025-08-24,R046,U0132,Delhi,Late Night,App,743,0.1,30,698.7,71,Delivered,3,Wallet
+F00674,2025-08-07,R036,U0268,Chennai,Breakfast,App,972,0.1,15,889.8,48,Delivered,5,Cash
+F00675,2025-09-30,R068,U0446,Kolkata,Breakfast,App,453,0.1,20,427.7,50,Delivered,4,Wallet
+F00676,2025-02-23,R036,U0064,Chennai,Dinner,App,893,0.1,20,823.7,52,Delivered,4,Wallet
+F00677,2025-11-18,R018,U0164,Kolkata,Late Night,Web,934,0,30,964,35,Delivered,0,Cash
+F00678,2025-10-25,R017,U0033,Mumbai,Lunch,App,348,0.05,25,355.6,26,Delivered,4,Cash
+F00679,2025-07-08,R006,U0407,Hyderabad,Dinner,App,775,0.2,20,640.0,58,Delivered,4,Card
+F00680,2025-10-07,R016,U0443,Mumbai,Breakfast,App,777,0.1,20,719.3,73,Delivered,4,Cash
+F00681,2025-11-11,R037,U0136,Mumbai,Dinner,Web,1085,0.05,20,1050.75,26,Delivered,4,Card
+F00682,2025-04-17,R013,U0380,Mumbai,Breakfast,App,302,0.05,20,306.9,46,Delivered,5,Card
+F00683,2025-01-09,R080,U0299,Kolkata,Lunch,App,544,0.2,25,460.2,50,Delivered,3,Cash
+F00684,2025-04-02,R018,U0125,Kolkata,Lunch,App,1314,0.1,25,1207.6,44,Delivered,5,Wallet
+F00685,2025-07-20,R079,U0234,Hyderabad,Breakfast,Web,882,0.05,20,857.9,70,Cancelled,0,UPI
+F00686,2025-01-12,R031,U0335,Bengaluru,Lunch,App,421,0.15,15,372.85,19,Delivered,4,Wallet
+F00687,2025-05-20,R016,U0364,Mumbai,Dinner,App,1144,0.1,20,1049.6,37,Delivered,0,Cash
+F00688,2025-11-01,R078,U0450,Kolkata,Lunch,Web,569,0.05,15,555.55,25,Delivered,3,Wallet
+F00689,2025-02-01,R053,U0397,Pune,Late Night,App,1255,0.05,35,1227.25,55,Delivered,0,Card
+F00690,2025-07-02,R015,U0012,Kolkata,Lunch,App,902,0.1,15,826.8,44,Delivered,0,Cash
+F00691,2025-05-27,R061,U0238,Pune,Dinner,App,1332,0.05,20,1285.4,35,Delivered,0,Wallet
+F00692,2025-03-23,R066,U0114,Chennai,Dinner,Web,695,0.15,20,610.75,27,Delivered,5,UPI
+F00693,2025-02-19,R007,U0365,Delhi,Dinner,Web,711,0,20,731,18,Delivered,4,Wallet
+F00694,2025-09-11,R065,U0370,Kolkata,Late Night,App,732,0.2,30,615.6,21,Cancelled,0,UPI
+F00695,2025-09-23,R049,U0177,Kolkata,Dinner,App,1058,0.1,30,982.2,32,Delivered,4,Wallet
+F00696,2025-11-04,R035,U0348,Bengaluru,Dinner,App,1052,0.15,25,919.2,50,Delivered,5,Card
+F00697,2025-05-30,R039,U0117,Kolkata,Breakfast,App,921,0.1,35,863.9,72,Delivered,4,Wallet
+F00698,2025-05-29,R055,U0167,Mumbai,Lunch,App,901,0.2,20,740.8,64,Refunded,0,Card
+F00699,2025-08-20,R065,U0122,Kolkata,Dinner,App,215,0.15,25,207.75,39,Delivered,5,UPI
+F00700,2025-05-06,R072,U0258,Mumbai,Dinner,App,1123,0.1,25,1035.7,47,Delivered,3,UPI
+F00701,2025-01-01,R027,U0403,Chennai,Late Night,Web,269,0.15,15,243.65,29,Delivered,5,Card
+F00702,2025-05-29,R036,U0082,Chennai,Lunch,Web,1239,0,35,1274,72,Delivered,5,Cash
+F00703,2025-02-06,R033,U0185,Bengaluru,Breakfast,Web,213,0.05,25,227.35,67,Delivered,4,Wallet
+F00704,2025-09-17,R031,U0087,Bengaluru,Late Night,App,274,0.1,30,276.6,45,Delivered,3,Card
+F00705,2025-11-19,R007,U0386,Delhi,Breakfast,Web,345,0,35,380,57,Delivered,3,Cash
+F00706,2025-05-07,R071,U0338,Pune,Breakfast,Web,733,0.2,25,611.4,61,Delivered,0,Wallet
+F00707,2025-12-23,R047,U0130,Delhi,Lunch,App,1073,0.1,25,990.7,48,Cancelled,0,Cash
+F00708,2025-10-04,R038,U0029,Pune,Late Night,Web,654,0.15,35,590.9,52,Delivered,3,Cash
+F00709,2025-12-03,R067,U0169,Chennai,Dinner,App,788,0.15,20,689.8,59,Cancelled,0,Cash
+F00710,2025-08-27,R078,U0093,Kolkata,Late Night,App,264,0,20,284,35,Delivered,5,Card
+F00711,2025-01-06,R034,U0078,Mumbai,Lunch,App,1367,0.05,35,1333.65,74,Delivered,3,Cash
+F00712,2025-08-15,R050,U0272,Bengaluru,Dinner,App,362,0.1,35,360.8,38,Delivered,0,Wallet
+F00713,2025-09-12,R017,U0234,Mumbai,Breakfast,App,483,0,20,503,46,Delivered,3,UPI
+F00714,2025-10-15,R013,U0070,Mumbai,Breakfast,Web,1289,0.05,35,1259.55,23,Delivered,4,Cash
+F00715,2025-05-02,R006,U0133,Hyderabad,Lunch,Web,1259,0.05,25,1221.05,22,Delivered,4,Wallet
+F00716,2025-07-30,R076,U0221,Bengaluru,Late Night,Web,941,0.05,15,908.95,62,Delivered,3,Wallet
+F00717,2025-07-26,R007,U0418,Delhi,Dinner,Web,1097,0.1,15,1002.3,60,Delivered,0,Card
+F00718,2025-12-30,R045,U0124,Chennai,Late Night,App,1038,0.1,30,964.2,54,Delivered,5,Wallet
+F00719,2025-10-19,R076,U0376,Bengaluru,Lunch,App,1362,0.1,15,1240.8,28,Cancelled,0,UPI
+F00720,2025-08-02,R080,U0332,Kolkata,Breakfast,Web,395,0.05,25,400.25,37,Delivered,5,Cash
+F00721,2025-09-25,R046,U0406,Delhi,Breakfast,App,1320,0.1,15,1203.0,65,Delivered,3,Wallet
+F00722,2025-07-25,R031,U0433,Bengaluru,Lunch,App,210,0.05,15,214.5,74,Delivered,0,Cash
+F00723,2025-06-25,R017,U0431,Mumbai,Dinner,App,920,0.15,15,797.0,75,Cancelled,0,UPI
+F00724,2025-03-25,R074,U0298,Delhi,Breakfast,App,742,0,25,767,59,Delivered,5,Card
+F00725,2025-01-21,R072,U0264,Mumbai,Lunch,Web,1242,0,15,1257,39,Cancelled,0,Wallet
+F00726,2025-08-05,R023,U0077,Chennai,Late Night,App,741,0.2,30,622.8,67,Delivered,5,Cash
+F00727,2025-10-02,R038,U0169,Pune,Breakfast,App,686,0,30,716,48,Delivered,3,Card
+F00728,2025-12-12,R046,U0176,Delhi,Lunch,App,276,0.2,30,250.8,51,Delivered,5,Card
+F00729,2025-12-12,R077,U0373,Delhi,Dinner,Web,345,0.05,20,347.75,25,Cancelled,0,Cash
+F00730,2025-09-10,R037,U0086,Mumbai,Late Night,Web,834,0.05,25,817.3,69,Refunded,0,Cash
+F00731,2025-10-11,R061,U0119,Pune,Lunch,Web,1249,0.05,30,1216.55,58,Delivered,5,Card
+F00732,2025-02-07,R052,U0266,Delhi,Breakfast,Web,1194,0.1,35,1109.6,38,Delivered,4,Cash
+F00733,2025-06-08,R038,U0432,Pune,Late Night,App,654,0.15,25,580.9,53,Delivered,4,Cash
+F00734,2025-01-01,R064,U0370,Pune,Lunch,App,588,0.05,30,588.6,61,Delivered,3,UPI
+F00735,2025-01-31,R074,U0145,Delhi,Lunch,App,1049,0.2,15,854.2,59,Delivered,0,UPI
+F00736,2025-10-03,R070,U0140,Pune,Late Night,Web,262,0.05,35,283.9,74,Refunded,0,Cash
+F00737,2025-10-25,R062,U0438,Chennai,Lunch,Web,648,0.05,15,630.6,74,Delivered,0,Wallet
+F00738,2025-08-23,R066,U0202,Chennai,Late Night,App,538,0.2,35,465.4,21,Delivered,0,UPI
+F00739,2025-08-05,R072,U0250,Mumbai,Late Night,App,485,0,20,505,31,Cancelled,0,UPI
+F00740,2025-08-03,R043,U0386,Kolkata,Dinner,Web,1063,0.05,20,1029.85,33,Delivered,3,UPI
+F00741,2025-11-20,R003,U0388,Kolkata,Late Night,App,613,0,20,633,68,Delivered,5,Cash
+F00742,2025-06-26,R078,U0223,Kolkata,Breakfast,Web,464,0.15,20,414.4,29,Delivered,5,UPI
+F00743,2025-04-20,R067,U0283,Chennai,Lunch,App,1158,0.05,35,1135.1,47,Delivered,3,Card
+F00744,2025-05-21,R053,U0231,Pune,Lunch,App,249,0.05,20,256.55,69,Delivered,5,Card
+F00745,2025-10-14,R075,U0354,Bengaluru,Breakfast,Web,577,0.2,20,481.6,66,Cancelled,0,UPI
+F00746,2025-09-21,R011,U0343,Kolkata,Dinner,Web,575,0.15,25,513.75,45,Delivered,0,Wallet
+F00747,2025-08-19,R079,U0373,Hyderabad,Breakfast,App,1011,0.2,35,843.8,32,Delivered,4,UPI
+F00748,2025-08-30,R063,U0301,Mumbai,Breakfast,Web,454,0.15,35,420.9,51,Delivered,5,UPI
+F00749,2025-07-09,R066,U0149,Chennai,Breakfast,App,189,0.1,20,190.1,47,Delivered,3,Wallet
+F00750,2025-08-21,R021,U0081,Pune,Lunch,Web,198,0,30,228,32,Delivered,3,Card
+F00751,2025-05-24,R073,U0094,Mumbai,Dinner,Web,354,0.2,20,303.2,69,Delivered,4,Card
+F00752,2025-02-16,R007,U0377,Delhi,Dinner,App,415,0,35,450,50,Delivered,0,UPI
+F00753,2025-05-25,R032,U0107,Chennai,Late Night,Web,392,0.1,30,382.8,40,Delivered,0,UPI
+F00754,2025-06-20,R026,U0165,Mumbai,Lunch,Web,413,0.1,25,396.7,22,Delivered,3,Cash
+F00755,2025-05-24,R033,U0397,Bengaluru,Breakfast,App,311,0.15,20,284.35,69,Delivered,5,Cash
+F00756,2025-06-14,R022,U0284,Delhi,Late Night,App,379,0.1,30,371.1,61,Delivered,3,Card
+F00757,2025-10-12,R060,U0312,Kolkata,Breakfast,Web,1316,0.1,25,1209.4,71,Delivered,3,UPI
+F00758,2025-12-03,R011,U0204,Kolkata,Lunch,App,1053,0.1,35,982.7,60,Delivered,3,UPI
+F00759,2025-06-30,R043,U0074,Kolkata,Breakfast,App,339,0.15,25,313.15,63,Delivered,4,Cash
+F00760,2025-12-27,R003,U0099,Kolkata,Lunch,App,847,0.2,35,712.6,22,Delivered,3,UPI
+F00761,2025-04-28,R009,U0012,Delhi,Dinner,Web,748,0.05,25,735.6,32,Delivered,5,Card
+F00762,2025-04-19,R080,U0357,Kolkata,Late Night,App,1400,0.2,15,1135.0,49,Delivered,5,Cash
+F00763,2025-04-07,R035,U0447,Bengaluru,Late Night,App,1257,0,30,1287,46,Delivered,3,UPI
+F00764,2025-12-25,R036,U0008,Chennai,Dinner,App,1204,0.15,30,1053.4,22,Delivered,4,Cash
+F00765,2025-02-20,R001,U0324,Chennai,Dinner,Web,1045,0,25,1070,49,Delivered,0,UPI
+F00766,2025-11-03,R037,U0369,Mumbai,Lunch,Web,354,0,20,374,59,Delivered,3,UPI
+F00767,2025-07-04,R018,U0107,Kolkata,Dinner,Web,200,0.05,30,220.0,58,Delivered,0,Wallet
+F00768,2025-05-08,R053,U0100,Pune,Dinner,App,778,0.05,35,774.1,28,Delivered,4,Wallet
+F00769,2025-10-26,R062,U0380,Chennai,Breakfast,App,512,0,25,537,23,Delivered,3,UPI
+F00770,2025-07-01,R078,U0261,Kolkata,Breakfast,App,602,0.1,35,576.8,75,Delivered,0,Card
+F00771,2025-11-27,R047,U0340,Delhi,Late Night,Web,968,0.15,30,852.8,55,Delivered,3,Wallet
+F00772,2025-09-10,R062,U0226,Chennai,Breakfast,App,625,0.2,30,530.0,48,Delivered,4,Card
+F00773,2025-06-16,R079,U0411,Hyderabad,Lunch,Web,975,0.15,15,843.75,69,Delivered,4,Wallet
+F00774,2025-03-20,R042,U0205,Delhi,Breakfast,App,1074,0.1,25,991.6,33,Delivered,0,UPI
+F00775,2025-03-14,R020,U0364,Hyderabad,Late Night,App,601,0.15,15,525.85,50,Delivered,4,Cash
+F00776,2025-01-05,R054,U0184,Kolkata,Late Night,Web,1083,0.05,20,1048.85,27,Delivered,4,UPI
+F00777,2025-10-15,R061,U0036,Pune,Lunch,App,495,0.05,15,485.25,21,Delivered,4,Card
+F00778,2025-10-27,R008,U0374,Bengaluru,Dinner,App,674,0.05,35,675.3,56,Delivered,0,UPI
+F00779,2025-12-23,R028,U0418,Chennai,Lunch,Web,1360,0,30,1390,55,Refunded,0,UPI
+F00780,2025-05-28,R012,U0308,Kolkata,Lunch,App,1183,0.2,20,966.4,49,Delivered,0,Card
+F00781,2025-05-26,R072,U0360,Mumbai,Lunch,Web,787,0.05,30,777.65,49,Delivered,4,UPI
+F00782,2025-04-17,R036,U0113,Chennai,Lunch,Web,1133,0.2,35,941.4,36,Delivered,0,Wallet
+F00783,2025-05-21,R012,U0340,Kolkata,Dinner,Web,882,0,25,907,31,Delivered,5,UPI
+F00784,2025-03-13,R043,U0328,Kolkata,Late Night,App,1132,0,35,1167,33,Delivered,3,Wallet
+F00785,2025-06-02,R007,U0017,Delhi,Breakfast,App,796,0.05,25,781.2,44,Delivered,4,UPI
+F00786,2025-05-09,R022,U0168,Delhi,Breakfast,Web,1081,0.15,35,953.85,67,Delivered,4,Wallet
+F00787,2025-03-20,R041,U0335,Chennai,Breakfast,App,438,0,20,458,43,Delivered,3,Cash
+F00788,2025-04-02,R023,U0015,Chennai,Breakfast,App,404,0,15,419,21,Delivered,4,Card
+F00789,2025-08-24,R045,U0255,Chennai,Lunch,App,731,0,30,761,29,Delivered,0,UPI
+F00790,2025-10-09,R068,U0396,Kolkata,Breakfast,App,478,0.05,15,469.1,59,Delivered,5,Wallet
+F00791,2025-01-30,R018,U0144,Kolkata,Lunch,Web,1121,0.1,15,1023.9,55,Delivered,4,UPI
+F00792,2025-08-04,R021,U0446,Pune,Dinner,App,602,0,25,627,34,Cancelled,0,Wallet
+F00793,2025-10-22,R068,U0139,Kolkata,Lunch,Web,347,0,15,362,19,Delivered,4,Wallet
+F00794,2025-09-06,R056,U0127,Hyderabad,Late Night,App,1027,0,20,1047,36,Delivered,4,Card
+F00795,2025-09-21,R021,U0220,Pune,Late Night,App,1039,0.1,35,970.1,19,Delivered,0,Cash
+F00796,2025-04-11,R054,U0016,Kolkata,Late Night,App,237,0.2,25,214.6,18,Delivered,3,Wallet
+F00797,2025-02-27,R005,U0041,Mumbai,Late Night,Web,673,0.2,15,553.4,68,Delivered,3,Wallet
+F00798,2025-04-16,R046,U0372,Delhi,Lunch,App,352,0.15,30,329.2,52,Delivered,5,Wallet
+F00799,2025-08-30,R023,U0264,Chennai,Dinner,App,1184,0.1,35,1100.6,43,Delivered,4,Cash
+F00800,2025-07-04,R009,U0172,Delhi,Breakfast,App,370,0.15,15,329.5,39,Delivered,0,UPI
+F00801,2025-08-22,R058,U0438,Chennai,Late Night,Web,1099,0.15,30,964.15,18,Delivered,5,Wallet
+F00802,2025-02-02,R067,U0187,Chennai,Breakfast,Web,483,0,20,503,32,Cancelled,0,UPI
+F00803,2025-04-14,R028,U0062,Chennai,Lunch,Web,184,0.05,25,199.8,60,Delivered,0,Cash
+F00804,2025-09-06,R038,U0195,Pune,Breakfast,Web,196,0.05,35,221.2,59,Delivered,0,Cash
+F00805,2025-03-03,R047,U0005,Delhi,Breakfast,Web,336,0.2,35,303.8,35,Delivered,4,Cash
+F00806,2025-12-05,R017,U0150,Mumbai,Lunch,Web,320,0,20,340,41,Delivered,5,Card
+F00807,2025-05-19,R067,U0208,Chennai,Dinner,App,1048,0,35,1083,71,Delivered,3,Card
+F00808,2025-07-31,R019,U0026,Bengaluru,Breakfast,App,1372,0.05,25,1328.4,36,Delivered,5,Cash
+F00809,2025-01-30,R004,U0316,Kolkata,Late Night,App,571,0.15,35,520.35,41,Refunded,0,Card
+F00810,2025-05-23,R015,U0347,Kolkata,Dinner,App,1378,0,15,1393,40,Delivered,3,Card
+F00811,2025-04-18,R035,U0061,Bengaluru,Breakfast,App,1261,0.05,35,1232.95,71,Delivered,5,Cash
+F00812,2025-07-16,R061,U0305,Pune,Lunch,Web,916,0.15,30,808.6,56,Delivered,4,Wallet
+F00813,2025-11-02,R044,U0148,Mumbai,Breakfast,Web,613,0.2,25,515.4,28,Delivered,0,UPI
+F00814,2025-12-07,R060,U0368,Kolkata,Late Night,App,738,0,25,763,37,Refunded,0,Card
+F00815,2025-03-26,R009,U0028,Delhi,Breakfast,App,1021,0.2,15,831.8,23,Delivered,3,Wallet
+F00816,2025-10-26,R025,U0346,Mumbai,Late Night,Web,1210,0.2,25,993.0,30,Delivered,0,Wallet
+F00817,2025-03-10,R054,U0073,Kolkata,Breakfast,Web,998,0.1,30,928.2,64,Delivered,4,UPI
+F00818,2025-02-11,R009,U0063,Delhi,Lunch,App,1198,0.2,35,993.4,62,Delivered,0,Wallet
+F00819,2025-11-12,R006,U0210,Hyderabad,Breakfast,App,221,0.15,30,217.85,36,Delivered,5,Cash
+F00820,2025-11-27,R025,U0096,Mumbai,Lunch,App,574,0.2,25,484.2,18,Delivered,3,UPI
+F00821,2025-03-25,R053,U0143,Pune,Breakfast,Web,1210,0.05,15,1164.5,43,Delivered,0,Card
+F00822,2025-09-09,R043,U0381,Kolkata,Dinner,App,359,0.05,25,366.05,53,Delivered,4,Wallet
+F00823,2025-09-27,R046,U0197,Delhi,Dinner,App,747,0.2,30,627.6,67,Delivered,4,Card
+F00824,2025-02-08,R069,U0365,Bengaluru,Lunch,Web,393,0.2,15,329.4,70,Delivered,4,UPI
+F00825,2025-11-22,R065,U0440,Kolkata,Late Night,Web,1097,0,25,1122,46,Delivered,3,UPI
+F00826,2025-05-25,R078,U0175,Kolkata,Breakfast,App,451,0.05,30,458.45,69,Delivered,3,UPI
+F00827,2025-04-10,R018,U0070,Kolkata,Breakfast,App,490,0.2,25,417.0,27,Delivered,0,UPI
+F00828,2025-11-30,R057,U0161,Pune,Dinner,Web,648,0.05,35,650.6,26,Delivered,0,Card
+F00829,2025-11-21,R037,U0433,Mumbai,Lunch,Web,1259,0.15,30,1100.15,22,Delivered,4,Card
+F00830,2025-04-05,R064,U0213,Pune,Lunch,Web,583,0.2,15,481.4,33,Delivered,4,Card
+F00831,2025-06-24,R014,U0141,Bengaluru,Lunch,App,570,0.05,30,571.5,36,Delivered,5,Wallet
+F00832,2025-09-13,R074,U0432,Delhi,Dinner,App,896,0.2,35,751.8,29,Delivered,3,Cash
+F00833,2025-10-09,R018,U0219,Kolkata,Lunch,Web,490,0.1,35,476.0,61,Delivered,4,Wallet
+F00834,2025-08-05,R071,U0162,Pune,Dinner,Web,1193,0,30,1223,21,Refunded,0,Wallet
+F00835,2025-08-19,R057,U0098,Pune,Lunch,Web,337,0.1,35,338.3,29,Delivered,4,Card
+F00836,2025-05-17,R033,U0282,Bengaluru,Lunch,App,1271,0.2,30,1046.8,44,Delivered,5,Cash
+F00837,2025-07-17,R033,U0299,Bengaluru,Breakfast,Web,1336,0.1,25,1227.4,34,Delivered,5,Wallet
+F00838,2025-12-15,R017,U0278,Mumbai,Dinner,App,444,0.1,30,429.6,25,Delivered,4,UPI
+F00839,2025-10-06,R052,U0128,Delhi,Breakfast,Web,893,0.15,15,774.05,21,Delivered,5,Card
+F00840,2025-08-09,R033,U0289,Bengaluru,Dinner,Web,1179,0.05,20,1140.05,70,Delivered,0,Card
+F00841,2025-11-26,R049,U0120,Kolkata,Dinner,Web,970,0.15,35,859.5,38,Delivered,5,Wallet
+F00842,2025-10-18,R005,U0078,Mumbai,Late Night,Web,477,0.05,35,488.15,23,Cancelled,0,Cash
+F00843,2025-06-27,R075,U0065,Bengaluru,Dinner,Web,715,0.05,20,699.25,68,Delivered,0,UPI
+F00844,2025-02-22,R039,U0249,Kolkata,Lunch,Web,908,0.1,15,832.2,45,Delivered,0,Cash
+F00845,2025-11-23,R016,U0335,Mumbai,Late Night,Web,726,0.1,35,688.4,74,Delivered,3,UPI
+F00846,2025-10-15,R026,U0286,Mumbai,Dinner,Web,1336,0.05,20,1289.2,40,Delivered,5,Card
+F00847,2025-01-13,R038,U0292,Pune,Lunch,App,483,0.15,35,445.55,42,Delivered,5,Wallet
+F00848,2025-03-26,R070,U0191,Pune,Late Night,App,1127,0.15,25,982.95,29,Delivered,3,Card
+F00849,2025-03-07,R037,U0325,Mumbai,Dinner,Web,429,0.2,30,373.2,57,Delivered,4,Card
+F00850,2025-10-26,R015,U0054,Kolkata,Dinner,Web,228,0.05,25,241.6,21,Delivered,4,UPI
+F00851,2025-01-20,R037,U0166,Mumbai,Breakfast,App,1389,0.1,30,1280.1,33,Delivered,0,Card
+F00852,2025-04-03,R059,U0276,Mumbai,Late Night,App,1302,0.2,20,1061.6,64,Delivered,4,UPI
+F00853,2025-10-10,R005,U0253,Mumbai,Lunch,App,419,0.1,35,412.1,47,Delivered,3,Cash
+F00854,2025-03-19,R022,U0283,Delhi,Breakfast,Web,827,0,15,842,26,Delivered,0,Cash
+F00855,2025-07-23,R047,U0367,Delhi,Breakfast,App,790,0.2,20,652.0,27,Delivered,3,Card
+F00856,2025-03-08,R025,U0230,Mumbai,Lunch,App,1052,0.15,30,924.2,23,Delivered,0,UPI
+F00857,2025-09-08,R055,U0143,Mumbai,Breakfast,Web,579,0.2,35,498.2,75,Delivered,0,Card
+F00858,2025-06-03,R071,U0362,Pune,Late Night,App,802,0.1,15,736.8,22,Refunded,0,Wallet
+F00859,2025-10-07,R061,U0401,Pune,Breakfast,Web,412,0.2,35,364.6,51,Delivered,5,Card
+F00860,2025-11-18,R005,U0018,Mumbai,Lunch,Web,1305,0.05,30,1269.75,41,Delivered,5,Cash
+F00861,2025-06-17,R051,U0286,Mumbai,Late Night,Web,1382,0.15,15,1189.7,27,Delivered,0,Cash
+F00862,2025-04-18,R023,U0087,Chennai,Breakfast,Web,823,0.1,35,775.7,57,Delivered,5,Wallet
+F00863,2025-11-06,R002,U0409,Hyderabad,Lunch,App,250,0.1,20,245.0,49,Delivered,3,Wallet
+F00864,2025-05-04,R059,U0348,Mumbai,Dinner,Web,241,0.1,20,236.9,49,Delivered,4,Card
+F00865,2025-01-03,R034,U0415,Mumbai,Late Night,App,568,0.1,15,526.2,70,Cancelled,0,Wallet
+F00866,2025-02-17,R017,U0336,Mumbai,Breakfast,App,831,0.05,25,814.45,64,Delivered,0,UPI
+F00867,2025-02-25,R017,U0334,Mumbai,Dinner,App,501,0.2,15,415.8,59,Delivered,0,UPI
+F00868,2025-03-14,R009,U0359,Delhi,Lunch,Web,234,0.15,35,233.9,63,Delivered,4,UPI
+F00869,2025-06-28,R074,U0177,Delhi,Dinner,App,516,0.05,20,510.2,54,Delivered,5,Cash
+F00870,2025-03-23,R029,U0197,Mumbai,Breakfast,App,833,0.1,35,784.7,33,Delivered,3,UPI
+F00871,2025-06-29,R045,U0047,Chennai,Lunch,App,412,0.1,15,385.8,61,Delivered,5,UPI
+F00872,2025-03-13,R036,U0073,Chennai,Breakfast,App,1163,0.15,15,1003.55,38,Delivered,3,Card
+F00873,2025-09-05,R016,U0053,Mumbai,Dinner,Web,527,0,15,542,33,Delivered,4,Card
+F00874,2025-05-16,R059,U0280,Mumbai,Lunch,App,554,0.05,20,546.3,40,Delivered,0,UPI
+F00875,2025-04-17,R034,U0337,Mumbai,Lunch,Web,916,0.15,20,798.6,49,Delivered,4,UPI
+F00876,2025-05-13,R016,U0252,Mumbai,Lunch,App,320,0.05,25,329.0,49,Delivered,4,UPI
+F00877,2025-07-06,R046,U0431,Delhi,Breakfast,Web,569,0,20,589,70,Delivered,4,Cash
+F00878,2025-11-10,R080,U0387,Kolkata,Late Night,App,1097,0.1,20,1007.3,30,Delivered,0,Card
+F00879,2025-11-02,R009,U0449,Delhi,Late Night,Web,908,0.05,15,877.6,20,Delivered,4,UPI
+F00880,2025-10-12,R057,U0115,Pune,Breakfast,App,654,0.2,35,558.2,25,Delivered,5,Card
+F00881,2025-07-04,R043,U0409,Kolkata,Late Night,Web,1361,0.1,20,1244.9,67,Delivered,4,Cash
+F00882,2025-11-02,R049,U0368,Kolkata,Lunch,App,905,0.15,30,799.25,58,Delivered,3,Cash
+F00883,2025-09-25,R011,U0418,Kolkata,Dinner,Web,1113,0.05,30,1087.35,46,Refunded,0,UPI
+F00884,2025-04-03,R038,U0301,Pune,Breakfast,App,1204,0.15,20,1043.4,28,Delivered,5,Card
+F00885,2025-08-19,R013,U0088,Mumbai,Breakfast,Web,246,0.2,20,216.8,65,Cancelled,0,Card
+F00886,2025-11-11,R010,U0259,Kolkata,Late Night,App,259,0.1,30,263.1,72,Delivered,5,Card
+F00887,2025-04-30,R016,U0431,Mumbai,Late Night,Web,383,0.2,35,341.4,69,Delivered,3,Card
+F00888,2025-12-30,R005,U0116,Mumbai,Late Night,Web,655,0.05,15,637.25,54,Cancelled,0,Wallet
+F00889,2025-08-14,R038,U0335,Pune,Late Night,Web,1318,0.1,20,1206.2,44,Delivered,4,Wallet
+F00890,2025-06-09,R002,U0128,Hyderabad,Lunch,App,266,0.1,35,274.4,68,Delivered,3,Cash
+F00891,2025-10-18,R047,U0223,Delhi,Dinner,App,902,0.2,35,756.6,48,Delivered,0,Cash
+F00892,2025-09-11,R076,U0337,Bengaluru,Lunch,App,251,0.2,30,230.8,46,Delivered,0,Cash
+F00893,2025-06-20,R048,U0216,Bengaluru,Late Night,Web,357,0.2,30,315.6,22,Delivered,3,Card
+F00894,2025-08-26,R033,U0173,Bengaluru,Breakfast,Web,1280,0,20,1300,48,Delivered,0,Cash
+F00895,2025-01-18,R034,U0176,Mumbai,Breakfast,App,1371,0,30,1401,62,Delivered,5,Wallet
+F00896,2025-01-20,R001,U0364,Chennai,Breakfast,App,1362,0,20,1382,21,Delivered,5,Cash
+F00897,2025-03-27,R047,U0166,Delhi,Late Night,Web,1131,0,25,1156,64,Delivered,0,Wallet
+F00898,2025-07-23,R012,U0315,Kolkata,Breakfast,Web,848,0.05,30,835.6,57,Delivered,5,Cash
+F00899,2025-05-18,R073,U0238,Mumbai,Dinner,Web,929,0.15,20,809.65,43,Delivered,4,UPI
+F00900,2025-03-31,R004,U0351,Kolkata,Lunch,Web,1231,0.2,35,1019.8,33,Delivered,4,UPI
+F00901,2025-02-05,R074,U0220,Delhi,Late Night,Web,525,0.05,15,513.75,28,Delivered,5,Cash
+F00902,2025-05-10,R053,U0089,Pune,Late Night,App,1084,0,15,1099,43,Delivered,3,Cash
+F00903,2025-04-08,R051,U0337,Mumbai,Breakfast,Web,1376,0,25,1401,18,Delivered,4,Wallet
+F00904,2025-04-20,R001,U0197,Chennai,Lunch,Web,577,0.2,30,491.6,25,Delivered,0,Cash
+F00905,2025-03-06,R073,U0367,Mumbai,Lunch,App,1323,0.05,20,1276.85,74,Delivered,0,UPI
+F00906,2025-11-11,R068,U0449,Kolkata,Dinner,Web,641,0,30,671,68,Delivered,5,Card
+F00907,2025-11-24,R035,U0358,Bengaluru,Lunch,Web,1149,0.2,20,939.2,68,Delivered,3,Wallet
+F00908,2025-04-23,R056,U0090,Hyderabad,Late Night,App,1119,0.05,30,1093.05,66,Delivered,3,Card
+F00909,2025-08-01,R027,U0235,Chennai,Dinner,App,387,0,15,402,24,Delivered,3,Wallet
+F00910,2025-11-21,R050,U0321,Bengaluru,Breakfast,Web,221,0,25,246,23,Delivered,4,UPI
+F00911,2025-01-14,R052,U0446,Delhi,Late Night,App,569,0.15,20,503.65,56,Delivered,0,UPI
+F00912,2025-11-10,R077,U0094,Delhi,Late Night,Web,515,0.1,15,478.5,34,Delivered,3,Wallet
+F00913,2025-12-28,R043,U0410,Kolkata,Lunch,App,1126,0,25,1151,71,Delivered,0,Wallet
+F00914,2025-07-22,R032,U0241,Chennai,Dinner,App,330,0.15,35,315.5,28,Delivered,3,Wallet
+F00915,2025-05-25,R002,U0244,Hyderabad,Late Night,Web,1036,0.05,15,999.2,60,Delivered,3,Cash
+F00916,2025-05-30,R071,U0134,Pune,Breakfast,App,258,0.15,30,249.3,72,Delivered,3,UPI
+F00917,2025-06-20,R028,U0045,Chennai,Breakfast,Web,370,0.2,25,321.0,20,Delivered,5,UPI
+F00918,2025-02-07,R048,U0400,Bengaluru,Dinner,Web,1167,0.05,25,1133.65,44,Delivered,5,Cash
+F00919,2025-11-23,R055,U0409,Mumbai,Breakfast,App,900,0,20,920,53,Delivered,5,Wallet
+F00920,2025-12-04,R029,U0407,Mumbai,Late Night,Web,1101,0.05,30,1075.95,54,Delivered,3,Wallet
+F00921,2025-03-31,R063,U0219,Mumbai,Lunch,App,228,0.15,30,223.8,64,Delivered,5,Cash
+F00922,2025-05-23,R064,U0094,Pune,Late Night,App,1287,0,35,1322,23,Delivered,0,Cash
+F00923,2025-12-18,R046,U0227,Delhi,Lunch,App,231,0.2,20,204.8,27,Delivered,5,Cash
+F00924,2025-01-09,R080,U0435,Kolkata,Dinner,App,817,0.05,15,791.15,22,Delivered,0,Wallet
+F00925,2025-08-07,R010,U0156,Kolkata,Dinner,App,1105,0,35,1140,61,Delivered,4,UPI
+F00926,2025-12-10,R073,U0111,Mumbai,Late Night,App,1240,0.15,25,1079.0,60,Delivered,3,Wallet
+F00927,2025-01-01,R078,U0445,Kolkata,Breakfast,Web,1162,0.2,25,954.6,68,Delivered,0,Card
+F00928,2025-10-22,R051,U0422,Mumbai,Dinner,App,1271,0.2,15,1031.8,45,Delivered,0,Wallet
+F00929,2025-09-09,R069,U0006,Bengaluru,Lunch,App,212,0.2,35,204.6,60,Delivered,3,Wallet
+F00930,2025-08-19,R033,U0262,Bengaluru,Late Night,App,1254,0.05,25,1216.3,23,Delivered,3,Wallet
+F00931,2025-07-16,R065,U0441,Kolkata,Breakfast,App,516,0.1,30,494.4,52,Delivered,5,Cash
+F00932,2025-02-14,R033,U0236,Bengaluru,Breakfast,Web,1165,0.2,35,967.0,26,Delivered,5,Card
+F00933,2025-06-20,R010,U0318,Kolkata,Dinner,Web,1182,0.1,25,1088.8,23,Delivered,4,Wallet
+F00934,2025-07-11,R056,U0201,Hyderabad,Dinner,Web,233,0.15,25,223.05,23,Delivered,5,Card
+F00935,2025-04-27,R013,U0375,Mumbai,Lunch,Web,621,0.15,35,562.85,72,Delivered,4,Cash
+F00936,2025-11-09,R076,U0150,Bengaluru,Lunch,App,779,0.05,35,775.05,24,Refunded,0,UPI
+F00937,2025-02-26,R009,U0299,Delhi,Breakfast,Web,1042,0,15,1057,36,Delivered,3,Wallet
+F00938,2025-01-19,R044,U0195,Mumbai,Dinner,App,231,0.2,25,209.8,63,Delivered,0,UPI
+F00939,2025-06-25,R013,U0405,Mumbai,Breakfast,App,439,0.2,30,381.2,66,Delivered,4,UPI
+F00940,2025-08-27,R067,U0427,Chennai,Late Night,Web,896,0.2,25,741.8,49,Delivered,5,Cash
+F00941,2025-07-17,R056,U0132,Hyderabad,Dinner,App,298,0,20,318,61,Delivered,3,UPI
+F00942,2025-04-09,R062,U0008,Chennai,Dinner,Web,1161,0.15,20,1006.85,60,Delivered,4,Card
+F00943,2025-11-05,R014,U0116,Bengaluru,Dinner,Web,1389,0,25,1414,36,Delivered,0,Card
+F00944,2025-07-01,R059,U0269,Mumbai,Late Night,Web,1128,0.1,30,1045.2,58,Delivered,5,Card
+F00945,2025-08-24,R044,U0218,Mumbai,Dinner,Web,252,0,20,272,55,Delivered,4,Wallet
+F00946,2025-08-15,R018,U0445,Kolkata,Dinner,App,1090,0.2,25,897.0,34,Delivered,4,UPI
+F00947,2025-05-20,R020,U0063,Hyderabad,Breakfast,Web,950,0.05,25,927.5,41,Delivered,0,Cash
+F00948,2025-12-16,R017,U0163,Mumbai,Lunch,Web,1044,0.2,25,860.2,26,Delivered,5,Cash
+F00949,2025-01-09,R065,U0289,Kolkata,Breakfast,Web,614,0.15,30,551.9,27,Cancelled,0,Wallet
+F00950,2025-01-05,R038,U0298,Pune,Late Night,Web,719,0.15,30,641.15,41,Delivered,3,UPI
+F00951,2025-02-06,R043,U0252,Kolkata,Lunch,Web,1224,0.1,15,1116.6,59,Delivered,4,UPI
+F00952,2025-03-20,R054,U0317,Kolkata,Breakfast,App,1246,0.1,25,1146.4,51,Delivered,3,Cash
+F00953,2025-09-06,R020,U0257,Hyderabad,Late Night,Web,867,0,25,892,52,Delivered,4,UPI
+F00954,2025-08-09,R076,U0228,Bengaluru,Lunch,App,661,0.15,20,581.85,62,Delivered,4,Cash
+F00955,2025-11-26,R064,U0082,Pune,Late Night,App,844,0.1,20,779.6,38,Delivered,4,Card
+F00956,2025-10-04,R022,U0224,Delhi,Breakfast,Web,617,0,25,642,48,Delivered,4,Card
+F00957,2025-10-11,R049,U0423,Kolkata,Breakfast,App,286,0.05,25,296.7,31,Delivered,5,Cash
+F00958,2025-03-07,R037,U0299,Mumbai,Dinner,Web,341,0,25,366,57,Delivered,5,Card
+F00959,2025-07-14,R058,U0080,Chennai,Dinner,App,590,0.15,15,516.5,64,Delivered,4,Card
+F00960,2025-11-10,R002,U0190,Hyderabad,Dinner,Web,579,0.05,25,575.05,54,Delivered,0,Wallet
+F00961,2025-09-29,R071,U0331,Pune,Dinner,App,1178,0,25,1203,70,Cancelled,0,UPI
+F00962,2025-01-10,R037,U0410,Mumbai,Breakfast,Web,1354,0.2,25,1108.2,50,Delivered,4,Wallet
+F00963,2025-04-24,R019,U0352,Bengaluru,Breakfast,App,1157,0,35,1192,25,Delivered,5,Cash
+F00964,2025-01-15,R074,U0062,Delhi,Breakfast,Web,1078,0,35,1113,63,Delivered,3,Card
+F00965,2025-06-03,R007,U0066,Delhi,Dinner,App,1296,0,25,1321,45,Delivered,4,Cash
+F00966,2025-01-20,R071,U0404,Pune,Late Night,Web,771,0.1,35,728.9,59,Delivered,0,Card
+F00967,2025-04-25,R077,U0433,Delhi,Late Night,Web,418,0.15,20,375.3,49,Delivered,0,Wallet
+F00968,2025-07-31,R069,U0103,Bengaluru,Late Night,Web,572,0.05,15,558.4,26,Delivered,0,Wallet
+F00969,2025-11-09,R066,U0135,Chennai,Lunch,App,365,0,30,395,44,Delivered,4,UPI
+F00970,2025-12-22,R022,U0039,Delhi,Dinner,App,1106,0,25,1131,52,Delivered,5,Wallet
+F00971,2025-01-13,R079,U0100,Hyderabad,Late Night,App,1133,0.15,30,993.05,40,Delivered,5,Card
+F00972,2025-05-19,R061,U0325,Pune,Lunch,App,467,0.05,30,473.65,57,Delivered,5,Card
+F00973,2025-07-03,R079,U0116,Hyderabad,Late Night,App,198,0.1,35,213.2,62,Delivered,5,UPI
+F00974,2025-08-08,R067,U0181,Chennai,Late Night,App,940,0.1,20,866.0,71,Delivered,0,Cash
+F00975,2025-08-23,R014,U0176,Bengaluru,Breakfast,Web,1016,0.15,35,898.6,51,Delivered,4,Wallet
+F00976,2025-07-22,R029,U0348,Mumbai,Breakfast,App,685,0.05,25,675.75,46,Delivered,0,Card
+F00977,2025-05-13,R057,U0401,Pune,Breakfast,App,1294,0,30,1324,28,Delivered,4,UPI
+F00978,2025-12-22,R017,U0242,Mumbai,Late Night,Web,1134,0.05,25,1102.3,28,Delivered,0,UPI
+F00979,2025-05-12,R069,U0375,Bengaluru,Late Night,Web,1334,0.05,15,1282.3,72,Delivered,5,Cash
+F00980,2025-02-13,R076,U0339,Bengaluru,Late Night,App,308,0.05,35,327.6,72,Delivered,3,Card
+F00981,2025-10-02,R017,U0113,Mumbai,Late Night,App,895,0.15,25,785.75,47,Cancelled,0,UPI
+F00982,2025-08-18,R063,U0434,Mumbai,Dinner,Web,514,0,25,539,24,Delivered,0,Cash
+F00983,2025-01-21,R048,U0147,Bengaluru,Late Night,App,884,0.1,20,815.6,26,Delivered,0,UPI
+F00984,2025-01-03,R052,U0031,Delhi,Breakfast,Web,1146,0.05,20,1108.7,53,Delivered,3,Wallet
+F00985,2025-08-30,R063,U0090,Mumbai,Breakfast,Web,380,0.15,25,348.0,44,Delivered,3,Card
+F00986,2025-09-18,R078,U0168,Kolkata,Breakfast,Web,700,0.1,30,660.0,40,Delivered,4,Card
+F00987,2025-04-10,R028,U0066,Chennai,Lunch,App,1375,0.15,25,1193.75,71,Delivered,3,Cash
+F00988,2025-09-19,R041,U0146,Chennai,Late Night,App,968,0.2,20,794.4,70,Delivered,5,Wallet
+F00989,2025-04-12,R037,U0062,Mumbai,Dinner,App,1380,0.05,35,1346.0,70,Delivered,3,UPI
+F00990,2025-06-09,R032,U0285,Chennai,Lunch,Web,533,0.1,20,499.7,75,Delivered,4,Wallet
+F00991,2025-12-13,R027,U0076,Chennai,Dinner,App,1066,0.15,25,931.1,72,Delivered,5,Cash
+F00992,2025-01-03,R072,U0066,Mumbai,Breakfast,App,724,0.05,25,712.8,27,Delivered,4,UPI
+F00993,2025-02-04,R051,U0048,Mumbai,Breakfast,App,1190,0,35,1225,27,Delivered,0,Wallet
+F00994,2025-02-15,R058,U0308,Chennai,Breakfast,Web,1300,0.1,35,1205.0,28,Refunded,0,UPI
+F00995,2025-06-27,R012,U0361,Kolkata,Late Night,App,474,0,30,504,30,Delivered,3,Wallet
+F00996,2025-12-17,R030,U0012,Chennai,Breakfast,App,555,0.1,30,529.5,65,Delivered,5,Wallet
+F00997,2025-04-10,R039,U0249,Kolkata,Lunch,Web,561,0.05,35,567.95,45,Delivered,5,UPI
+F00998,2025-02-16,R025,U0062,Mumbai,Dinner,App,1255,0.15,15,1081.75,29,Delivered,3,UPI
+F00999,2025-02-12,R062,U0389,Chennai,Lunch,Web,1351,0.1,15,1230.9,52,Delivered,0,Card
+F01000,2025-08-01,R007,U0354,Delhi,Breakfast,App,184,0.05,25,199.8,44,Delivered,0,UPI

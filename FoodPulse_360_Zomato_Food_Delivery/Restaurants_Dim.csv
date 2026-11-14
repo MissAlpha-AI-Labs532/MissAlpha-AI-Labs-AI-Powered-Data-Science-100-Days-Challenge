@@ -1,0 +1,81 @@
+﻿Restaurant_ID,Restaurant_City,Cuisine,Restaurant_Rating
+R001,Chennai,Cafe,4.9
+R002,Hyderabad,South Indian,3.8
+R003,Kolkata,Chinese,3.2
+R004,Kolkata,South Indian,3.3
+R005,Mumbai,Italian,4.1
+R006,Hyderabad,South Indian,4.2
+R007,Delhi,Fast Food,3.3
+R008,Bengaluru,South Indian,4.2
+R009,Delhi,North Indian,3.7
+R010,Kolkata,Cafe,4.3
+R011,Kolkata,North Indian,3.9
+R012,Kolkata,North Indian,3.7
+R013,Mumbai,Cafe,3.5
+R014,Bengaluru,North Indian,3.2
+R015,Kolkata,Fast Food,3.3
+R016,Mumbai,North Indian,4.2
+R017,Mumbai,Biryani,4.4
+R018,Kolkata,Chinese,3.2
+R019,Bengaluru,Italian,3.8
+R020,Hyderabad,South Indian,3.9
+R021,Pune,Biryani,3.4
+R022,Delhi,Fast Food,4.0
+R023,Chennai,South Indian,3.9
+R024,Pune,North Indian,3.8
+R025,Mumbai,North Indian,4.2
+R026,Mumbai,South Indian,4.0
+R027,Chennai,Chinese,4.8
+R028,Chennai,Biryani,3.6
+R029,Mumbai,Biryani,4.8
+R030,Chennai,Chinese,3.8
+R031,Bengaluru,Fast Food,3.3
+R032,Chennai,Cafe,3.8
+R033,Bengaluru,Chinese,4.9
+R034,Mumbai,North Indian,4.1
+R035,Bengaluru,Italian,3.3
+R036,Chennai,South Indian,3.8
+R037,Mumbai,Cafe,4.6
+R038,Pune,South Indian,4.8
+R039,Kolkata,Italian,4.3
+R040,Kolkata,Biryani,4.1
+R041,Chennai,South Indian,4.5
+R042,Delhi,South Indian,4.0
+R043,Kolkata,Cafe,4.8
+R044,Mumbai,Italian,4.3
+R045,Chennai,Cafe,3.4
+R046,Delhi,Italian,3.6
+R047,Delhi,Cafe,4.3
+R048,Bengaluru,Biryani,4.5
+R049,Kolkata,Chinese,3.6
+R050,Bengaluru,Italian,4.4
+R051,Mumbai,Chinese,4.2
+R052,Delhi,Biryani,3.7
+R053,Pune,Italian,4.2
+R054,Kolkata,Chinese,3.4
+R055,Mumbai,South Indian,3.5
+R056,Hyderabad,Italian,3.5
+R057,Pune,South Indian,4.7
+R058,Chennai,Biryani,4.0
+R059,Mumbai,North Indian,4.0
+R060,Kolkata,Fast Food,3.8
+R061,Pune,Biryani,4.2
+R062,Chennai,Chinese,3.8
+R063,Mumbai,Biryani,3.3
+R064,Pune,Italian,3.9
+R065,Kolkata,Cafe,3.7
+R066,Chennai,North Indian,4.0
+R067,Chennai,Cafe,3.2
+R068,Kolkata,Cafe,4.0
+R069,Bengaluru,Fast Food,3.7
+R070,Pune,South Indian,4.8
+R071,Pune,South Indian,3.8
+R072,Mumbai,Biryani,4.6
+R073,Mumbai,Chinese,4.2
+R074,Delhi,North Indian,4.8
+R075,Bengaluru,South Indian,4.7
+R076,Bengaluru,Chinese,4.1
+R077,Delhi,North Indian,3.3
+R078,Kolkata,North Indian,3.3
+R079,Hyderabad,Italian,3.4
+R080,Kolkata,North Indian,4.6
