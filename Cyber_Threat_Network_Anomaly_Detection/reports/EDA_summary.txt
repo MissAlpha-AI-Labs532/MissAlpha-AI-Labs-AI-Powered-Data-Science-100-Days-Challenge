@@ -1,0 +1,28 @@
+EDA SUMMARY — Synthetic network traffic dataset
+Rows: 6,000
+Columns: 16
+Missing cells: 0
+Duplicate rows: 0
+Label distribution:
+label
+Normal       4707
+Malicious    1293
+Protocol distribution:
+protocol
+TCP     4075
+UDP     1608
+ICMP     317
+Threat subtype distribution:
+threat_type
+Normal                 4707
+Brute Force             434
+Port Scan               352
+DoS-like                298
+Suspicious Transfer     209
+
+Observations:
+- The dataset is generated and labelled for demonstration, not collected from live traffic.
+- Login attempts and failed logins are useful signals for brute-force-like activity.
+- Connection rate and packet count can help surface scan/DoS-like patterns.
+- Destination port and protocol provide context for service exposure.
+- IP addresses are best used for investigation/graphing, not as model identifiers.
