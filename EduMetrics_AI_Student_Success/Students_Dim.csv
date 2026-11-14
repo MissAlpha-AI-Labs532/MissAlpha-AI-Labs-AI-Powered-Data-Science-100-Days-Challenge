@@ -1,0 +1,401 @@
+﻿Student_ID,Region,Learner_Type
+STU0001,East,Undergraduate
+STU0002,South,Graduate
+STU0003,Central,Graduate
+STU0004,Central,Graduate
+STU0005,North,Undergraduate
+STU0006,Central,Graduate
+STU0007,East,Undergraduate
+STU0008,East,Graduate
+STU0009,South,Graduate
+STU0010,West,Undergraduate
+STU0011,Central,Undergraduate
+STU0012,West,Working Professional
+STU0013,West,Graduate
+STU0014,North,Working Professional
+STU0015,Central,Working Professional
+STU0016,North,Undergraduate
+STU0017,North,Undergraduate
+STU0018,West,Undergraduate
+STU0019,East,Working Professional
+STU0020,Central,Undergraduate
+STU0021,South,Undergraduate
+STU0022,South,Graduate
+STU0023,South,Undergraduate
+STU0024,North,Working Professional
+STU0025,North,Undergraduate
+STU0026,East,Graduate
+STU0027,East,Graduate
+STU0028,West,Undergraduate
+STU0029,West,Graduate
+STU0030,West,Undergraduate
+STU0031,West,Working Professional
+STU0032,North,Graduate
+STU0033,North,Undergraduate
+STU0034,Central,Graduate
+STU0035,West,Graduate
+STU0036,Central,Working Professional
+STU0037,South,Working Professional
+STU0038,West,Undergraduate
+STU0039,South,Undergraduate
+STU0040,West,Undergraduate
+STU0041,North,Graduate
+STU0042,West,Undergraduate
+STU0043,Central,Working Professional
+STU0044,East,Graduate
+STU0045,South,Working Professional
+STU0046,West,Working Professional
+STU0047,North,Graduate
+STU0048,South,Undergraduate
+STU0049,East,Undergraduate
+STU0050,West,Graduate
+STU0051,West,Working Professional
+STU0052,Central,Working Professional
+STU0053,North,Undergraduate
+STU0054,East,Working Professional
+STU0055,West,Graduate
+STU0056,South,Undergraduate
+STU0057,West,Graduate
+STU0058,South,Working Professional
+STU0059,East,Working Professional
+STU0060,North,Working Professional
+STU0061,East,Undergraduate
+STU0062,Central,Working Professional
+STU0063,East,Graduate
+STU0064,North,Undergraduate
+STU0065,West,Graduate
+STU0066,East,Working Professional
+STU0067,South,Undergraduate
+STU0068,West,Working Professional
+STU0069,Central,Working Professional
+STU0070,East,Working Professional
+STU0071,West,Working Professional
+STU0072,Central,Graduate
+STU0073,Central,Working Professional
+STU0074,North,Working Professional
+STU0075,Central,Working Professional
+STU0076,North,Undergraduate
+STU0077,South,Working Professional
+STU0078,West,Working Professional
+STU0079,West,Undergraduate
+STU0080,East,Working Professional
+STU0081,East,Undergraduate
+STU0082,South,Graduate
+STU0083,Central,Graduate
+STU0084,Central,Graduate
+STU0085,South,Undergraduate
+STU0086,East,Graduate
+STU0087,East,Working Professional
+STU0088,West,Graduate
+STU0089,North,Undergraduate
+STU0090,Central,Working Professional
+STU0091,North,Undergraduate
+STU0092,East,Graduate
+STU0093,West,Graduate
+STU0094,South,Graduate
+STU0095,North,Undergraduate
+STU0096,North,Working Professional
+STU0097,West,Undergraduate
+STU0098,East,Undergraduate
+STU0099,Central,Graduate
+STU0100,East,Graduate
+STU0101,West,Undergraduate
+STU0102,Central,Working Professional
+STU0103,North,Undergraduate
+STU0104,East,Undergraduate
+STU0105,North,Undergraduate
+STU0106,Central,Working Professional
+STU0107,Central,Graduate
+STU0108,East,Graduate
+STU0109,South,Working Professional
+STU0110,East,Undergraduate
+STU0111,East,Graduate
+STU0112,West,Undergraduate
+STU0113,East,Graduate
+STU0114,North,Undergraduate
+STU0115,South,Undergraduate
+STU0116,North,Undergraduate
+STU0117,West,Graduate
+STU0118,Central,Undergraduate
+STU0119,South,Undergraduate
+STU0120,East,Working Professional
+STU0121,East,Graduate
+STU0122,West,Undergraduate
+STU0123,North,Undergraduate
+STU0124,East,Graduate
+STU0125,South,Undergraduate
+STU0126,North,Graduate
+STU0127,North,Graduate
+STU0128,North,Graduate
+STU0129,South,Graduate
+STU0130,West,Working Professional
+STU0131,South,Working Professional
+STU0132,East,Undergraduate
+STU0133,North,Working Professional
+STU0134,East,Undergraduate
+STU0135,South,Undergraduate
+STU0136,Central,Undergraduate
+STU0137,North,Undergraduate
+STU0138,South,Undergraduate
+STU0139,North,Working Professional
+STU0140,Central,Graduate
+STU0141,East,Working Professional
+STU0142,East,Graduate
+STU0143,South,Graduate
+STU0144,South,Working Professional
+STU0145,South,Working Professional
+STU0146,West,Undergraduate
+STU0147,Central,Working Professional
+STU0148,Central,Graduate
+STU0149,East,Graduate
+STU0150,North,Working Professional
+STU0151,West,Graduate
+STU0152,East,Working Professional
+STU0153,West,Graduate
+STU0154,Central,Graduate
+STU0155,North,Graduate
+STU0156,South,Working Professional
+STU0157,North,Graduate
+STU0158,North,Graduate
+STU0159,West,Working Professional
+STU0160,South,Graduate
+STU0161,East,Undergraduate
+STU0162,Central,Undergraduate
+STU0163,East,Undergraduate
+STU0164,Central,Graduate
+STU0165,East,Graduate
+STU0166,Central,Undergraduate
+STU0167,South,Undergraduate
+STU0168,East,Working Professional
+STU0169,West,Graduate
+STU0170,East,Undergraduate
+STU0171,Central,Working Professional
+STU0172,North,Graduate
+STU0173,South,Working Professional
+STU0174,North,Working Professional
+STU0175,Central,Graduate
+STU0176,Central,Graduate
+STU0177,North,Undergraduate
+STU0178,North,Working Professional
+STU0179,East,Working Professional
+STU0180,North,Working Professional
+STU0181,Central,Undergraduate
+STU0182,North,Graduate
+STU0183,West,Working Professional
+STU0184,North,Undergraduate
+STU0185,West,Undergraduate
+STU0186,North,Graduate
+STU0187,West,Working Professional
+STU0188,East,Undergraduate
+STU0189,North,Working Professional
+STU0190,East,Graduate
+STU0191,West,Undergraduate
+STU0192,Central,Undergraduate
+STU0193,East,Undergraduate
+STU0194,Central,Undergraduate
+STU0195,Central,Working Professional
+STU0196,North,Graduate
+STU0197,North,Graduate
+STU0198,Central,Graduate
+STU0199,South,Graduate
+STU0200,West,Working Professional
+STU0201,North,Graduate
+STU0202,East,Undergraduate
+STU0203,Central,Undergraduate
+STU0204,South,Graduate
+STU0205,South,Undergraduate
+STU0206,North,Working Professional
+STU0207,North,Working Professional
+STU0208,Central,Working Professional
+STU0209,Central,Undergraduate
+STU0210,Central,Graduate
+STU0211,North,Undergraduate
+STU0212,South,Undergraduate
+STU0213,East,Graduate
+STU0214,South,Graduate
+STU0215,West,Graduate
+STU0216,South,Undergraduate
+STU0217,South,Undergraduate
+STU0218,Central,Graduate
+STU0219,Central,Undergraduate
+STU0220,West,Working Professional
+STU0221,North,Working Professional
+STU0222,North,Working Professional
+STU0223,Central,Working Professional
+STU0224,Central,Working Professional
+STU0225,Central,Graduate
+STU0226,Central,Graduate
+STU0227,North,Graduate
+STU0228,South,Working Professional
+STU0229,East,Working Professional
+STU0230,East,Undergraduate
+STU0231,East,Graduate
+STU0232,Central,Working Professional
+STU0233,Central,Undergraduate
+STU0234,Central,Working Professional
+STU0235,West,Undergraduate
+STU0236,South,Working Professional
+STU0237,North,Working Professional
+STU0238,West,Undergraduate
+STU0239,Central,Graduate
+STU0240,South,Graduate
+STU0241,South,Undergraduate
+STU0242,South,Graduate
+STU0243,North,Working Professional
+STU0244,South,Working Professional
+STU0245,South,Graduate
+STU0246,West,Graduate
+STU0247,North,Undergraduate
+STU0248,West,Working Professional
+STU0249,South,Graduate
+STU0250,South,Undergraduate
+STU0251,West,Working Professional
+STU0252,West,Working Professional
+STU0253,South,Undergraduate
+STU0254,North,Working Professional
+STU0255,South,Graduate
+STU0256,East,Undergraduate
+STU0257,North,Working Professional
+STU0258,South,Working Professional
+STU0259,South,Working Professional
+STU0260,East,Working Professional
+STU0261,North,Working Professional
+STU0262,Central,Graduate
+STU0263,North,Undergraduate
+STU0264,South,Undergraduate
+STU0265,South,Working Professional
+STU0266,East,Undergraduate
+STU0267,East,Graduate
+STU0268,North,Graduate
+STU0269,West,Working Professional
+STU0270,Central,Graduate
+STU0271,East,Graduate
+STU0272,South,Graduate
+STU0273,North,Undergraduate
+STU0274,East,Undergraduate
+STU0275,West,Working Professional
+STU0276,West,Graduate
+STU0277,North,Graduate
+STU0278,West,Graduate
+STU0279,North,Graduate
+STU0280,East,Undergraduate
+STU0281,West,Working Professional
+STU0282,West,Graduate
+STU0283,Central,Working Professional
+STU0284,East,Undergraduate
+STU0285,North,Graduate
+STU0286,North,Working Professional
+STU0287,West,Working Professional
+STU0288,East,Graduate
+STU0289,West,Working Professional
+STU0290,South,Undergraduate
+STU0291,West,Undergraduate
+STU0292,West,Working Professional
+STU0293,North,Undergraduate
+STU0294,Central,Working Professional
+STU0295,East,Working Professional
+STU0296,South,Graduate
+STU0297,North,Graduate
+STU0298,Central,Working Professional
+STU0299,South,Graduate
+STU0300,South,Graduate
+STU0301,Central,Undergraduate
+STU0302,North,Undergraduate
+STU0303,West,Undergraduate
+STU0304,Central,Working Professional
+STU0305,East,Working Professional
+STU0306,North,Undergraduate
+STU0307,South,Undergraduate
+STU0308,East,Graduate
+STU0309,West,Undergraduate
+STU0310,North,Working Professional
+STU0311,East,Working Professional
+STU0312,Central,Graduate
+STU0313,North,Graduate
+STU0314,North,Undergraduate
+STU0315,Central,Graduate
+STU0316,North,Graduate
+STU0317,Central,Working Professional
+STU0318,North,Graduate
+STU0319,West,Graduate
+STU0320,South,Working Professional
+STU0321,Central,Graduate
+STU0322,North,Undergraduate
+STU0323,East,Working Professional
+STU0324,North,Undergraduate
+STU0325,West,Graduate
+STU0326,South,Graduate
+STU0327,East,Graduate
+STU0328,West,Undergraduate
+STU0329,West,Graduate
+STU0330,West,Undergraduate
+STU0331,South,Working Professional
+STU0332,West,Undergraduate
+STU0333,East,Working Professional
+STU0334,South,Working Professional
+STU0335,South,Working Professional
+STU0336,Central,Graduate
+STU0337,North,Working Professional
+STU0338,North,Working Professional
+STU0339,South,Undergraduate
+STU0340,Central,Working Professional
+STU0341,Central,Working Professional
+STU0342,East,Working Professional
+STU0343,South,Working Professional
+STU0344,South,Working Professional
+STU0345,Central,Undergraduate
+STU0346,Central,Graduate
+STU0347,North,Working Professional
+STU0348,North,Working Professional
+STU0349,North,Undergraduate
+STU0350,North,Graduate
+STU0351,West,Working Professional
+STU0352,South,Graduate
+STU0353,North,Undergraduate
+STU0354,East,Undergraduate
+STU0355,Central,Undergraduate
+STU0356,East,Working Professional
+STU0357,West,Undergraduate
+STU0358,East,Graduate
+STU0359,North,Undergraduate
+STU0360,North,Graduate
+STU0361,Central,Undergraduate
+STU0362,South,Undergraduate
+STU0363,North,Graduate
+STU0364,Central,Graduate
+STU0365,West,Working Professional
+STU0366,North,Undergraduate
+STU0367,Central,Undergraduate
+STU0368,North,Graduate
+STU0369,East,Undergraduate
+STU0370,East,Working Professional
+STU0371,West,Graduate
+STU0372,South,Graduate
+STU0373,South,Working Professional
+STU0374,West,Undergraduate
+STU0375,Central,Undergraduate
+STU0376,West,Graduate
+STU0377,Central,Working Professional
+STU0378,South,Graduate
+STU0379,Central,Graduate
+STU0380,South,Working Professional
+STU0381,West,Graduate
+STU0382,North,Graduate
+STU0383,West,Working Professional
+STU0384,North,Undergraduate
+STU0385,North,Graduate
+STU0386,North,Undergraduate
+STU0387,South,Graduate
+STU0388,North,Undergraduate
+STU0389,North,Graduate
+STU0390,South,Undergraduate
+STU0391,North,Undergraduate
+STU0392,West,Undergraduate
+STU0393,East,Graduate
+STU0394,East,Graduate
+STU0395,North,Undergraduate
+STU0396,Central,Working Professional
+STU0397,South,Working Professional
+STU0398,Central,Graduate
+STU0399,West,Undergraduate
+STU0400,South,Working Professional
