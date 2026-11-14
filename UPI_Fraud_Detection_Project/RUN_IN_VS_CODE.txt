@@ -1,0 +1,37 @@
+RUN THIS PROJECT IN VISUAL STUDIO CODE (WINDOWS)
+
+1. Extract UPI_Fraud_Detection_Project.zip.
+2. Open VS Code.
+3. Select File > Open Folder and choose UPI_Fraud_Detection_Project.
+4. Open Terminal > New Terminal.
+5. Create environment:
+   python -m venv .venv
+6. Activate it in PowerShell:
+   .venv\Scripts\Activate.ps1
+   If PowerShell blocks activation, use CMD terminal:
+   .venv\Scripts\activate.bat
+   Or Git Bash:
+   source .venv/Scripts/activate
+7. Install packages:
+   python -m pip install --upgrade pip
+   pip install -r requirements.txt
+8. Run in this order:
+   python src/prepare_data.py
+   python src/eda.py
+   python src/train_model.py
+   streamlit run app.py
+9. Streamlit prints a local URL, usually http://localhost:8501.
+
+To use a downloaded CSV:
+- Put it inside data/raw/, for example data/raw/upi_transactions.csv
+- Run:
+  python src/prepare_data.py --input data/raw/upi_transactions.csv
+- If the fraud label or amount column has a different name, add its mapping to ALIASES in src/prepare_data.py.
+- Check the dataset documentation and licence. Never publish private financial data.
+
+Troubleshooting:
+- If 'python' is not recognized, install Python 3.10 or newer and enable Add Python to PATH.
+- If a package installation fails, check internet access and run pip install -r requirements.txt again.
+- If XGBoost is missing, run pip install xgboost.
+- If Streamlit is missing, run pip install streamlit.
+- If a column error appears, inspect the CSV header and update the ALIASES mapping.

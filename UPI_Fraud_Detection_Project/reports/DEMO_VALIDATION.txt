@@ -1,0 +1,12 @@
+DEMO PIPELINE VALIDATION
+-----------------------
+Validated successfully using the included generated demonstration CSV:
+- Data preparation script completed.
+- EDA script completed and saved chart images and summary CSV.
+- Isolation Forest and XGBoost training completed.
+- Model files and evaluation JSON were generated.
+- Python source files passed syntax parsing.
+
+This validates the starter pipeline only. It does NOT validate performance on real UPI fraud.
+The Streamlit package is listed in requirements.txt and must be installed in the VS Code
+virtual environment before running `streamlit run app.py`.

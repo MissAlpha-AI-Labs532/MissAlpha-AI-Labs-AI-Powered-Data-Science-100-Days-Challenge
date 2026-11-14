@@ -1,0 +1,89 @@
+{
+  "isolation_forest": {
+    "accuracy": 0.56,
+    "precision": 0.1292517006802721,
+    "recall": 0.8260869565217391,
+    "f1_score": 0.2235294117647059,
+    "confusion_matrix": [
+      [
+        149,
+        128
+      ],
+      [
+        4,
+        19
+      ]
+    ],
+    "classification_report": {
+      "0": {
+        "precision": 0.9738562091503268,
+        "recall": 0.5379061371841155,
+        "f1-score": 0.6930232558139535,
+        "support": 277.0
+      },
+      "1": {
+        "precision": 0.1292517006802721,
+        "recall": 0.8260869565217391,
+        "f1-score": 0.2235294117647059,
+        "support": 23.0
+      },
+      "accuracy": 0.56,
+      "macro avg": {
+        "precision": 0.5515539549152995,
+        "recall": 0.6819965468529273,
+        "f1-score": 0.4582763337893297,
+        "support": 300.0
+      },
+      "weighted avg": {
+        "precision": 0.9091031968342893,
+        "recall": 0.56,
+        "f1-score": 0.657028727770178,
+        "support": 300.0
+      }
+    }
+  },
+  "xgboost": {
+    "accuracy": 0.9233333333333333,
+    "precision": 0.5,
+    "recall": 0.43478260869565216,
+    "f1_score": 0.46511627906976744,
+    "confusion_matrix": [
+      [
+        267,
+        10
+      ],
+      [
+        13,
+        10
+      ]
+    ],
+    "classification_report": {
+      "0": {
+        "precision": 0.9535714285714286,
+        "recall": 0.9638989169675091,
+        "f1-score": 0.9587073608617595,
+        "support": 277.0
+      },
+      "1": {
+        "precision": 0.5,
+        "recall": 0.43478260869565216,
+        "f1-score": 0.46511627906976744,
+        "support": 23.0
+      },
+      "accuracy": 0.9233333333333333,
+      "macro avg": {
+        "precision": 0.7267857142857144,
+        "recall": 0.6993407628315806,
+        "f1-score": 0.7119118199657635,
+        "support": 300.0
+      },
+      "weighted avg": {
+        "precision": 0.9187976190476191,
+        "recall": 0.9233333333333333,
+        "f1-score": 0.9208653779243734,
+        "support": 300.0
+      }
+    },
+    "roc_auc": 0.8276565688274996
+  }
+}
