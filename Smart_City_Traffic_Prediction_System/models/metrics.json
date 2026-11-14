@@ -1,0 +1,70 @@
+{
+  "accuracy": 0.8658,
+  "classification_report": {
+    "High": {
+      "precision": 0.14285714285714285,
+      "recall": 0.2857142857142857,
+      "f1-score": 0.19047619047619047,
+      "support": 14.0
+    },
+    "Low": {
+      "precision": 0.986159169550173,
+      "recall": 0.8724489795918368,
+      "f1-score": 0.9258256632376828,
+      "support": 980.0
+    },
+    "Medium": {
+      "precision": 0.5901639344262295,
+      "recall": 0.8737864077669902,
+      "f1-score": 0.7045009784735812,
+      "support": 206.0
+    },
+    "accuracy": 0.8658333333333333,
+    "macro avg": {
+      "precision": 0.5730600822778484,
+      "recall": 0.6773165576910376,
+      "f1-score": 0.6069342773958182,
+      "support": 1200.0
+    },
+    "weighted avg": {
+      "precision": 0.9083414638758107,
+      "recall": 0.8658333333333333,
+      "f1-score": 0.8792525151709614,
+      "support": 1200.0
+    }
+  },
+  "confusion_matrix": [
+    [
+      855,
+      115,
+      10
+    ],
+    [
+      12,
+      180,
+      14
+    ],
+    [
+      0,
+      10,
+      4
+    ]
+  ],
+  "labels": [
+    "Low",
+    "Medium",
+    "High"
+  ],
+  "test_rows": 1200,
+  "features": [
+    "hour",
+    "day_of_week",
+    "month",
+    "is_weekend",
+    "location",
+    "weather",
+    "road_capacity",
+    "special_event"
+  ],
+  "note": "Performance is measured on a synthetic demonstration dataset."
+}
